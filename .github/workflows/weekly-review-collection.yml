@@ -1,0 +1,57 @@
+name: Weekly Blinkit review collection
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC (11:30 IST during standard time).
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install collector dependencies
+        run: npm ci
+
+      - name: Refresh public-review corpus and dashboard
+        run: npm run refresh:reviews
+
+      - name: AI-screen the next safe batch
+        if: ${{ secrets.GEMINI_API_KEY != '' || secrets.GROQ_API_KEY != '' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          AI_MAX_REVIEWS_PER_RUN: 200
+          AI_SCOPE: keyword_relevant
+        run: |
+          npm run refresh:ai
+
+      - name: Archive weekly evidence snapshot
+        run: npm run archive:reviews
+
+      - name: Detect emerging themes
+        if: ${{ secrets.GEMINI_API_KEY != '' || secrets.GROQ_API_KEY != '' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: npm run detect:emerging
+
+      - name: Commit refreshed dataset
+        run: |
+          git config user.name "blinkit-review-bot"
+          git config user.email "actions@github.com"
+          git add data index.html discovery-lens.html priority-radar.html evidence-library.html copilot.html review-library.html
+          git diff --staged --quiet || git commit -m "chore: refresh weekly review dataset"
+          git push

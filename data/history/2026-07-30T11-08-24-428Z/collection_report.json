@@ -1,0 +1,14 @@
+{
+  "collected_at": "2026-07-30T11:08:10.557Z",
+  "cutoff_date": "2026-06-30T11:08:06.025Z",
+  "cap_per_store": 1000,
+  "app_store": {
+    "newest_reviews_collected": 500,
+    "reviews_in_last_30_days": 500
+  },
+  "google_play": {
+    "newest_reviews_collected": 1000,
+    "reviews_in_last_30_days": 1000
+  },
+  "note": "Counts reflect reviews publicly retrievable from India storefronts at collection time; store APIs may paginate, regionalize, rate-limit, or omit content."
+}

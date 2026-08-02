@@ -1,0 +1,203 @@
+{
+  "screened_at": "2026-07-30T11:13:50.049Z",
+  "total_downloaded": 3000,
+  "in_scope_for_category_discovery_analysis": 668,
+  "excluded_from_themed_analysis": 2332,
+  "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
+  "source_breakdown": {
+    "Apple App Store (IN)": {
+      "downloaded": 500,
+      "in_scope": 117,
+      "excluded": 383
+    },
+    "Apple App Store (AE)": {
+      "downloaded": 215,
+      "in_scope": 66,
+      "excluded": 149
+    },
+    "Apple App Store (US)": {
+      "downloaded": 500,
+      "in_scope": 161,
+      "excluded": 339
+    },
+    "Apple App Store (CA)": {
+      "downloaded": 150,
+      "in_scope": 47,
+      "excluded": 103
+    },
+    "Apple App Store (AU)": {
+      "downloaded": 226,
+      "in_scope": 69,
+      "excluded": 157
+    },
+    "Apple App Store (GB)": {
+      "downloaded": 204,
+      "in_scope": 57,
+      "excluded": 147
+    },
+    "Apple App Store (SA)": {
+      "downloaded": 66,
+      "in_scope": 21,
+      "excluded": 45
+    },
+    "Apple App Store (DE)": {
+      "downloaded": 36,
+      "in_scope": 10,
+      "excluded": 26
+    },
+    "Apple App Store (NL)": {
+      "downloaded": 11,
+      "in_scope": 3,
+      "excluded": 8
+    },
+    "Apple App Store (NZ)": {
+      "downloaded": 22,
+      "in_scope": 7,
+      "excluded": 15
+    },
+    "Apple App Store (SE)": {
+      "downloaded": 3,
+      "in_scope": 3,
+      "excluded": 0
+    },
+    "Apple App Store (HK)": {
+      "downloaded": 14,
+      "in_scope": 2,
+      "excluded": 12
+    },
+    "Apple App Store (ES)": {
+      "downloaded": 5,
+      "in_scope": 1,
+      "excluded": 4
+    },
+    "Apple App Store (MY)": {
+      "downloaded": 16,
+      "in_scope": 4,
+      "excluded": 12
+    },
+    "Apple App Store (MX)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (IT)": {
+      "downloaded": 6,
+      "in_scope": 2,
+      "excluded": 4
+    },
+    "Apple App Store (CH)": {
+      "downloaded": 4,
+      "in_scope": 2,
+      "excluded": 2
+    },
+    "Apple App Store (BR)": {
+      "downloaded": 10,
+      "in_scope": 2,
+      "excluded": 8
+    },
+    "Apple App Store (FR)": {
+      "downloaded": 8,
+      "in_scope": 2,
+      "excluded": 6
+    },
+    "Google Play (India)": {
+      "downloaded": 1000,
+      "in_scope": 92,
+      "excluded": 908
+    }
+  },
+  "theme_definitions": [
+    {
+      "name": "Discovery or navigation",
+      "terms": [
+        "discover",
+        "browse",
+        "search",
+        "find",
+        "category",
+        "categories",
+        "recommend",
+        "suggest",
+        "homepage",
+        "home page",
+        "navigation",
+        "interface",
+        "app layout"
+      ]
+    },
+    {
+      "name": "Habit or repeat purchase",
+      "terms": [
+        "reorder",
+        "re-order",
+        "repeat",
+        "regularly",
+        "every day",
+        "every week",
+        "daily",
+        "usual",
+        "routine",
+        "always order"
+      ]
+    },
+    {
+      "name": "Category or product exploration",
+      "terms": [
+        "grocery",
+        "groceries",
+        "snack",
+        "beverage",
+        "personal care",
+        "skincare",
+        "skin care",
+        "cosmetic",
+        "baby",
+        "diaper",
+        "pet",
+        "dog food",
+        "cat food",
+        "household",
+        "cleaning",
+        "electronics",
+        "medicine",
+        "product range",
+        "variety",
+        "brand"
+      ]
+    },
+    {
+      "name": "Trial confidence",
+      "terms": [
+        "quality",
+        "genuine",
+        "original",
+        "fake",
+        "expiry",
+        "expired",
+        "fresh",
+        "damaged",
+        "wrong item",
+        "wrong product",
+        "price",
+        "expensive",
+        "overpriced",
+        "rating",
+        "review"
+      ]
+    },
+    {
+      "name": "Availability or substitution",
+      "terms": [
+        "available",
+        "availability",
+        "out of stock",
+        "stock",
+        "missing",
+        "cancel",
+        "cancelled",
+        "substitut",
+        "not delivered"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "screened_at": "2026-08-02T07:55:48.488Z",
+  "total_downloaded": 22500,
+  "in_scope_for_category_discovery_analysis": 1185,
+  "excluded_from_themed_analysis": 21315,
+  "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
+  "source_breakdown": {
+    "Apple App Store (IN)": {
+      "downloaded": 500,
+      "in_scope": 39,
+      "excluded": 461
+    },
+    "Apple App Store (US)": {
+      "downloaded": 500,
+      "in_scope": 60,
+      "excluded": 440
+    },
+    "Apple App Store (AE)": {
+      "downloaded": 215,
+      "in_scope": 32,
+      "excluded": 183
+    },
+    "Apple App Store (SG)": {
+      "downloaded": 262,
+      "in_scope": 16,
+      "excluded": 246
+    },
+    "Apple App Store (CA)": {
+      "downloaded": 278,
+      "in_scope": 42,
+      "excluded": 236
+    },
+    "Apple App Store (AU)": {
+      "downloaded": 226,
+      "in_scope": 26,
+      "excluded": 200
+    },
+    "Apple App Store (GB)": {
+      "downloaded": 205,
+      "in_scope": 22,
+      "excluded": 183
+    },
+    "Apple App Store (SA)": {
+      "downloaded": 66,
+      "in_scope": 3,
+      "excluded": 63
+    },
+    "Apple App Store (PH)": {
+      "downloaded": 12,
+      "in_scope": 0,
+      "excluded": 12
+    },
+    "Apple App Store (DE)": {
+      "downloaded": 36,
+      "in_scope": 5,
+      "excluded": 31
+    },
+    "Apple App Store (NL)": {
+      "downloaded": 11,
+      "in_scope": 0,
+      "excluded": 11
+    },
+    "Apple App Store (AT)": {
+      "downloaded": 7,
+      "in_scope": 0,
+      "excluded": 7
+    },
+    "Apple App Store (NZ)": {
+      "downloaded": 22,
+      "in_scope": 3,
+      "excluded": 19
+    },
+    "Apple App Store (SE)": {
+      "downloaded": 3,
+      "in_scope": 3,
+      "excluded": 0
+    },
+    "Apple App Store (TR)": {
+      "downloaded": 8,
+      "in_scope": 1,
+      "excluded": 7
+    },
+    "Apple App Store (HK)": {
+      "downloaded": 14,
+      "in_scope": 1,
+      "excluded": 13
+    },
+    "Apple App Store (ID)": {
+      "downloaded": 19,
+      "in_scope": 2,
+      "excluded": 17
+    },
+    "Apple App Store (KR)": {
+      "downloaded": 17,
+      "in_scope": 2,
+      "excluded": 15
+    },
+    "Apple App Store (ES)": {
+      "downloaded": 5,
+      "in_scope": 0,
+      "excluded": 5
+    },
+    "Apple App Store (TH)": {
+      "downloaded": 19,
+      "in_scope": 2,
+      "excluded": 17
+    },
+    "Apple App Store (MY)": {
+      "downloaded": 16,
+      "in_scope": 1,
+      "excluded": 15
+    },
+    "Apple App Store (MX)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (DK)": {
+      "downloaded": 4,
+      "in_scope": 1,
+      "excluded": 3
+    },
+    "Apple App Store (NO)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (CH)": {
+      "downloaded": 4,
+      "in_scope": 1,
+      "excluded": 3
+    },
+    "Apple App Store (JP)": {
+      "downloaded": 19,
+      "in_scope": 2,
+      "excluded": 17
+    },
+    "Apple App Store (BR)": {
+      "downloaded": 10,
+      "in_scope": 0,
+      "excluded": 10
+    },
+    "Apple App Store (BE)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (PL)": {
+      "downloaded": 2,
+      "in_scope": 0,
+      "excluded": 2
+    },
+    "Apple App Store (FR)": {
+      "downloaded": 8,
+      "in_scope": 0,
+      "excluded": 8
+    },
+    "Google Play (India)": {
+      "downloaded": 20000,
+      "in_scope": 921,
+      "excluded": 19079
+    }
+  },
+  "theme_definitions": [
+    {
+      "name": "Discovery or navigation",
+      "terms": [
+        "discover",
+        "browse",
+        "category",
+        "categories",
+        "recommendation",
+        "recommendations",
+        "suggestion",
+        "suggestions",
+        "homepage",
+        "home page",
+        "navigation",
+        "interface",
+        "app layout",
+        "scrolling"
+      ]
+    },
+    {
+      "name": "Habit or repeat purchase",
+      "terms": [
+        "reorder",
+        "re-order",
+        "repeat",
+        "regularly",
+        "every day",
+        "every week",
+        "daily",
+        "usual",
+        "routine",
+        "always order"
+      ]
+    },
+    {
+      "name": "Category or product exploration",
+      "terms": [
+        "grocery",
+        "groceries",
+        "snack",
+        "beverage",
+        "personal care",
+        "skincare",
+        "skin care",
+        "cosmetic",
+        "baby",
+        "diaper",
+        "pet",
+        "dog food",
+        "cat food",
+        "household",
+        "cleaning",
+        "electronics",
+        "medicine",
+        "product range",
+        "variety",
+        "brand"
+      ]
+    },
+    {
+      "name": "Trial confidence",
+      "terms": [
+        "quality",
+        "genuine",
+        "original",
+        "fake",
+        "expiry",
+        "expired",
+        "fresh",
+        "damaged",
+        "wrong item",
+        "wrong product",
+        "price",
+        "expensive",
+        "overpriced",
+        "rating",
+        "review"
+      ]
+    },
+    {
+      "name": "Availability or substitution",
+      "terms": [
+        "available",
+        "availability",
+        "out of stock",
+        "stock",
+        "missing",
+        "cancel",
+        "cancelled",
+        "substitut",
+        "not delivered"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "screened_at": "2026-07-30T11:08:23.879Z",
+  "total_downloaded": 1500,
+  "in_scope_for_category_discovery_analysis": 209,
+  "excluded_from_themed_analysis": 1291,
+  "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
+  "source_breakdown": {
+    "Apple App Store (India)": {
+      "downloaded": 500,
+      "in_scope": 117,
+      "excluded": 383
+    },
+    "Google Play (India)": {
+      "downloaded": 1000,
+      "in_scope": 92,
+      "excluded": 908
+    }
+  },
+  "theme_definitions": [
+    {
+      "name": "Discovery or navigation",
+      "terms": [
+        "discover",
+        "browse",
+        "search",
+        "find",
+        "category",
+        "categories",
+        "recommend",
+        "suggest",
+        "homepage",
+        "home page",
+        "navigation",
+        "interface",
+        "app layout"
+      ]
+    },
+    {
+      "name": "Habit or repeat purchase",
+      "terms": [
+        "reorder",
+        "re-order",
+        "repeat",
+        "regularly",
+        "every day",
+        "every week",
+        "daily",
+        "usual",
+        "routine",
+        "always order"
+      ]
+    },
+    {
+      "name": "Category or product exploration",
+      "terms": [
+        "grocery",
+        "groceries",
+        "snack",
+        "beverage",
+        "personal care",
+        "skincare",
+        "skin care",
+        "cosmetic",
+        "baby",
+        "diaper",
+        "pet",
+        "dog food",
+        "cat food",
+        "household",
+        "cleaning",
+        "electronics",
+        "medicine",
+        "product range",
+        "variety",
+        "brand"
+      ]
+    },
+    {
+      "name": "Trial confidence",
+      "terms": [
+        "quality",
+        "genuine",
+        "original",
+        "fake",
+        "expiry",
+        "expired",
+        "fresh",
+        "damaged",
+        "wrong item",
+        "wrong product",
+        "price",
+        "expensive",
+        "overpriced",
+        "rating",
+        "review"
+      ]
+    },
+    {
+      "name": "Availability or substitution",
+      "terms": [
+        "available",
+        "availability",
+        "out of stock",
+        "stock",
+        "missing",
+        "cancel",
+        "cancelled",
+        "substitut",
+        "not delivered"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#fffdfb"/>
+<style>
+.title{font:700 31px Arial;fill:#171717}.head{font:700 18px Arial;fill:#c61f45}.body{font:15px Arial;fill:#27272a}.nav{font:700 9px Arial;fill:#252525}
+</style>
+<text x="28" y="45" class="title">The Reorder Loop Is Limiting Blinkit’s Cross-Category Growth</text>
+<line x1="28" y1="65" x2="1252" y2="65" stroke="#ecd5d7"/>
+<text x="1110" y="43" style="font:700 31px Arial;fill:#1f1f1b">blinkit</text><circle cx="1230" cy="32" r="20" fill="#f7d34b"/>
+
+<g stroke="#e6b8bf">
+<rect x="28" y="82" width="398" height="235" rx="16" fill="#fbe8eb"/><rect x="436" y="82" width="398" height="235" rx="16" fill="#fbe8eb"/><rect x="844" y="82" width="408" height="235" rx="16" fill="#fbe8eb"/>
+<rect x="28" y="329" width="398" height="257" rx="16" fill="#fff0e6"/><rect x="436" y="329" width="398" height="257" rx="16" fill="#fff0e6"/><rect x="844" y="329" width="408" height="257" rx="16" fill="#fff0e6"/>
+</g>
+<text x="46" y="108" class="head">What Is the True Problem?</text>
+<text x="46" y="136" class="body"><tspan x="46" dy="0">Customers open Blinkit with a known mission—</tspan><tspan x="46" dy="19">often groceries, snacks or household essentials—</tspan><tspan x="46" dy="19">and reorder familiar categories.</tspan><tspan x="46" dy="27">When a new category appears, confidence can drop</tspan><tspan x="46" dy="19">because quality, price, availability, substitutions</tspan><tspan x="46" dy="19">and returns are hard to judge quickly.</tspan><tspan x="46" dy="27">This can suppress monthly new-category trial.</tspan></text>
+<text x="454" y="108" class="head">Who Faces the Problem?</text>
+<text x="454" y="136" class="body"><tspan x="454" dy="0">Routine replenishment users: repeated monthly</tspan><tspan x="454" dy="19">orders in one or two categories, with little/no</tspan><tspan x="454" dy="19">cross-category trial.</tspan><tspan x="454" dy="27">They value speed and predictability, but may</tspan><tspan x="454" dy="19">experiment when a recommendation feels relevant,</tspan><tspan x="454" dy="19">available and low-risk.</tspan><tspan x="454" dy="27">Validate with 5–6 user interviews.</tspan></text>
+<text x="862" y="108" class="head">How Do We Know It’s Real?</text>
+<text x="862" y="136" class="body"><tspan x="862" dy="0">Directional evidence from 3,000 public App Store</tspan><tspan x="862" dy="19">and Google Play reviews.</tspan><tspan x="862" dy="27">555 records are flagged by keyword screening for</tspan><tspan x="862" dy="19">discovery/category signals; AI validation pending.</tspan><tspan x="862" dy="27">Trust, availability, product-quality and navigation</tspan><tspan x="862" dy="19">concerns recur. Reviews are not causal proof.</tspan></text>
+
+<text x="46" y="356" class="head">Value to the Customer</text>
+<text x="46" y="385" class="body"><tspan x="46" dy="0">• Discover adjacent categories without browsing a</tspan><tspan x="46" dy="19">  huge catalogue.</tspan><tspan x="46" dy="27">• Get confidence cues: brand, rating, price, quality,</tspan><tspan x="46" dy="19">  availability and recovery path.</tspan><tspan x="46" dy="27">• Keep the speed and control of quick commerce.</tspan></text>
+<text x="454" y="356" class="head">Value to the Business</text>
+<text x="454" y="385" class="body"><tspan x="454" dy="0">• Increase monthly active customers buying a new</tspan><tspan x="454" dy="19">  category.</tspan><tspan x="454" dy="27">• Turn routine journeys into relevant discovery.</tspan><tspan x="454" dy="27">• Expand category penetration and basket breadth</tspan><tspan x="454" dy="19">  while protecting trust and repeat frequency.</tspan></text>
+<text x="862" y="356" class="head">Why Solve This Now?</text>
+<text x="862" y="385" class="body"><tspan x="862" dy="0">Quick commerce is already part of weekly routines.</tspan><tspan x="862" dy="27">A weekly review pipeline can surface emerging</tspan><tspan x="862" dy="19">friction and new themes.</tspan><tspan x="862" dy="27">Next gate: validate segment, triggers and barriers</tspan><tspan x="862" dy="19">through 5–6 interviews before scaling.</tspan></text>
+
+<g fill="#f6f3f1" stroke="#353535">
+<rect x="28" y="603" width="116" height="49" rx="10"/><rect x="150" y="603" width="116" height="49" rx="10"/><rect x="272" y="603" width="116" height="49" rx="10"/><rect x="394" y="603" width="116" height="49" rx="10" stroke="#ff355d"/><rect x="516" y="603" width="116" height="49" rx="10"/><rect x="638" y="603" width="116" height="49" rx="10"/><rect x="760" y="603" width="116" height="49" rx="10"/><rect x="882" y="603" width="116" height="49" rx="10"/><rect x="1004" y="603" width="116" height="49" rx="10"/><rect x="1126" y="603" width="126" height="49" rx="10"/>
+</g>
+<text x="28" y="684" style="font:10px Arial;fill:#6b7280">Blinkit discovery engine • Public review corpus + primary research validation pending</text>
+<g class="nav" text-anchor="middle">
+<text x="86" y="620">SLIDE 1<tspan x="86" dy="12">REVIEW ANALYZER</tspan><tspan x="86" dy="10">WORKFLOW</tspan></text><text x="208" y="626">SLIDE 2<tspan x="208" dy="12">USER SEGMENTATION</tspan></text><text x="330" y="626">SLIDE 3<tspan x="330" dy="12">USER RESEARCH</tspan></text><text x="452" y="626">SLIDE 4<tspan x="452" dy="12">PROBLEM FRAMING</tspan></text><text x="574" y="626">SLIDE 5<tspan x="574" dy="12">SOLUTIONS</tspan></text><text x="696" y="626">SLIDE 6<tspan x="696" dy="12">PRIORITIZATION</tspan></text><text x="818" y="626">SLIDE 7<tspan x="818" dy="12">USER FLOW</tspan></text><text x="940" y="626">SLIDE 8<tspan x="940" dy="12">WIREFRAMES</tspan></text><text x="1062" y="626">SLIDE 9<tspan x="1062" dy="12">METRICS</tspan></text><text x="1189" y="626">SLIDE 10<tspan x="1189" dy="12">GTM + RISK</tspan></text>
+</g>
+</svg>
