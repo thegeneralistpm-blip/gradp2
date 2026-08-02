@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-08-02T09:07:19.275Z",
+  "collected_at": "2026-08-02T09:09:14.284Z",
   "limit": 2500,
   "storefronts": [
     "IN",
@@ -34,14 +34,16 @@
     "BE",
     "AT"
   ],
-  "unique_reviews_collected": 49,
+  "previous_reviews_loaded": 2001,
+  "new_unique_reviews_added": 24,
+  "unique_reviews_collected": 2025,
   "breakdown": {
     "IN": 0,
     "GB": 0,
-    "US": 0,
-    "AU": 0,
-    "CA": 0,
-    "NZ": 22,
+    "US": 3,
+    "AU": 1,
+    "CA": 1,
+    "NZ": 0,
     "DE": 0,
     "FR": 0,
     "IT": 0,
@@ -50,13 +52,13 @@
     "SA": 0,
     "SG": 0,
     "HK": 0,
-    "MY": 17,
-    "BR": 10,
+    "MY": 0,
+    "BR": 0,
     "CH": 0,
     "SE": 0,
     "NL": 0,
     "MX": 0,
-    "ID": 0,
+    "ID": 19,
     "PH": 0,
     "TH": 0,
     "JP": 0,
@@ -67,5 +69,6 @@
     "NO": 0,
     "BE": 0,
     "AT": 0
-  }
+  },
+  "note": "New public-feed records are merged with the existing corpus by review_id so partial or rate-limited storefront responses cannot erase previously collected reviews."
 }

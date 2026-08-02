@@ -12,6 +12,17 @@ if (!Number.isInteger(LIMIT) || LIMIT < 1 || LIMIT > 10000) {
 const dataDir = path.join(__dirname, 'data');
 fs.mkdirSync(dataDir, { recursive: true });
 
+function readRecords(fileName) {
+  const filePath = path.join(dataDir, fileName);
+  if (!fs.existsSync(filePath)) return [];
+  try {
+    const value = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    return Array.isArray(value) ? value : [];
+  } catch {
+    return [];
+  }
+}
+
 function getJson(url) {
   return new Promise((resolve, reject) => {
     https.get(url, { headers: { 'User-Agent': 'BlinkitResearchDashboard/1.0' } }, response => {
@@ -28,6 +39,16 @@ function getJson(url) {
 
 (async () => {
   const all = new Map();
+  const seedFiles = [
+    `blinkit_app_store_global_last_${LIMIT}.json`,
+    'blinkit_app_store_global_last_2000.json',
+    'blinkit_app_store_last_1000.json',
+    'blinkit_app_store_last_500.json'
+  ];
+  seedFiles.flatMap(readRecords).forEach(record => {
+    if (record.review_id) all.set(record.review_id, record);
+  });
+  const previousReviewsLoaded = all.size;
   const breakdown = {};
   for (const storefront of STOREFRONTS) {
     let storefrontCount = 0;
@@ -61,8 +82,11 @@ function getJson(url) {
     collected_at: new Date().toISOString(),
     limit: LIMIT,
     storefronts: STOREFRONTS.map(item => item.toUpperCase()),
+    previous_reviews_loaded: previousReviewsLoaded,
+    new_unique_reviews_added: Math.max(0, all.size - previousReviewsLoaded),
     unique_reviews_collected: records.length,
-    breakdown
+    breakdown,
+    note: 'New public-feed records are merged with the existing corpus by review_id so partial or rate-limited storefront responses cannot erase previously collected reviews.'
   }, null, 2));
   console.log(JSON.stringify({ unique_reviews_collected: records.length, breakdown }, null, 2));
 })().catch(error => { console.error(error); process.exit(1); });

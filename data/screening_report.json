@@ -1,8 +1,8 @@
 {
-  "screened_at": "2026-08-02T09:07:20.426Z",
-  "total_downloaded": 20049,
-  "in_scope_for_category_discovery_analysis": 879,
-  "excluded_from_themed_analysis": 19170,
+  "screened_at": "2026-08-02T09:09:42.694Z",
+  "total_downloaded": 22500,
+  "in_scope_for_category_discovery_analysis": 1144,
+  "excluded_from_themed_analysis": 21356,
   "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
   "source_breakdown": {
     "Apple App Store (MY)": {
@@ -10,15 +10,160 @@
       "in_scope": 2,
       "excluded": 15
     },
+    "Apple App Store (CA)": {
+      "downloaded": 278,
+      "in_scope": 42,
+      "excluded": 236
+    },
+    "Apple App Store (AU)": {
+      "downloaded": 226,
+      "in_scope": 25,
+      "excluded": 201
+    },
+    "Apple App Store (US)": {
+      "downloaded": 503,
+      "in_scope": 61,
+      "excluded": 442
+    },
+    "Apple App Store (IN)": {
+      "downloaded": 14,
+      "in_scope": 1,
+      "excluded": 13
+    },
+    "Apple App Store (India)": {
+      "downloaded": 500,
+      "in_scope": 42,
+      "excluded": 458
+    },
+    "Apple App Store (AE)": {
+      "downloaded": 211,
+      "in_scope": 32,
+      "excluded": 179
+    },
+    "Apple App Store (SG)": {
+      "downloaded": 257,
+      "in_scope": 16,
+      "excluded": 241
+    },
+    "Apple App Store (GB)": {
+      "downloaded": 194,
+      "in_scope": 21,
+      "excluded": 173
+    },
+    "Apple App Store (SA)": {
+      "downloaded": 65,
+      "in_scope": 3,
+      "excluded": 62
+    },
+    "Apple App Store (PH)": {
+      "downloaded": 12,
+      "in_scope": 0,
+      "excluded": 12
+    },
+    "Apple App Store (DE)": {
+      "downloaded": 35,
+      "in_scope": 5,
+      "excluded": 30
+    },
+    "Apple App Store (NL)": {
+      "downloaded": 11,
+      "in_scope": 0,
+      "excluded": 11
+    },
+    "Apple App Store (AT)": {
+      "downloaded": 7,
+      "in_scope": 0,
+      "excluded": 7
+    },
     "Apple App Store (NZ)": {
       "downloaded": 22,
       "in_scope": 3,
       "excluded": 19
     },
-    "Apple App Store (BR)": {
-      "downloaded": 10,
+    "Apple App Store (SE)": {
+      "downloaded": 3,
+      "in_scope": 3,
+      "excluded": 0
+    },
+    "Apple App Store (TR)": {
+      "downloaded": 8,
+      "in_scope": 1,
+      "excluded": 7
+    },
+    "Apple App Store (HK)": {
+      "downloaded": 13,
+      "in_scope": 1,
+      "excluded": 12
+    },
+    "Apple App Store (ID)": {
+      "downloaded": 19,
+      "in_scope": 2,
+      "excluded": 17
+    },
+    "Apple App Store (KR)": {
+      "downloaded": 17,
+      "in_scope": 2,
+      "excluded": 15
+    },
+    "Apple App Store (ES)": {
+      "downloaded": 5,
       "in_scope": 0,
-      "excluded": 10
+      "excluded": 5
+    },
+    "Apple App Store (TH)": {
+      "downloaded": 19,
+      "in_scope": 2,
+      "excluded": 17
+    },
+    "Apple App Store (MX)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (DK)": {
+      "downloaded": 4,
+      "in_scope": 1,
+      "excluded": 3
+    },
+    "Apple App Store (NO)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (IT)": {
+      "downloaded": 6,
+      "in_scope": 2,
+      "excluded": 4
+    },
+    "Apple App Store (CH)": {
+      "downloaded": 4,
+      "in_scope": 1,
+      "excluded": 3
+    },
+    "Apple App Store (JP)": {
+      "downloaded": 19,
+      "in_scope": 2,
+      "excluded": 17
+    },
+    "Apple App Store (BR)": {
+      "downloaded": 9,
+      "in_scope": 0,
+      "excluded": 9
+    },
+    "Apple App Store (BE)": {
+      "downloaded": 4,
+      "in_scope": 0,
+      "excluded": 4
+    },
+    "Apple App Store (PL)": {
+      "downloaded": 2,
+      "in_scope": 0,
+      "excluded": 2
+    },
+    "Apple App Store (FR)": {
+      "downloaded": 8,
+      "in_scope": 0,
+      "excluded": 8
     },
     "Google Play (India)": {
       "downloaded": 20000,
