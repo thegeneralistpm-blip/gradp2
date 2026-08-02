@@ -30942,5 +30942,17 @@
     "reason": "The reviewer praises the app for its quality compared to others.",
     "provider": "groq",
     "classified_at": "2026-08-02T08:26:57.075Z"
+  },
+  "e956e8df-cf99-4127-b371-060ddf64101b": {
+    "review_id": "e956e8df-cf99-4127-b371-060ddf64101b",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the app despite some issues with handling charges and availability of cash on delivery.",
+    "provider": "groq",
+    "classified_at": "2026-08-02T08:30:58.666Z"
   }
 }

@@ -305206,11 +305206,21 @@
     "title": "",
     "text": "this app is superb 👍 anything ordered in this app 🌸 but one problem handling charge are costly and sometimes in this app are not available cash on delivery and high demand surge 😞 but ok ok 👌 blinkit do not this not ignored blinkit but I love this app you can install the app 😊 i 🤔 think good aap but I love it thanks .",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=e956e8df-cf99-4127-b371-060ddf64101b",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The user likes the app despite some issues with handling charges and availability of cash on delivery.",
+    "ai": {
+      "review_id": "e956e8df-cf99-4127-b371-060ddf64101b",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The user likes the app despite some issues with handling charges and availability of cash on delivery.",
+      "provider": "groq",
+      "classified_at": "2026-08-02T08:30:58.666Z"
+    }
   },
   {
     "source": "Google Play (India)",

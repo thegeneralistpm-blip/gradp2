@@ -29,24 +29,31 @@ jobs:
         run: npm run refresh:reviews
 
       - name: AI-screen the next safe batch
-        if: ${{ secrets.GEMINI_API_KEY != '' || secrets.GROQ_API_KEY != '' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           AI_MAX_REVIEWS_PER_RUN: 200
           AI_SCOPE: keyword_relevant
         run: |
-          npm run refresh:ai
+          if [ -z "$GEMINI_API_KEY" ] && [ -z "$GROQ_API_KEY" ]; then
+            echo "No AI provider secrets configured; skipping AI screening."
+          else
+            npm run refresh:ai
+          fi
 
       - name: Archive weekly evidence snapshot
         run: npm run archive:reviews
 
       - name: Detect emerging themes
-        if: ${{ secrets.GEMINI_API_KEY != '' || secrets.GROQ_API_KEY != '' }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-        run: npm run detect:emerging
+        run: |
+          if [ -z "$GEMINI_API_KEY" ] && [ -z "$GROQ_API_KEY" ]; then
+            echo "No AI provider secrets configured; skipping emerging-theme detection."
+          else
+            npm run detect:emerging
+          fi
 
       - name: Commit refreshed dataset
         run: |
