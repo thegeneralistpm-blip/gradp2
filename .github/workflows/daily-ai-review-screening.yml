@@ -27,8 +27,8 @@ jobs:
 
       - name: Classify the next free-tier-safe batch
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI }}
+          GROQ_API_KEY: ${{ secrets.GROQ }}
           AI_MAX_REVIEWS_PER_RUN: 200
           AI_SCOPE: keyword_relevant
         run: |
