@@ -1,8 +1,8 @@
 {
-  "screened_at": "2026-08-02T07:55:48.488Z",
+  "screened_at": "2026-08-02T08:27:02.818Z",
   "total_downloaded": 22500,
-  "in_scope_for_category_discovery_analysis": 1185,
-  "excluded_from_themed_analysis": 21315,
+  "in_scope_for_category_discovery_analysis": 1016,
+  "excluded_from_themed_analysis": 21484,
   "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
   "source_breakdown": {
     "Apple App Store (IN)": {
@@ -157,8 +157,8 @@
     },
     "Google Play (India)": {
       "downloaded": 20000,
-      "in_scope": 921,
-      "excluded": 19079
+      "in_scope": 752,
+      "excluded": 19248
     }
   },
   "theme_definitions": [
