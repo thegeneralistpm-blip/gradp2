@@ -16,6 +16,8 @@ const appStore = JSON.parse(fs.readFileSync(path.join(dataDir, appStoreFile)));
 const playStore = JSON.parse(fs.readFileSync(path.join(dataDir, playStoreFile)));
 const redditPath = path.join(dataDir, 'blinkit_reddit_discussions.json');
 const reddit = fs.existsSync(redditPath) ? JSON.parse(fs.readFileSync(redditPath)) : [];
+const externalPath = path.join(dataDir, 'blinkit_external_discussions.json');
+const external = fs.existsSync(externalPath) ? JSON.parse(fs.readFileSync(externalPath)) : [];
 const aiPath = path.join(dataDir, 'ai_classifications.json');
 const aiClassifications = fs.existsSync(aiPath) ? JSON.parse(fs.readFileSync(aiPath)) : {};
 
@@ -45,7 +47,7 @@ function screen(review) {
   };
 }
 
-const records = [...appStore, ...playStore, ...reddit].map(review => {
+const records = [...appStore, ...playStore, ...reddit, ...external].map(review => {
   const base = screen(review);
   const ai = aiClassifications[base.review_id];
   return ai ? { ...base, study_relevant: Boolean(ai.relevant), matched_themes: ai.themes || [], screening_reason: `AI (${ai.provider}): ${ai.reason || 'Classified review.'}`, ai } : base;

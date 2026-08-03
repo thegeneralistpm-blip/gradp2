@@ -7,13 +7,15 @@ const outputPath = path.join(dataDir, 'ai_classifications.json');
 const BATCH_SIZE = Number(process.env.AI_BATCH_SIZE || 10);
 const MAX_REVIEWS_PER_RUN = Number(process.env.AI_MAX_REVIEWS_PER_RUN || 200);
 const AI_SCOPE = process.env.AI_SCOPE || 'keyword_relevant';
+const AI_SOURCE_FILTER = (process.env.AI_SOURCE_FILTER || '').split('|').map(value => value.trim()).filter(Boolean);
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
 const GROQ_MODEL = process.env.GROQ_MODEL || 'llama-3.3-70b-versatile';
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 const raw = JSON.parse(fs.readFileSync(sourcePath));
 const saved = fs.existsSync(outputPath) ? JSON.parse(fs.readFileSync(outputPath)) : {};
-const candidateReviews = AI_SCOPE === 'all' ? raw : raw.filter(review => review.study_relevant);
+const scopeReviews = AI_SCOPE === 'all' ? raw : raw.filter(review => review.study_relevant);
+const candidateReviews = AI_SOURCE_FILTER.length ? scopeReviews.filter(review => AI_SOURCE_FILTER.includes(review.source)) : scopeReviews;
 const unclassified = candidateReviews.filter(review => !saved[review.review_id]);
 const skippedAlreadyClassified = candidateReviews.length - unclassified.length;
 const pending = unclassified.slice(0, MAX_REVIEWS_PER_RUN);

@@ -8,6 +8,8 @@
     "scrape:reviews": "node scrape-reviews.js",
     "screen:reviews": "node screen-reviews.js && node build-review-library.js",
     "scrape:reddit": "node scrape-reddit-discussions.js && npm.cmd run screen:reviews",
+    "import:external": "node import-codex-export.js",
+    "classify:external": "set AI_SOURCE_FILTER=Reddit^|Forum / News^|Social^|Product Review^|Q-Commerce&& set AI_SCOPE=all&& node ai-classify-reviews.js && node screen-reviews.js && node build-review-library.js && node build-blinkit-suite.js && node build-merged-dashboard.js",
     "scrape:app-store-global": "node scrape-app-store-global.js",
     "classify:ai": "node ai-classify-reviews.js && node screen-reviews.js && node build-review-library.js",
     "detect:emerging": "node detect-emerging-themes.js",

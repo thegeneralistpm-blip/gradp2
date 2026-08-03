@@ -1,0 +1,14 @@
+{
+  "imported_at": "2026-08-03T09:37:14.992Z",
+  "input_file": "codex_export.csv",
+  "rows_in_file": 669,
+  "new_unique_records": 669,
+  "total_external_records": 669,
+  "sources": {
+    "Q-Commerce": 239,
+    "Forum / News": 239,
+    "Reddit": 25,
+    "Social": 25,
+    "Product Review": 141
+  }
+}

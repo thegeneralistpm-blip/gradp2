@@ -1,0 +1,46 @@
+name: Screen imported discussions with AI
+
+on:
+  schedule:
+    # Daily 08:00 UTC, separate from app-store screening to stay inside free tiers.
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  classify-external:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Screen the next safe batch of imported discussions
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI }}
+          GROQ_API_KEY: ${{ secrets.GROQ }}
+          AI_MAX_REVIEWS_PER_RUN: 150
+        run: |
+          if [ -z "$GEMINI_API_KEY" ] && [ -z "$GROQ_API_KEY" ]; then
+            echo "No AI provider secrets configured; skipping imported-discussion screening."
+          else
+            npm run classify:external
+          fi
+
+      - name: Commit AI screening progress
+        run: |
+          git config user.name "blinkit-review-bot"
+          git config user.email "actions@github.com"
+          git add data/ai_classifications.json data/review_screening.json data/screening_report.json index.html discovery-lens.html priority-radar.html evidence-library.html copilot.html review-library.html
+          git diff --staged --quiet || git commit -m "chore: screen imported discussions with AI"
+          git push
