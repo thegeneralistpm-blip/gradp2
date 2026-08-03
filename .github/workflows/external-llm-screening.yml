@@ -30,6 +30,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI }}
           GROQ_API_KEY: ${{ secrets.GROQ }}
           AI_MAX_REVIEWS_PER_RUN: 150
+          AI_SCOPE: all
+          AI_SOURCE_FILTER: 'Reddit|Forum / News|Social|Product Review|Q-Commerce'
         run: |
           if [ -z "$GEMINI_API_KEY" ] && [ -z "$GROQ_API_KEY" ]; then
             echo "No AI provider secrets configured; skipping imported-discussion screening."
