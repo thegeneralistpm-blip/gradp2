@@ -1,0 +1,9 @@
+{
+  "collected_at": "2026-08-03T09:20:52.054Z",
+  "source": "Google Play (India)",
+  "requested_reviews": 123,
+  "unique_reviews_saved": 123,
+  "throttle_ms_between_requests": 1000,
+  "file": "blinkit_google_play_last_123.json",
+  "note": "Collection uses publicly accessible Google Play review responses. The final count may be lower if the source has fewer retrievable results or enforces limits."
+}
