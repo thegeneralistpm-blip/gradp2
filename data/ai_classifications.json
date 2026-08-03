@@ -30954,5 +30954,1930 @@
     "reason": "The user likes the app despite some issues with handling charges and availability of cash on delivery.",
     "provider": "groq",
     "classified_at": "2026-08-02T08:30:58.666Z"
+  },
+  "Q-Commerce:qc_news_141": {
+    "review_id": "Q-Commerce:qc_news_141",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market Competition",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "News report on market competition between Amazon and Blinkit rather than user product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.081Z"
+  },
+  "Forum / News:news_141": {
+    "review_id": "Forum / News:news_141",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market Competition",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Industry headline discussing competitive dynamics between major quick commerce players.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Reddit:t3_0": {
+    "review_id": "Reddit:t3_0",
+    "relevant": false,
+    "themes": [],
+    "segment": "Social / Political",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Political commentary mentioning brief app downtime without providing feedback on product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Social:soc_reddit_0": {
+    "review_id": "Social:soc_reddit_0",
+    "relevant": false,
+    "themes": [],
+    "segment": "Social / Political",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Fragmented social post about community action unrelated to product exploration or shopping behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Q-Commerce:qc_news_169": {
+    "review_id": "Q-Commerce:qc_news_169",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Performance",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "News article reporting corporate revenue growth rather than consumer feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Q-Commerce:qc_news_178": {
+    "review_id": "Q-Commerce:qc_news_178",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "segment": "Novel Categories",
+    "categories": [
+      "Print services",
+      "Stationery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Highlights customer adoption and trial of non-traditional quick commerce print services for urgent real-world needs.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Q-Commerce:qc_news_139": {
+    "review_id": "Q-Commerce:qc_news_139",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market Comparison",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Comparative business analysis of quick commerce competitors rather than user purchase insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Q-Commerce:qc_news_156": {
+    "review_id": "Q-Commerce:qc_news_156",
+    "relevant": false,
+    "themes": [],
+    "segment": "E-commerce Disruption",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Industry commentary discussing Blinkit's expansion into traditional e-commerce categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Q-Commerce:qc_news_140": {
+    "review_id": "Q-Commerce:qc_news_140",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market Comparison",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "News headline comparing financial metrics of quick commerce platforms.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Q-Commerce:qc_news_146": {
+    "review_id": "Q-Commerce:qc_news_146",
+    "relevant": false,
+    "themes": [],
+    "segment": "Advertising / Media",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Trade article evaluating advertising performance on quick commerce channels.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:25.082Z"
+  },
+  "Forum / News:news_139": {
+    "review_id": "Forum / News:news_139",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.672Z"
+  },
+  "Forum / News:news_140": {
+    "review_id": "Forum / News:news_140",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.672Z"
+  },
+  "Forum / News:news_156": {
+    "review_id": "Forum / News:news_156",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.672Z"
+  },
+  "Forum / News:news_169": {
+    "review_id": "Forum / News:news_169",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Forum / News:news_178": {
+    "review_id": "Forum / News:news_178",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Product Review:pr_2": {
+    "review_id": "Product Review:pr_2",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review does not provide any meaningful feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Q-Commerce:qc_news_166": {
+    "review_id": "Q-Commerce:qc_news_166",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Q-Commerce:qc_news_85": {
+    "review_id": "Q-Commerce:qc_news_85",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Q-Commerce:qc_news_153": {
+    "review_id": "Q-Commerce:qc_news_153",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Q-Commerce:qc_news_143": {
+    "review_id": "Q-Commerce:qc_news_143",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is a news article and does not provide user feedback.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:29.673Z"
+  },
+  "Q-Commerce:qc_news_142": {
+    "review_id": "Q-Commerce:qc_news_142",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate Strategy",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is a news headline reporting on company return strategy rather than direct customer feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_144": {
+    "review_id": "Q-Commerce:qc_news_144",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a news report on market share and competitive scale rather than user product experience.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_152": {
+    "review_id": "Q-Commerce:qc_news_152",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Results",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a corporate financial earnings report headline with no user product feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_157": {
+    "review_id": "Q-Commerce:qc_news_157",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a business news headline regarding platform scale and profitability gains.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_148": {
+    "review_id": "Q-Commerce:qc_news_148",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This headline reports on market size comparison rather than customer category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_105": {
+    "review_id": "Q-Commerce:qc_news_105",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Appreciation",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a news piece covering general lifestyle praise from a diplomat rather than feedback on product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_232": {
+    "review_id": "Q-Commerce:qc_news_232",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Results",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a financial news update regarding quarterly revenue and profit growth.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_0": {
+    "review_id": "Q-Commerce:qc_news_0",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Analysis",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a brokerage research update headline focusing on target prices and discounting strategy.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_62": {
+    "review_id": "Q-Commerce:qc_news_62",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Analysis",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a duplicate financial news headline covering brokerage target prices.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_161": {
+    "review_id": "Q-Commerce:qc_news_161",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Analysis",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a duplicate financial news headline covering market pricing analysis.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:42:44.781Z"
+  },
+  "Q-Commerce:qc_news_160": {
+    "review_id": "Q-Commerce:qc_news_160",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about investor information and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Q-Commerce:qc_news_145": {
+    "review_id": "Q-Commerce:qc_news_145",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review discusses discounting in quick commerce but does not relate to product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_85": {
+    "review_id": "Forum / News:news_85",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Market Share",
+    "categories": [
+      "Quick Commerce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions market share gains for Blinkit, indicating potential repeat purchases.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_142": {
+    "review_id": "Forum / News:news_142",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Quick Commerce",
+    "categories": [
+      "E-commerce"
+    ],
+    "barrier": "Discounts",
+    "sentiment": "positive",
+    "reason": "The review discusses Blinkit prioritizing returns over discounts, which could impact trial and repeat purchases.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_143": {
+    "review_id": "Forum / News:news_143",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Profitability",
+    "categories": [
+      "Quick Commerce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions Blinkit pulling ahead in the quick commerce race, indicating potential for repeat business.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_144": {
+    "review_id": "Forum / News:news_144",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Market Lead",
+    "categories": [
+      "Quick Commerce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review discusses Blinkit widening its lead in quick commerce, which could lead to more repeat purchases.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_146": {
+    "review_id": "Forum / News:news_146",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about the ad economy in quick commerce and does not directly relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_148": {
+    "review_id": "Forum / News:news_148",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Market Size",
+    "categories": [
+      "Quick Commerce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions Blinkit's size in comparison to its competitors, indicating potential for repeat business.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_152": {
+    "review_id": "Forum / News:news_152",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Revenue Growth",
+    "categories": [
+      "Quick Commerce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review discusses Blinkit becoming the biggest revenue driver, which could be due to repeat purchases.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_153": {
+    "review_id": "Forum / News:news_153",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Market Share",
+    "categories": [
+      "Quick Commerce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions market share gains for Blinkit, indicating potential repeat purchases.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:42:50.027Z"
+  },
+  "Forum / News:news_157": {
+    "review_id": "Forum / News:news_157",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "News article detailing company scale and financial growth without customer discovery insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Forum / News:news_166": {
+    "review_id": "Forum / News:news_166",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "News report on expansion of gourmet dark stores without user feedback on product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_6": {
+    "review_id": "Product Review:pr_6",
+    "relevant": false,
+    "themes": [],
+    "segment": "Speed / Delivery",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic feedback praising delivery speed without product or category details.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_11": {
+    "review_id": "Product Review:pr_11",
+    "relevant": false,
+    "themes": [],
+    "segment": "Speed / Delivery",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic compliment regarding delivery service.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_14": {
+    "review_id": "Product Review:pr_14",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Brief positive note on service with no specific product insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_19": {
+    "review_id": "Product Review:pr_19",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Experience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise for overall app experience.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_23": {
+    "review_id": "Product Review:pr_23",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing & Fees",
+    "categories": [],
+    "barrier": "High delivery fees",
+    "sentiment": "negative",
+    "reason": "General complaint regarding delivery costs without connection to category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_28": {
+    "review_id": "Product Review:pr_28",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Support",
+    "categories": [],
+    "barrier": "Ineffective customer support",
+    "sentiment": "negative",
+    "reason": "Complaint about AI customer support failing to address damaged order items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_31": {
+    "review_id": "Product Review:pr_31",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Experience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive feedback with no mention of specific products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_36": {
+    "review_id": "Product Review:pr_36",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Beauty & Personal Care",
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "barrier": "High prices and extra fees",
+    "sentiment": "negative",
+    "reason": "Higher pricing on personal care items and added fees damage price trust and push user to alternative platforms.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:03.126Z"
+  },
+  "Product Review:pr_40": {
+    "review_id": "Product Review:pr_40",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer likes the quality of products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_43": {
+    "review_id": "Product Review:pr_43",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer likes the customer service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_50": {
+    "review_id": "Product Review:pr_50",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer wants a discount.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_54": {
+    "review_id": "Product Review:pr_54",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer likes the service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_58": {
+    "review_id": "Product Review:pr_58",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer is satisfied.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_61": {
+    "review_id": "Product Review:pr_61",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Address change issue",
+    "sentiment": "negative",
+    "reason": "The customer is having trouble with address change.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_65": {
+    "review_id": "Product Review:pr_65",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer likes free delivery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_69": {
+    "review_id": "Product Review:pr_69",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer recommends the service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_72": {
+    "review_id": "Product Review:pr_72",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer is satisfied.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_78": {
+    "review_id": "Product Review:pr_78",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer likes the service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:07.568Z"
+  },
+  "Product Review:pr_81": {
+    "review_id": "Product Review:pr_81",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Non-grocery buyer",
+    "categories": [
+      "Electronics",
+      "Watches"
+    ],
+    "barrier": "Defective product received",
+    "sentiment": "positive",
+    "reason": "A hassle-free return and refund experience gave the user confidence to immediately try purchasing another brand in a non-grocery category.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.001Z"
+  },
+  "Product Review:pr_84": {
+    "review_id": "Product Review:pr_84",
+    "relevant": false,
+    "themes": [],
+    "segment": "Price-sensitive user",
+    "categories": [],
+    "barrier": "Higher pricing compared to competitors",
+    "sentiment": "positive",
+    "reason": "Generic price comparison with competitors that does not mention specific product categories or discovery behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.001Z"
+  },
+  "Product Review:pr_91": {
+    "review_id": "Product Review:pr_91",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Generic dissatisfaction",
+    "sentiment": "negative",
+    "reason": "Generic short feedback that does not provide any context on product discovery or buying habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.001Z"
+  },
+  "Product Review:pr_95": {
+    "review_id": "Product Review:pr_95",
+    "relevant": false,
+    "themes": [],
+    "segment": "Price-sensitive user",
+    "categories": [],
+    "barrier": "Per-item delivery fee",
+    "sentiment": "negative",
+    "reason": "General complaint regarding extra delivery charges without reference to specific product categories or exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.001Z"
+  },
+  "Product Review:pr_98": {
+    "review_id": "Product Review:pr_98",
+    "relevant": false,
+    "themes": [],
+    "segment": "Grocery buyer",
+    "categories": [
+      "Food"
+    ],
+    "barrier": "App issue preventing support for bad product",
+    "sentiment": "negative",
+    "reason": "Focuses on customer support and app server issues rather than category discovery or purchase motivation.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.001Z"
+  },
+  "Product Review:pr_103": {
+    "review_id": "Product Review:pr_103",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Frequent shopper",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Pricing above MRP",
+    "sentiment": "negative",
+    "reason": "Selling frequently bought items above MRP damages trust and disrupts repeat purchasing habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.001Z"
+  },
+  "Product Review:pr_107": {
+    "review_id": "Product Review:pr_107",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Extremely brief positive rating providing no details on product categories or user behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.002Z"
+  },
+  "Product Review:pr_110": {
+    "review_id": "Product Review:pr_110",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic approval without any specific insights regarding category exploration or platform trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.002Z"
+  },
+  "Product Review:pr_116": {
+    "review_id": "Product Review:pr_116",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Poor service experience",
+    "sentiment": "negative",
+    "reason": "Generic negative comment lacking any context on product discovery or repeat purchasing.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.002Z"
+  },
+  "Product Review:pr_119": {
+    "review_id": "Product Review:pr_119",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Poor product quality",
+    "sentiment": "negative",
+    "reason": "Vague product quality complaint without specifying the product category or impact on trial decisions.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:21.002Z"
+  },
+  "Product Review:pr_123": {
+    "review_id": "Product Review:pr_123",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions good service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_128": {
+    "review_id": "Product Review:pr_128",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Convenience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review mentions convenience as a reason for using the service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_131": {
+    "review_id": "Product Review:pr_131",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Payment issues",
+    "sentiment": "positive",
+    "reason": "The review discusses a payment issue, not related to product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_136": {
+    "review_id": "Product Review:pr_136",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "segment": "Quality-focused",
+    "categories": [
+      "Organic Ladyfinger",
+      "Raw Mango",
+      "Chopped Spinach"
+    ],
+    "barrier": "Poor product quality",
+    "sentiment": "negative",
+    "reason": "The review discusses issues with product quality and description.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_143": {
+    "review_id": "Product Review:pr_143",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions the app being good, without specific details.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_146": {
+    "review_id": "Product Review:pr_146",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions the app being easy to use and helpful.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_149": {
+    "review_id": "Product Review:pr_149",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions good service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_156": {
+    "review_id": "Product Review:pr_156",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions the app being good and having fast delivery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_160": {
+    "review_id": "Product Review:pr_160",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review discusses delivery boys and the service, not product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_164": {
+    "review_id": "Product Review:pr_164",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions the service being very good.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:25.660Z"
+  },
+  "Product Review:pr_167": {
+    "review_id": "Product Review:pr_167",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price-sensitive shopper",
+    "categories": [],
+    "barrier": "High pricing compared to market",
+    "sentiment": "negative",
+    "reason": "Mentions high product prices compared to local markets, hindering trial and repeat purchase confidence.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_171": {
+    "review_id": "Product Review:pr_171",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive feedback without specific insights into product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_176": {
+    "review_id": "Product Review:pr_176",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise for the application without details regarding categories or product experience.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_181": {
+    "review_id": "Product Review:pr_181",
+    "relevant": false,
+    "themes": [],
+    "segment": "Speed-focused shopper",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Focuses strictly on delivery speed and reliability rather than product catalog or exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_184": {
+    "review_id": "Product Review:pr_184",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-conscious shopper",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Praises product quality, which helps build trust and trial confidence for products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_191": {
+    "review_id": "Product Review:pr_191",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied user",
+    "categories": [],
+    "barrier": "Generic poor experience",
+    "sentiment": "negative",
+    "reason": "Extremely generic negative review with no specific context on products or features.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_197": {
+    "review_id": "Product Review:pr_197",
+    "relevant": false,
+    "themes": [],
+    "segment": "Convenience seeker",
+    "categories": [],
+    "barrier": "Split order logistics issues",
+    "sentiment": "negative",
+    "reason": "Focuses on delivery split fulfillment issues rather than product selection or discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_203": {
+    "review_id": "Product Review:pr_203",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Convenience shopper",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Highlights broad product availability for daily needs, driving repeat usage and trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_206": {
+    "review_id": "Product Review:pr_206",
+    "relevant": false,
+    "themes": [],
+    "segment": "Speed-focused shopper",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Compliments delivery partner speed, which does not inform product discovery research.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_209": {
+    "review_id": "Product Review:pr_209",
+    "relevant": false,
+    "themes": [],
+    "segment": "Service-focused shopper",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Pertains to customer support interaction rather than product exploration or adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:39.216Z"
+  },
+  "Product Review:pr_212": {
+    "review_id": "Product Review:pr_212",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is a general expression of satisfaction.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_216": {
+    "review_id": "Product Review:pr_216",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review praises the service but does not specify how it relates to product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_220": {
+    "review_id": "Product Review:pr_220",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review thanks for the service but does not provide insight into product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_224": {
+    "review_id": "Product Review:pr_224",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions good facilities but does not relate to product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_235": {
+    "review_id": "Product Review:pr_235",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide useful insight into product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_238": {
+    "review_id": "Product Review:pr_238",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review praises the service but does not specify how it relates to product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_243": {
+    "review_id": "Product Review:pr_243",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is negative but does not provide insight into why the user did not discover, trust, try, or repeatedly buy new product categories.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_248": {
+    "review_id": "Product Review:pr_248",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation"
+    ],
+    "segment": "Fast Delivery",
+    "categories": [
+      "Delivery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions excellent and fast delivery, which could influence product discovery and trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_252": {
+    "review_id": "Product Review:pr_252",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review praises the service but does not specify how it relates to product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_256": {
+    "review_id": "Product Review:pr_256",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation"
+    ],
+    "segment": "Delayed Delivery",
+    "categories": [
+      "Delivery"
+    ],
+    "barrier": "Delivery Issues",
+    "sentiment": "negative",
+    "reason": "The review mentions a negative experience with delivery time, which could affect product discovery and trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:44.113Z"
+  },
+  "Product Review:pr_261": {
+    "review_id": "Product Review:pr_261",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic feedback about service without specific insights into product or category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_264": {
+    "review_id": "Product Review:pr_264",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "General praise for service efficiency without details on products or categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_268": {
+    "review_id": "Product Review:pr_268",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Vague compliment about options with no specific product or navigation insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_271": {
+    "review_id": "Product Review:pr_271",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive feedback with no mention of products or categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_275": {
+    "review_id": "Product Review:pr_275",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Brief general feedback about the app without relevant product exploration details.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_281": {
+    "review_id": "Product Review:pr_281",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Service & Returns",
+    "categories": [],
+    "barrier": "Unresolved refund and unhelpful chat support",
+    "sentiment": "negative",
+    "reason": "Pertains strictly to a refund dispute and customer service issue rather than product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_284": {
+    "review_id": "Product Review:pr_284",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive sentiment about work done, providing no product research value.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_287": {
+    "review_id": "Product Review:pr_287",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Short generic review lacking details about product selection or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_290": {
+    "review_id": "Product Review:pr_290",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery Speed",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Focuses on fast service delivery rather than product or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_295": {
+    "review_id": "Product Review:pr_295",
+    "relevant": false,
+    "themes": [],
+    "segment": "Convenience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "General appreciation for doorstep delivery convenience without mentioning product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:43:54.891Z"
+  },
+  "Product Review:pr_299": {
+    "review_id": "Product Review:pr_299",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_304": {
+    "review_id": "Product Review:pr_304",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_307": {
+    "review_id": "Product Review:pr_307",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_313": {
+    "review_id": "Product Review:pr_313",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is related to delivery time, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_317": {
+    "review_id": "Product Review:pr_317",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Convenience",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions a wide range of products, indicating satisfaction with product exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_320": {
+    "review_id": "Product Review:pr_320",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_326": {
+    "review_id": "Product Review:pr_326",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Support",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Return Policy",
+    "sentiment": "negative",
+    "reason": "The review mentions difficulty with returning a spoiled item, indicating a lack of trust in the trial process.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_329": {
+    "review_id": "Product Review:pr_329",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_333": {
+    "review_id": "Product Review:pr_333",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_340": {
+    "review_id": "Product Review:pr_340",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:43:59.521Z"
+  },
+  "Product Review:pr_343": {
+    "review_id": "Product Review:pr_343",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic App User",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic feedback without actionable insights into product discovery or category trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_347": {
+    "review_id": "Product Review:pr_347",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic App User",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise for service without details on product exploration or selection.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_350": {
+    "review_id": "Product Review:pr_350",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Grocery Shopper",
+    "categories": [
+      "Fresh Produce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Mentions fresh commodities, which establishes product quality trust for repeat grocery buying.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_353": {
+    "review_id": "Product Review:pr_353",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied User",
+    "categories": [],
+    "barrier": "General dissatisfaction",
+    "sentiment": "negative",
+    "reason": "Generic negative complaint with no specific details regarding products or categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_356": {
+    "review_id": "Product Review:pr_356",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied User",
+    "categories": [],
+    "barrier": "General dissatisfaction",
+    "sentiment": "negative",
+    "reason": "Extremely brief negative comment lacking context on product selection or purchase barriers.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_359": {
+    "review_id": "Product Review:pr_359",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Loyal Shopper",
+    "categories": [
+      "Fresh Produce"
+    ],
+    "barrier": "Lack of loyalty discounts",
+    "sentiment": "positive",
+    "reason": "Highlights fresh products reinforcing repeat orders, while suggesting discounts to sustain loyalty.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_365": {
+    "review_id": "Product Review:pr_365",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic App User",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Short emoji praise that lacks context for studying product or category engagement.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_368": {
+    "review_id": "Product Review:pr_368",
+    "relevant": false,
+    "themes": [],
+    "segment": "Value-Conscious Shopper",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "General comment on rates and delivery without reference to specific product categories or exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_371": {
+    "review_id": "Product Review:pr_371",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Cautious Shopper",
+    "categories": [
+      "General Grocery"
+    ],
+    "barrier": "Difficult returns for incorrect items",
+    "sentiment": "neutral",
+    "reason": "Returns friction for incorrect items impacts post-purchase trust and willingness to try new products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_376": {
+    "review_id": "Product Review:pr_376",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery-Focused User",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Focuses purely on delivery timeliness without any product or category context.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:10.414Z"
+  },
+  "Product Review:pr_380": {
+    "review_id": "Product Review:pr_380",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Complaint",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Customer had an issue with a coupon not being applied.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_384": {
+    "review_id": "Product Review:pr_384",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Praise",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer liked the app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_387": {
+    "review_id": "Product Review:pr_387",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery Praise",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer liked the delivery service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_390": {
+    "review_id": "Product Review:pr_390",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price Sensitive",
+    "categories": [
+      "Delivery Charges"
+    ],
+    "barrier": "High delivery charges",
+    "sentiment": "negative",
+    "reason": "The customer found the delivery charges to be expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_394": {
+    "review_id": "Product Review:pr_394",
+    "relevant": false,
+    "themes": [],
+    "segment": "Order Issue",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The customer had an issue with their order not being delivered correctly.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_397": {
+    "review_id": "Product Review:pr_397",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Praise",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer is obsessed with the app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_403": {
+    "review_id": "Product Review:pr_403",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality Concern",
+    "categories": [
+      "Product Quality"
+    ],
+    "barrier": "Poor product quality",
+    "sentiment": "negative",
+    "reason": "The customer received an expired product.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_407": {
+    "review_id": "Product Review:pr_407",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality Concern",
+    "categories": [
+      "Product Quality",
+      "Customer Service"
+    ],
+    "barrier": "Poor product quality and customer service",
+    "sentiment": "negative",
+    "reason": "The customer received a defective product and had a poor customer service experience.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_410": {
+    "review_id": "Product Review:pr_410",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Praise",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer likes the app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_415": {
+    "review_id": "Product Review:pr_415",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality Concern",
+    "categories": [
+      "Product Quality",
+      "Packaging"
+    ],
+    "barrier": "Poor product quality and packaging",
+    "sentiment": "negative",
+    "reason": "The customer received old and poorly packaged products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T09:44:15.184Z"
+  },
+  "Product Review:pr_418": {
+    "review_id": "Product Review:pr_418",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Contains only generic praise with no information on product or category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_421": {
+    "review_id": "Product Review:pr_421",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Category availability",
+    "categories": [
+      "Medicine"
+    ],
+    "barrier": "Nighttime delivery unavailability",
+    "sentiment": "negative",
+    "reason": "Highlights nighttime availability issues when trying to order from the medicine category.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_425": {
+    "review_id": "Product Review:pr_425",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Product quality",
+    "categories": [
+      "Beverages"
+    ],
+    "barrier": "Poor temperature control upon delivery",
+    "sentiment": "negative",
+    "reason": "Identifies warm cold drinks as a key barrier threatening repeat orders in the category.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_428": {
+    "review_id": "Product Review:pr_428",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery partner conduct",
+    "categories": [],
+    "barrier": "Safety concerns",
+    "sentiment": "negative",
+    "reason": "Focuses on delivery partner behavior rather than product or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_434": {
+    "review_id": "Product Review:pr_434",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Short generic positive comment with no relevance to category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_437": {
+    "review_id": "Product Review:pr_437",
+    "relevant": false,
+    "themes": [],
+    "segment": "Platform fees",
+    "categories": [],
+    "barrier": "Location-specific fees",
+    "sentiment": "neutral",
+    "reason": "Discusses platform fee waivers for specific locations rather than product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_440": {
+    "review_id": "Product Review:pr_440",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive rating with no mention of specific products or shopping habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_445": {
+    "review_id": "Product Review:pr_445",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "General praise for the application without product or category insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_450": {
+    "review_id": "Product Review:pr_450",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive comment about service without details on product trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "Product Review:pr_453": {
+    "review_id": "Product Review:pr_453",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery address issue",
+    "categories": [],
+    "barrier": "Delivery partner error",
+    "sentiment": "negative",
+    "reason": "Describes a delivery partner dispute regarding the address, unrelated to product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T09:44:25.942Z"
   }
 }

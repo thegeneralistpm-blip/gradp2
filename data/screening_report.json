@@ -1,8 +1,8 @@
 {
-  "screened_at": "2026-08-03T09:37:17.804Z",
+  "screened_at": "2026-08-03T09:44:30.578Z",
   "total_downloaded": 23292,
-  "in_scope_for_category_discovery_analysis": 1381,
-  "excluded_from_themed_analysis": 21911,
+  "in_scope_for_category_discovery_analysis": 1298,
+  "excluded_from_themed_analysis": 21994,
   "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
   "source_breakdown": {
     "Apple App Store (MY)": {
@@ -172,13 +172,13 @@
     },
     "Q-Commerce": {
       "downloaded": 239,
-      "in_scope": 33,
-      "excluded": 206
+      "in_scope": 31,
+      "excluded": 208
     },
     "Forum / News": {
       "downloaded": 239,
-      "in_scope": 33,
-      "excluded": 206
+      "in_scope": 40,
+      "excluded": 199
     },
     "Reddit": {
       "downloaded": 25,
@@ -192,8 +192,8 @@
     },
     "Product Review": {
       "downloaded": 141,
-      "in_scope": 141,
-      "excluded": 0
+      "in_scope": 53,
+      "excluded": 88
     }
   },
   "theme_definitions": [

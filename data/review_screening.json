@@ -303075,7 +303075,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News report on market competition between Amazon and Blinkit rather than user product discovery.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_141",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Competition",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "News report on market competition between Amazon and Blinkit rather than user product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.081Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303087,7 +303099,19 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRpbWRKMVdUSmIzSDlTZFdxZlpVa0tHWkJ0cjQ5VkpabTU2MXlqREpkVTl5Rnk3OGVOVXdHbkVUNHl1Z3h5THk5WVRCUEtUaEF4aEV2XzFJTF9lcGlyNGp0Wk9QOWtSTjF1U05aa01aeHgzWFJuWUVoUS1oZVR1M081T3NUZzEw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Industry headline discussing competitive dynamics between major quick commerce players.",
+    "ai": {
+      "review_id": "Forum / News:news_141",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Competition",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Industry headline discussing competitive dynamics between major quick commerce players.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Reddit",
@@ -303099,7 +303123,19 @@
     "url": "https://www.reddit.com/r/india/comments/1v6enqu/congratulations/",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Political commentary mentioning brief app downtime without providing feedback on product categories.",
+    "ai": {
+      "review_id": "Reddit:t3_0",
+      "relevant": false,
+      "themes": [],
+      "segment": "Social / Political",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Political commentary mentioning brief app downtime without providing feedback on product categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Social",
@@ -303111,7 +303147,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Fragmented social post about community action unrelated to product exploration or shopping behavior.",
+    "ai": {
+      "review_id": "Social:soc_reddit_0",
+      "relevant": false,
+      "themes": [],
+      "segment": "Social / Political",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Fragmented social post about community action unrelated to product exploration or shopping behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303123,7 +303171,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News article reporting corporate revenue growth rather than consumer feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_169",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial Performance",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "News article reporting corporate revenue growth rather than consumer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303133,9 +303193,30 @@
     "title": "",
     "text": "Watch: Woman orders protest posters via Blinkit, X user calls it 'the new age protest' - livemint.com",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Highlights customer adoption and trial of non-traditional quick commerce print services for urgent real-world needs.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_178",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration",
+        "Trial confidence"
+      ],
+      "segment": "Novel Categories",
+      "categories": [
+        "Print services",
+        "Stationery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Highlights customer adoption and trial of non-traditional quick commerce print services for urgent real-world needs.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303147,7 +303228,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Comparative business analysis of quick commerce competitors rather than user purchase insights.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_139",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Comparison",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Comparative business analysis of quick commerce competitors rather than user purchase insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303159,7 +303252,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Industry commentary discussing Blinkit's expansion into traditional e-commerce categories.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_156",
+      "relevant": false,
+      "themes": [],
+      "segment": "E-commerce Disruption",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Industry commentary discussing Blinkit's expansion into traditional e-commerce categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303171,7 +303276,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News headline comparing financial metrics of quick commerce platforms.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_140",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Comparison",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "News headline comparing financial metrics of quick commerce platforms.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303183,7 +303300,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Trade article evaluating advertising performance on quick commerce channels.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_146",
+      "relevant": false,
+      "themes": [],
+      "segment": "Advertising / Media",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Trade article evaluating advertising performance on quick commerce channels.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:25.082Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303195,7 +303324,19 @@
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOV0Jtbk11c0RyLWZQcEhpaHQ3ci1EaXppaENVTXdfbEx0SEk1amtsVFMwYmIyTDVTakZvcEw5dXZCc0V1S2hBX2Z4Z1ZqMmJBMmpfakNiVno0eXF6LUlQTGViODI5bFB3T1p1MDJyQ2J4Z2tUczlvLUNhOHFETmZRNnNPSW1aR2w2R1hsLVY2Wm50WEpxUUdfZm1GQmwxSjhZckEyREFCOC12N1dMOUJqOUw4S1NreVdqYWpJS29KY3ZJeG5iTDd4QV91YkZuLTc4dkJtN3loRUM0ZFRHMUJDMHBHUVpMaTlINldTUTRObWdzNDJFRDQ00gGEAkFVX3lxTE5nMkJOQ2tpNWlpZm1kT3RvTlBtQkFFX2k1bEFqc1pVVTdWZ1l6TzlkaXprY2R2UnppWi1BUkVRSjNaanVWelFHZDl3UENzYng4bkRkZ1pCMGFmYTIxeHFkWHhkMGtDT2FkVHN0eE5zMm1CUEpIcktEczZHWHFkYTBENE1RVUUyQ2pMTUlQdDI5VDIyMHFKQzVWLUloblM2dUJMb2xfanQtODRIU054UVYwWWd6NUJhYlBtY1VWSDA4UXRsUDVUdmZGMUxfQndRRERtZmI5YWxOM3E5dEp5S0JsY0Ztamd2Vm9hOGhZVWduTmF5d1NSR2kwSHJOeUExMHViVUJS?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_139",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.672Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303207,7 +303348,19 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYmpkY2dNem9VeWE0cW5sNWJFc0VNZFJIZEVVUi1BbkVuRUFydXRZbnpjRHdWYThybmVUMW9lMUhaeWFJWXJmSGk1bHJ3SlJucFk0cDB4d1Rha2ZIMnM2c1FOQ210Z3FtbnYxZzR5NmtzMzRkVi04RUJ5elJ1OUlFa05EVkV4UVFzRHBZMllQdU1QcE9nQXBQU2NIcm1uUlBlcXdYaVREMjV1dElpN3NmZnhWWHlXSlVmTTNyS3F3T0xfTWp1alpoQVVIRUxIZTRVWjYtTVFIejNBT2Q5MUw4eWEwRdIB6AFBVV95cUxOcnozNm5FZ2ZETXdUNEp6LWtJQ1IyT3FBR2txdWctS1V6RHJ6LWFZSjJ6S1laRFNBaS14OVRGcEc1Nk1PVVBGc3ViaUk0VmZyYlp5ZVlNZzFqWXVzQ0k0bFZMWld4WEU5ZDBOVjlmTFVNTExTOHJQb0lwM2xWb2w0OG8yaUNhNElsZ3gxa25uZ2IyYUJzYkMyLURRaVRMbm5vN0I4M0w2OWpCSEZDZmF4b281Q3RHRzhoeTFBeGpJTXZUcXZxb0xKSWg5NlRzakZ5Y1hNYWxzMXdhYlAzT29iTUFrR3lGVDM4?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_140",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.672Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303219,7 +303372,19 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEdkNGFabldveHp5YWxXbXZqTDZiMkhLNnNUQ19EdjBWdFlMV3BuN0ZUVkFkbVN2QW91ZWlwcHV3aUFaNUd4MWY2R3NwMXBIWDBQMGwyZVBlLUpjWExFeXQ0QUU4TkxWX1YxaEVTYTFzZHl2MHFNVVRNT1MtMHYwaHh5UG1YSzB5cUhKT2c3X2RMYUNrUG1qSkF1Q0XSAaIBQVVfeXFMUDlmZEFmakVtMXRTSDlCRXYydWF4NkZPU01xYXZsZExfMF9BUlFhUmdzOGlBNEMyRmFIQTMwUnJRdm5Ed1dJZl9OcXRldUlwVXkycExodHA0X19IcjRJamJDODJxaEtTS3pJUk1ZNWdIRGFqbmFRUXIyYkZBTTFTNG5lb2p4bzFiVE5UbkxtcGJYVWVXelFOeGRVOWI2NTF3X3V3?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_156",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.672Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303231,7 +303396,19 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDJfX0laeFgwZjhzZXI3LVRjajBIblVQcFZEWDdXZ3hhTnVzOExscFBva2c3RnJzcWNEejI3eEhka2NoQThFcEEtbWRiYjdudS1MOHlLcWFYa3Y2UEhGMmNRYU9SejNkaWctSkJaVkI3VkJ3dVc2a2hyd1AzOXpvb0NsUHVDVjgtX2ZyMU4yR0hZYVdL?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_169",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303243,7 +303420,19 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaXRmdnBxcUhNTDJUNWxXbGM5Wm9keEVFMGdaQjhjcmJYbGtOdk81NDN3WjlMUVR2d0dZNmUyR3VZVEU2OGJPQjdRWnFwNnh5U2tKanBwQW1MVFk1QXZPU19pNWZwVjFkRXp2cXlhTWpuT2N2U0FSY3Jjc3c0Zk45ai1lSnNjRVZ1cmllaExtVm5zbFI0cnJONGFmM0pVSmxkLWxJZ2FPTUJUVV9qLU9taGdCdlRsM1V0WURFVXM3OVJXNHRjYVA1TjNmUFhRSV9iYlpJUU130gHbAUFVX3lxTFBNT0Q4MFg1NnZWRHhJMHBwbG1wYTJpMVlZQlNSazBmMmZQbVNHNlM3b3NUMTZDWDROcVZrR1VxdmRvM0hpM19YOE94dS0xbGJyUkNMNndJNWMwUXl0Zkl3Z2c5UDQ5R0xSdFZISU9hbjhOd1NaQ25Db0VBU2FHQlZvTld1clZxaE5nNHdWclBmc0pneGNtdGJzN2pTSUltN2tqLUFPdklsRjg0Z0VBNTlrTnJTQm5TUmNWcUFpdlNFZ3Jrb2FPRFVGSnZtbjgxWFcwR2hPZXU3SzNfYw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_178",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303253,11 +303442,21 @@
     "title": "Blinkit Review",
     "text": "okay now.................!????????????????????",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review does not provide any meaningful feedback.",
+    "ai": {
+      "review_id": "Product Review:pr_2",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review does not provide any meaningful feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303269,7 +303468,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_166",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303281,7 +303492,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_85",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303293,7 +303516,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_153",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303305,7 +303540,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article and does not provide user feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_143",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article and does not provide user feedback.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:29.673Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303317,7 +303564,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news headline reporting on company return strategy rather than direct customer feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_142",
+      "relevant": false,
+      "themes": [],
+      "segment": "Corporate Strategy",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news headline reporting on company return strategy rather than direct customer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303329,7 +303588,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news report on market share and competitive scale rather than user product experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_144",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a news report on market share and competitive scale rather than user product experience.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303341,7 +303612,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a corporate financial earnings report headline with no user product feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_152",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial Results",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a corporate financial earnings report headline with no user product feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303353,7 +303636,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a business news headline regarding platform scale and profitability gains.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_157",
+      "relevant": false,
+      "themes": [],
+      "segment": "Corporate News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a business news headline regarding platform scale and profitability gains.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303365,7 +303660,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This headline reports on market size comparison rather than customer category exploration.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_148",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This headline reports on market size comparison rather than customer category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303377,7 +303684,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news piece covering general lifestyle praise from a diplomat rather than feedback on product discovery.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_105",
+      "relevant": false,
+      "themes": [],
+      "segment": "General Appreciation",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a news piece covering general lifestyle praise from a diplomat rather than feedback on product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303389,7 +303708,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a financial news update regarding quarterly revenue and profit growth.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_232",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial Results",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a financial news update regarding quarterly revenue and profit growth.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303399,11 +303730,21 @@
     "title": "",
     "text": "Eternal Q1 Review: Brokerages Believe Blinkit Doesn't Need Discounting To Win — Check Hiked Target Prices - NDTV Profit",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): This is a brokerage research update headline focusing on target prices and discounting strategy.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_0",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a brokerage research update headline focusing on target prices and discounting strategy.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303413,11 +303754,21 @@
     "title": "",
     "text": "Eternal Q1 Review: Brokerages Believe Blinkit Doesn't Need Discounting To Win — Check Hiked Target Prices - NDTV Profit",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): This is a duplicate financial news headline covering brokerage target prices.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_62",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a duplicate financial news headline covering brokerage target prices.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303427,11 +303778,21 @@
     "title": "",
     "text": "Eternal Q1 Review: Brokerages Believe Blinkit Doesn't Need Discounting To Win — Check Hiked Target Prices - NDTV Profit",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): This is a duplicate financial news headline covering market pricing analysis.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_161",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a duplicate financial news headline covering market pricing analysis.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:42:44.781Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303443,7 +303804,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about investor information and does not relate to product discovery or purchase.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_160",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about investor information and does not relate to product discovery or purchase.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -303455,7 +303828,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review discusses discounting in quick commerce but does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_145",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review discusses discounting in quick commerce but does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303465,9 +303850,27 @@
     "title": "Strong Q1 FY27 for Eternal, market share gains likely for Blinkit - Business Standard",
     "text": "Strong Q1 FY27 for Eternal, market share gains likely for Blinkit - Business Standard",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU01YdkxHYXkzd2lKTlRnSFBNMjI1MWFONmp3M29tanZNbVZ2Q29EVi1fdzUzQjJCaHdlcTNkNjlDQmpCLUcxc1JuaF80QXJQTlNvd0xJOG43UkxxODlLOWRHNHRRQTRxbVNWS2RVOFpoY1E4VDcyaHU1UkdIdGs3TEVsMWNfR1NsUGljVHI4eEVpZmYyLWU0azN5dlFzUzhpaU0tR3FkWW5NV09LZWJmTEZGNzNPV25GQ3B5VEgtQ2RkUzhUOURjaVFn0gHPAUFVX3lxTE9NbnQtcTQ4MXIzTEdjUVhvZjQzMGJmdUZDaEpCZ1hmeUQxcVNNSWk2Zm5fTERGN2E4UmgxYjRvU1BOMWxHTHNueGQ1YThGY3IwZ3lucW1SZ2hia2ZXczlMYnpaMXl6TzNpMlhkYTRsNGh6OVRkUXBoVldkRFdVRHBLV2ZaYU5HZE9lMXh4d3NGY3U1WUstZ09aYmI0Q0NLbE91MmtzaGQyYkRPN0lhOEZ3MWp1QThlTk1aalRSMVdiV2h4d1pfT2dTZ1o4TVBLbw?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review mentions market share gains for Blinkit, indicating potential repeat purchases.",
+    "ai": {
+      "review_id": "Forum / News:news_85",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Market Share",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions market share gains for Blinkit, indicating potential repeat purchases.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303477,9 +303880,29 @@
     "title": "Quick commerce enters a new phase as Blinkit prioritises returns over discounts - Fortune India",
     "text": "Quick commerce enters a new phase as Blinkit prioritises returns over discounts - Fortune India",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORk9pbTAweFZUQlAyeEYwM3dITmFYa2p0TmZBblZWOUstT2Z1S0p5THZNQXJTWmFpQ3F4UUs3aElZRzVUeGxrU1BVS3hDaDQ3TXQ4M2VXUW9pRGxZVXgzeHJKWEExVDh5U3l2bElob3pMeDdHZ0xXXzVvWXF0alQ2NloxOFRBNG1keEVGVm5BTURNQmJKbm1kMFBLVnlIM1B1OGs0bnJWMTM4UWNIaTctZU5TeEhNWDZrOEJVYzh2cTc2SzlxVnNfNdIB1gFBVV95cUxQNGhHSmViYUlKT2RBT0E5aFkwZDRaUVpjMTBjY3pka0c3ZUQtMkpVU3lwRjRyaXZVSm9sZWVmajM2ZWV6SllTT1FhMHNKWFVqalVqdW5XZ0xEa21WRGIxSTBmNFQzVlp2bGxkVHRvVHdGSmd2dEthb1d1ZGxJRXVZOGZ0S1VHOTVZOXRnX0FQR3VUMGVIbEVreDNZM3VYd0JtMXJtdHV5UkJXN2JRR2JLSWYxd1hOUWlUZ2hmSldlcWFJZ05WLTB3dVNPWTVQUGRzSGhaUlpR?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The review discusses Blinkit prioritizing returns over discounts, which could impact trial and repeat purchases.",
+    "ai": {
+      "review_id": "Forum / News:news_142",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Trial confidence"
+      ],
+      "segment": "Quick Commerce",
+      "categories": [
+        "E-commerce"
+      ],
+      "barrier": "Discounts",
+      "sentiment": "positive",
+      "reason": "The review discusses Blinkit prioritizing returns over discounts, which could impact trial and repeat purchases.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303489,9 +303912,27 @@
     "title": "Blinkit Pulls Ahead As Quick Commerce Race Enters Profitability Phase - APAC Media",
     "text": "Blinkit Pulls Ahead As Quick Commerce Race Enters Profitability Phase - APAC Media",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFJKUVdscngyNjBzcHhHb0d3dmZuRzR2a3U4aktobW54Sml1eU1rTnJiVnQyY1JiWDgzRWJCMGtTQ2pfOWRLX2JqV1k5WUkySzd3elJTU25NYzFyVVR2dmwtRE94VzliWm55N3Q2RWlPY1AzQ3MtY1k0SUdhNzV0NllJWHFTODBpMW41VVJiYkhpbUlLck9yYmFsbVZIR3ZWT3hwZGcwcS04QQ?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review mentions Blinkit pulling ahead in the quick commerce race, indicating potential for repeat business.",
+    "ai": {
+      "review_id": "Forum / News:news_143",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Profitability",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions Blinkit pulling ahead in the quick commerce race, indicating potential for repeat business.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303501,9 +303942,27 @@
     "title": "Blinkit Widens Q-Commerce Lead, Matches Rivals Zepto and Instamart Combined in Scale - outlookbusiness.com",
     "text": "Blinkit Widens Q-Commerce Lead, Matches Rivals Zepto and Instamart Combined in Scale - outlookbusiness.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkVaNW5wWnlpdW1oQlE4UXUtSVFUUUp0dDZTaHVkbFhuZWJqdVM3aVZUUWZTdUxLT1NHbGdiemhQdEQtWUlJcTF4ZWxvemNIUXE1UGgtQlZGZ05NQzEtel9VOHR5ZWNDQ0QwdFJaajlvYnVROFl4UHhxTTB5Y2pDWWNRZC1PMHlLd2xTRnY0eG9vQkZUMklBS2FNRDFBZWdEX2dBTFp6Mk9Od082ZW1USEQ1djdORWpIc25XcHhYV205aThZYmZzT9IB1gFBVV95cUxNYk9KUnZUdmZ5MnlXUk5PbFI0b3lfZEhKSk8xZGlSVjVKSUVpbUtJNGxNUUxWb2ZyY1hSNHhZR2RiMWRpN2lLSktVcjEtRzhFcXlEWG9aV3prbkdrcHc1UjRJRURPSjR1QVMyekx5WmtuSFFoQTNmdDBNYVBnaXZiOFNOQ1RYMVRqVENscUJuSi0yS3RmeXRLaXNmeE5QTTJoNHZINjdOVkFtX0xjRnR4TVFkc0RVTnJwa3hpRmsxYmRKNkFQZnFwTHdPWXgxVmtCVGwyaVpB?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review discusses Blinkit widening its lead in quick commerce, which could lead to more repeat purchases.",
+    "ai": {
+      "review_id": "Forum / News:news_144",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Market Lead",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review discusses Blinkit widening its lead in quick commerce, which could lead to more repeat purchases.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303515,7 +303974,19 @@
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUDJEV1FaS2F3aC1YVHhscW1vckxBS2lfRW1iMFNEY1dmY3JHWmtMZUNsRlNRRU5NSGZ6NldnVUZtd1F3bFozbWJRRzB2czhhZmc3NF9fM2U1bGktNjRKZDJXRF9UTVRCVkZTSEdabGJhbXljdE1Tcm5tQW1uZ1dOc2IwUGNZd05URUMxMnN4SnpDSDR4cGJyQ1JIUk5WUG1jVGpENGIxUTZwclhlX19Z0gG0AUFVX3lxTE1sRU1iOUsyZGQ4OEVqcEdHektmYUlnZ0k4enBrTGxUXzNWUC1POXBVRTZxT0F1NWtIMmczOFh2bkhua2pMRTN0TmgtMFpIY0Roa1h4NERqWmFOZUJPbVVVZmxNcTZ4b0Q0OXRkbTlwWEN5OFVXRjh2dy1LcE9BT3VwdE5VQ1huUnNudHBKamJwbFlya09YZk5JYmpaOVQ2b3l6TFZqeGtvMUlMUExxYkprdTVhRQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about the ad economy in quick commerce and does not directly relate to product discovery or purchase.",
+    "ai": {
+      "review_id": "Forum / News:news_146",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about the ad economy in quick commerce and does not directly relate to product discovery or purchase.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303525,9 +303996,27 @@
     "title": "Blinkit is now nearly as large as Zepto and Instamart combined - CNBC TV18",
     "text": "Blinkit is now nearly as large as Zepto and Instamart combined - CNBC TV18",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzk5bTdvdFE0Q0J4SnFKekNiVkVfc1dlLXVpUHNyY1VwUENVWjhfY1RCSVNHQnlIYWI5SUxDOVNLQkVXTmdZNHdxWE9wLXJieHhMNDNtRVhKWXl4LU01TW1mdW9nNVZLQkhpdHVScS1kVWdvQTVHNEU0MWpWSXJRZm9kbkZ0MGg1eFhqVklEd1EwNnZTNS1obWlLMk52X0xlcUtHNmZpU3lxQTVCLXRBWXRqZmxVNWkxWXNYQUV3S0NyOXVsZWF3ZVFyQ1lqS1l2aWhzeE9OREnSAd4BQVVfeXFMUDVFb2xDdVFNVFJIbHlRQ0JSYnJ2ZGVvMDFQdDNIRzVmaTg1Zmt2Qk5YNHZWUzZldHdSSW1Fem9SN2VRMWtZWkY2bTBuS2xEVFFRZ295X1piTm5wZ3JIbVFtcEprV1drMS1Uc2dhSktBNnEyTEkwMmI2cFM4N2YxaDRxb25ubEZNbjNZcUJlNWozMUFrcnNINFFObUU2TGhRYUM5cGVXWTFQME1pT0dwZG8zTG1pRjJFZHB3c2J5cDQ5TjdpSDlha0l0eS1VWHpReFMtVEZOWDVQTlVqRnRn?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review mentions Blinkit's size in comparison to its competitors, indicating potential for repeat business.",
+    "ai": {
+      "review_id": "Forum / News:news_148",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Market Size",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions Blinkit's size in comparison to its competitors, indicating potential for repeat business.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303537,9 +304026,27 @@
     "title": "Eternal Q1 FY27 Results: Net Profit Jumps 3.7X to ₹92 Crore as Blinkit Becomes Biggest Revenue Driver - India Infoline",
     "text": "Eternal Q1 FY27 Results: Net Profit Jumps 3.7X to ₹92 Crore as Blinkit Becomes Biggest Revenue Driver - India Infoline",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdDcxNDZzcF9jNE1mUVRBMUQyU0RESlNBYkM3OG1YNnpaTTEweXdibGdxN3JTb2E2UENlWUJhd3ZxQi1la0dmZEJjazFpeWx1ejJ6VUNITWZzYzZtQjhrbkJ5R2tvbThUYmRKOG9ySnlSWFNKTEZ1cGVld3Z0ZmtMaUhMa2gyWHFSVFNMSWtRZFEzM1hVdEkxeTdvME9EVUhjTHNfczRQdjFsV2lWM2VVV3VSRGNZRF9KS1ZzTFJsZVFYQnFDODRjS0FmSWFkSEtTNjBtck9XbHNkX28?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review discusses Blinkit becoming the biggest revenue driver, which could be due to repeat purchases.",
+    "ai": {
+      "review_id": "Forum / News:news_152",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Revenue Growth",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review discusses Blinkit becoming the biggest revenue driver, which could be due to repeat purchases.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303549,9 +304056,27 @@
     "title": "Strong Q1 FY27 for Eternal, market share gains likely for Blinkit - Business Standard",
     "text": "Strong Q1 FY27 for Eternal, market share gains likely for Blinkit - Business Standard",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU01YdkxHYXkzd2lKTlRnSFBNMjI1MWFONmp3M29tanZNbVZ2Q29EVi1fdzUzQjJCaHdlcTNkNjlDQmpCLUcxc1JuaF80QXJQTlNvd0xJOG43UkxxODlLOWRHNHRRQTRxbVNWS2RVOFpoY1E4VDcyaHU1UkdIdGs3TEVsMWNfR1NsUGljVHI4eEVpZmYyLWU0azN5dlFzUzhpaU0tR3FkWW5NV09LZWJmTEZGNzNPV25GQ3B5VEgtQ2RkUzhUOURjaVFn0gHPAUFVX3lxTE9NbnQtcTQ4MXIzTEdjUVhvZjQzMGJmdUZDaEpCZ1hmeUQxcVNNSWk2Zm5fTERGN2E4UmgxYjRvU1BOMWxHTHNueGQ1YThGY3IwZ3lucW1SZ2hia2ZXczlMYnpaMXl6TzNpMlhkYTRsNGh6OVRkUXBoVldkRFdVRHBLV2ZaYU5HZE9lMXh4d3NGY3U1WUstZ09aYmI0Q0NLbE91MmtzaGQyYkRPN0lhOEZ3MWp1QThlTk1aalRSMVdiV2h4d1pfT2dTZ1o4TVBLbw?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review mentions market share gains for Blinkit, indicating potential repeat purchases.",
+    "ai": {
+      "review_id": "Forum / News:news_153",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Market Share",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions market share gains for Blinkit, indicating potential repeat purchases.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:42:50.027Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303563,7 +304088,19 @@
     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOT3RnbVMwWUI5YlFZNUdvMjlvVmxDM2t2QWVDZmhBckljUFhrcWo0Y1RtWGptLUhOMkFRTGh5VVRBNktfek5PaV8tcllWdEVmcF92alBUNWtMSDBTU25FUDNkOWZ4MzdmZUVYeVB4TGtIQmEyS0lZX21jNUllR25YcmVZX2t3Z1ZjSXdXMmM4ajM5ZFhHYWlzRDQ4WmQ1N2IzSmJxTVdxbjA1Wk1mbEpvaGd3cU81OVVkSEwxYzZPSUtUa0pyUV9NdkZzMEF5WDZZa1lHcXBjMnoySVRvR3l5NEF2aUxpTUdCT3ZmdWYxT3ZBc2dYOUFoRVlfYW14bXV0VHfSAYcCQVVfeXFMTWVwR2IyTDd4alpZcGJMYVRfYm9pSnFCOVFoTkxaZ2Q2RDRmaGhiLWl1bXJ0LXo3dHpjb3c4Nk9adzg1M2xSUFZDV05yaVd1blV1R3E0OHJNUEVKVElLbUxkX2FYR2dtVTNNUXVFaWlwZ1ZUUlpIZEJaY2wyNXFBTkNqQlA5RlFPdThKdmMxS2hieENJQXBONjZFckZHd25yWk5vUGE4c2VDUHBvMklpbmJxb2FZUXhBSTl0OHlsUGkwYmVNdXlvMV93RHlwT3pJN0Z6T2NzaUgzNDRWeWxkV3lRaWxaOGV5eGR6Zl9FSlh4NFdxdEdOcGRRclpkaXN2YTVfaVNNeW8?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News article detailing company scale and financial growth without customer discovery insights.",
+    "ai": {
+      "review_id": "Forum / News:news_157",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "News article detailing company scale and financial growth without customer discovery insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -303575,7 +304112,19 @@
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYURUTy1VR0s3UDlBNl9wcHJOM2dWQ0x0V1lSc08yNnp3OXVxdHdsVDEtWXl0TXYtMHpab3kwZHFFWkZaLVAzTU90U0JCZEpBYUZmbHhvZUFKZEFMVmh2VG93U1MtTS0wQVZTMTUwTV9FcWxpZWNLb0ZEeEc5LUhNdTlVOG0yQU1DdWRuVHlBOHhYY0NHUlF5aFM1dGIyQ1VDaFBaZWhhTFlRZTNfSTlSNUQzWTJlRXpkcWxhS3J3RkRMWjFEX1VJT256VFlwLV9YTnpN0gHaAUFVX3lxTFBTUHYzZzRydXlsVzJlQUVSRXNuUmNZbWxhbVZveVVBWERVUVljZFBtSVdrTTFTSkxCWXJnS0xkZG9NRzdGM2hqUVVXVWd6QWwtVVpkSnNWckZ5c3dsSjMwZnN5dDR4N3l5LU8tekhtY3NOYmZEV2RJMWxZREdBUGxQckxzcVlwb19rRW1JV0JvSWVzSV9uWXhrNzNlRUQxTEsyTkJxNlF4ZUJzYnNxVU5ONEhCbGRtSEFWN29YV2hLMGFVR3h4a0xCNWNOQXd2WTh3V3IzNVZrQzJn?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News report on expansion of gourmet dark stores without user feedback on product exploration.",
+    "ai": {
+      "review_id": "Forum / News:news_166",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "News report on expansion of gourmet dark stores without user feedback on product exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303585,11 +304134,21 @@
     "title": "Blinkit Review",
     "text": "very quick sarvis",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic feedback praising delivery speed without product or category details.",
+    "ai": {
+      "review_id": "Product Review:pr_6",
+      "relevant": false,
+      "themes": [],
+      "segment": "Speed / Delivery",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic feedback praising delivery speed without product or category details.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303599,11 +304158,21 @@
     "title": "Blinkit Review",
     "text": "awesome delivery",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic compliment regarding delivery service.",
+    "ai": {
+      "review_id": "Product Review:pr_11",
+      "relevant": false,
+      "themes": [],
+      "segment": "Speed / Delivery",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic compliment regarding delivery service.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303613,11 +304182,21 @@
     "title": "Blinkit Review",
     "text": "very nice service provider",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Brief positive note on service with no specific product insights.",
+    "ai": {
+      "review_id": "Product Review:pr_14",
+      "relevant": false,
+      "themes": [],
+      "segment": "General Service",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Brief positive note on service with no specific product insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303627,11 +304206,21 @@
     "title": "Blinkit Review",
     "text": "good experience",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic praise for overall app experience.",
+    "ai": {
+      "review_id": "Product Review:pr_19",
+      "relevant": false,
+      "themes": [],
+      "segment": "General Experience",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic praise for overall app experience.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303641,11 +304230,21 @@
     "title": "Blinkit Review",
     "text": "much more delivery charges",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General complaint regarding delivery costs without connection to category discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_23",
+      "relevant": false,
+      "themes": [],
+      "segment": "Pricing & Fees",
+      "categories": [],
+      "barrier": "High delivery fees",
+      "sentiment": "negative",
+      "reason": "General complaint regarding delivery costs without connection to category discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303655,11 +304254,21 @@
     "title": "Blinkit Review",
     "text": "Initially there used to be a proper customer service but now the app has the automated AI agent which is utterly unhelpful and frustrating when you are trying to complain about an order. Since it can't distinguish between an order and the add on (allowed in the app if you forgot something), it treats the add on as the latest order and can't help with spoilt items in the main order.",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Complaint about AI customer support failing to address damaged order items.",
+    "ai": {
+      "review_id": "Product Review:pr_28",
+      "relevant": false,
+      "themes": [],
+      "segment": "Customer Support",
+      "categories": [],
+      "barrier": "Ineffective customer support",
+      "sentiment": "negative",
+      "reason": "Complaint about AI customer support failing to address damaged order items.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303669,11 +304278,21 @@
     "title": "Blinkit Review",
     "text": "have a good experience ♥️",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic positive feedback with no mention of specific products.",
+    "ai": {
+      "review_id": "Product Review:pr_31",
+      "relevant": false,
+      "themes": [],
+      "segment": "General Experience",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic positive feedback with no mention of specific products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303685,9 +304304,27 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
+      "Habit or repeat purchase",
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Higher pricing on personal care items and added fees damage price trust and push user to alternative platforms.",
+    "ai": {
+      "review_id": "Product Review:pr_36",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Trial confidence"
+      ],
+      "segment": "Beauty & Personal Care",
+      "categories": [
+        "Beauty & Personal Care"
+      ],
+      "barrier": "High prices and extra fees",
+      "sentiment": "negative",
+      "reason": "Higher pricing on personal care items and added fees damage price trust and push user to alternative platforms.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:03.126Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303697,11 +304334,21 @@
     "title": "Blinkit Review",
     "text": "excellent service and products are of really very good quality 👌",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer likes the quality of products.",
+    "ai": {
+      "review_id": "Product Review:pr_40",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer likes the quality of products.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303711,11 +304358,21 @@
     "title": "Blinkit Review",
     "text": "Fast and excellent service... customer-friendly representatives",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer likes the customer service.",
+    "ai": {
+      "review_id": "Product Review:pr_43",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer likes the customer service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303725,11 +304382,21 @@
     "title": "Blinkit Review",
     "text": "it is so good and pls give me 30% off in next order 🫶❤️",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer wants a discount.",
+    "ai": {
+      "review_id": "Product Review:pr_50",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer wants a discount.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303739,11 +304406,21 @@
     "title": "Blinkit Review",
     "text": "service is pretty Good",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer likes the service.",
+    "ai": {
+      "review_id": "Product Review:pr_54",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer likes the service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303753,11 +304430,21 @@
     "title": "Blinkit Review",
     "text": "good 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer is satisfied.",
+    "ai": {
+      "review_id": "Product Review:pr_58",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer is satisfied.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303767,11 +304454,21 @@
     "title": "Blinkit Review",
     "text": "address change kastama iruku",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer is having trouble with address change.",
+    "ai": {
+      "review_id": "Product Review:pr_61",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": "Address change issue",
+      "sentiment": "negative",
+      "reason": "The customer is having trouble with address change.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303781,11 +304478,21 @@
     "title": "Blinkit Review",
     "text": "l like free delivery",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer likes free delivery.",
+    "ai": {
+      "review_id": "Product Review:pr_65",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer likes free delivery.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303795,11 +304502,21 @@
     "title": "Blinkit Review",
     "text": "Go for it!!!",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer recommends the service.",
+    "ai": {
+      "review_id": "Product Review:pr_69",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer recommends the service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303809,11 +304526,21 @@
     "title": "Blinkit Review",
     "text": "good 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer is satisfied.",
+    "ai": {
+      "review_id": "Product Review:pr_72",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer is satisfied.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303823,11 +304550,21 @@
     "title": "Blinkit Review",
     "text": "very good",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer likes the service.",
+    "ai": {
+      "review_id": "Product Review:pr_78",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer likes the service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:07.568Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303839,10 +304576,28 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration",
-      "Trial confidence"
+      "Trial confidence",
+      "Category or product exploration"
     ],
-    "screening_reason": "Matched: Category or product exploration; Trial confidence"
+    "screening_reason": "AI (gemini): A hassle-free return and refund experience gave the user confidence to immediately try purchasing another brand in a non-grocery category.",
+    "ai": {
+      "review_id": "Product Review:pr_81",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Category or product exploration"
+      ],
+      "segment": "Non-grocery buyer",
+      "categories": [
+        "Electronics",
+        "Watches"
+      ],
+      "barrier": "Defective product received",
+      "sentiment": "positive",
+      "reason": "A hassle-free return and refund experience gave the user confidence to immediately try purchasing another brand in a non-grocery category.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.001Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303852,11 +304607,21 @@
     "title": "Blinkit Review",
     "text": "very good very convenient but price are bit expensive compare to other quick commerce site but overall its the best.",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic price comparison with competitors that does not mention specific product categories or discovery behavior.",
+    "ai": {
+      "review_id": "Product Review:pr_84",
+      "relevant": false,
+      "themes": [],
+      "segment": "Price-sensitive user",
+      "categories": [],
+      "barrier": "Higher pricing compared to competitors",
+      "sentiment": "positive",
+      "reason": "Generic price comparison with competitors that does not mention specific product categories or discovery behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.001Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303866,11 +304631,21 @@
     "title": "Blinkit Review",
     "text": "bekar hai app",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic short feedback that does not provide any context on product discovery or buying habits.",
+    "ai": {
+      "review_id": "Product Review:pr_91",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": "Generic dissatisfaction",
+      "sentiment": "negative",
+      "reason": "Generic short feedback that does not provide any context on product discovery or buying habits.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.001Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303880,11 +304655,21 @@
     "title": "Blinkit Review",
     "text": "why delivery charge extra on each product",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General complaint regarding extra delivery charges without reference to specific product categories or exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_95",
+      "relevant": false,
+      "themes": [],
+      "segment": "Price-sensitive user",
+      "categories": [],
+      "barrier": "Per-item delivery fee",
+      "sentiment": "negative",
+      "reason": "General complaint regarding extra delivery charges without reference to specific product categories or exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.001Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303894,11 +304679,23 @@
     "title": "Blinkit Review",
     "text": "I am trying to talk to customer executive but failed due to blinkit server issue, I have ordered something related to food and it is bad condition, I want replacement or refund but unable to register my complaint. Now Blinkit team, what is the solution now?",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses on customer support and app server issues rather than category discovery or purchase motivation.",
+    "ai": {
+      "review_id": "Product Review:pr_98",
+      "relevant": false,
+      "themes": [],
+      "segment": "Grocery buyer",
+      "categories": [
+        "Food"
+      ],
+      "barrier": "App issue preventing support for bad product",
+      "sentiment": "negative",
+      "reason": "Focuses on customer support and app server issues rather than category discovery or purchase motivation.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.001Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303910,9 +304707,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Selling frequently bought items above MRP damages trust and disrupts repeat purchasing habits.",
+    "ai": {
+      "review_id": "Product Review:pr_103",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Frequent shopper",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": "Pricing above MRP",
+      "sentiment": "negative",
+      "reason": "Selling frequently bought items above MRP damages trust and disrupts repeat purchasing habits.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.001Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303922,11 +304735,21 @@
     "title": "Blinkit Review",
     "text": "good 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Extremely brief positive rating providing no details on product categories or user behavior.",
+    "ai": {
+      "review_id": "Product Review:pr_107",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Extremely brief positive rating providing no details on product categories or user behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.002Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303936,11 +304759,21 @@
     "title": "Blinkit Review",
     "text": "very good 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic approval without any specific insights regarding category exploration or platform trust.",
+    "ai": {
+      "review_id": "Product Review:pr_110",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic approval without any specific insights regarding category exploration or platform trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.002Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303950,11 +304783,21 @@
     "title": "Blinkit Review",
     "text": "3rd class experience",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic negative comment lacking any context on product discovery or repeat purchasing.",
+    "ai": {
+      "review_id": "Product Review:pr_116",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": "Poor service experience",
+      "sentiment": "negative",
+      "reason": "Generic negative comment lacking any context on product discovery or repeat purchasing.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.002Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303964,11 +304807,21 @@
     "title": "Blinkit Review",
     "text": "poor quality provided",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Vague product quality complaint without specifying the product category or impact on trial decisions.",
+    "ai": {
+      "review_id": "Product Review:pr_119",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": "Poor product quality",
+      "sentiment": "negative",
+      "reason": "Vague product quality complaint without specifying the product category or impact on trial decisions.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:21.002Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303978,11 +304831,21 @@
     "title": "Blinkit Review",
     "text": "good service 💯",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review only mentions good service.",
+    "ai": {
+      "review_id": "Product Review:pr_123",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review only mentions good service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -303994,9 +304857,23 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The review mentions convenience as a reason for using the service.",
+    "ai": {
+      "review_id": "Product Review:pr_128",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Convenience",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review mentions convenience as a reason for using the service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304006,11 +304883,21 @@
     "title": "Blinkit Review",
     "text": "best experience but can't pay with online payment from other UPI in first it was applied but now it hasn't worked since 2 to 3 months ago.. please let service this",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review discusses a payment issue, not related to product discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_131",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": "Payment issues",
+      "sentiment": "positive",
+      "reason": "The review discusses a payment issue, not related to product discovery.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304025,7 +304912,26 @@
       "Category or product exploration",
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Category or product exploration; Trial confidence"
+    "screening_reason": "AI (groq): The review discusses issues with product quality and description.",
+    "ai": {
+      "review_id": "Product Review:pr_136",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration",
+        "Trial confidence"
+      ],
+      "segment": "Quality-focused",
+      "categories": [
+        "Organic Ladyfinger",
+        "Raw Mango",
+        "Chopped Spinach"
+      ],
+      "barrier": "Poor product quality",
+      "sentiment": "negative",
+      "reason": "The review discusses issues with product quality and description.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304035,11 +304941,21 @@
     "title": "Blinkit Review",
     "text": "its verry good app no need to explain too much just open it you will understand everything... ❤️",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review only mentions the app being good, without specific details.",
+    "ai": {
+      "review_id": "Product Review:pr_143",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review only mentions the app being good, without specific details.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304049,11 +304965,21 @@
     "title": "Blinkit Review",
     "text": "easy to use and very helpful 🥰😍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review only mentions the app being easy to use and helpful.",
+    "ai": {
+      "review_id": "Product Review:pr_146",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review only mentions the app being easy to use and helpful.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304063,11 +304989,21 @@
     "title": "Blinkit Review",
     "text": "good service 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review only mentions good service.",
+    "ai": {
+      "review_id": "Product Review:pr_149",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review only mentions good service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304077,11 +305013,21 @@
     "title": "Blinkit Review",
     "text": "best ap and fast delivery 🙂",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review only mentions the app being good and having fast delivery.",
+    "ai": {
+      "review_id": "Product Review:pr_156",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review only mentions the app being good and having fast delivery.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304091,11 +305037,21 @@
     "title": "Blinkit Review",
     "text": "mujhe achha laga aur delivery boys' bhi bhot achhe se bat karte karte h",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review discusses delivery boys and the service, not product discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_160",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review discusses delivery boys and the service, not product discovery.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304105,11 +305061,21 @@
     "title": "Blinkit Review",
     "text": "very good",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review only mentions the service being very good.",
+    "ai": {
+      "review_id": "Product Review:pr_164",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review only mentions the service being very good.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:25.660Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304121,9 +305087,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Trial confidence",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Mentions high product prices compared to local markets, hindering trial and repeat purchase confidence.",
+    "ai": {
+      "review_id": "Product Review:pr_167",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Price-sensitive shopper",
+      "categories": [],
+      "barrier": "High pricing compared to market",
+      "sentiment": "negative",
+      "reason": "Mentions high product prices compared to local markets, hindering trial and repeat purchase confidence.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304133,11 +305115,21 @@
     "title": "Blinkit Review",
     "text": "amazing experience",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic positive feedback without specific insights into product discovery or trial.",
+    "ai": {
+      "review_id": "Product Review:pr_171",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic positive feedback without specific insights into product discovery or trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304147,11 +305139,21 @@
     "title": "Blinkit Review",
     "text": "very good app",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic praise for the application without details regarding categories or product experience.",
+    "ai": {
+      "review_id": "Product Review:pr_176",
+      "relevant": false,
+      "themes": [],
+      "segment": "General user",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic praise for the application without details regarding categories or product experience.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304161,11 +305163,21 @@
     "title": "Blinkit Review",
     "text": "Reliable, Fast and on time Delivery.. Love it",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses strictly on delivery speed and reliability rather than product catalog or exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_181",
+      "relevant": false,
+      "themes": [],
+      "segment": "Speed-focused shopper",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Focuses strictly on delivery speed and reliability rather than product catalog or exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304179,7 +305191,21 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Praises product quality, which helps build trust and trial confidence for products.",
+    "ai": {
+      "review_id": "Product Review:pr_184",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Quality-conscious shopper",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Praises product quality, which helps build trust and trial confidence for products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304189,11 +305215,21 @@
     "title": "Blinkit Review",
     "text": "very worst",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Extremely generic negative review with no specific context on products or features.",
+    "ai": {
+      "review_id": "Product Review:pr_191",
+      "relevant": false,
+      "themes": [],
+      "segment": "Dissatisfied user",
+      "categories": [],
+      "barrier": "Generic poor experience",
+      "sentiment": "negative",
+      "reason": "Extremely generic negative review with no specific context on products or features.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304203,11 +305239,21 @@
     "title": "Blinkit Review",
     "text": "two delivery patners for one order I had to waste my time to wait for both when I ordered both the things at same time",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses on delivery split fulfillment issues rather than product selection or discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_197",
+      "relevant": false,
+      "themes": [],
+      "segment": "Convenience seeker",
+      "categories": [],
+      "barrier": "Split order logistics issues",
+      "sentiment": "negative",
+      "reason": "Focuses on delivery split fulfillment issues rather than product selection or discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304219,9 +305265,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Availability or substitution",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Highlights broad product availability for daily needs, driving repeat usage and trust.",
+    "ai": {
+      "review_id": "Product Review:pr_203",
+      "relevant": true,
+      "themes": [
+        "Availability or substitution",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Convenience shopper",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Highlights broad product availability for daily needs, driving repeat usage and trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304231,11 +305293,21 @@
     "title": "Blinkit Review",
     "text": "It was a quick delivery. Thanks to Mr. Rohit☺️",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Compliments delivery partner speed, which does not inform product discovery research.",
+    "ai": {
+      "review_id": "Product Review:pr_206",
+      "relevant": false,
+      "themes": [],
+      "segment": "Speed-focused shopper",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Compliments delivery partner speed, which does not inform product discovery research.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304245,11 +305317,21 @@
     "title": "Blinkit Review",
     "text": "Exellent service and Customer support quick response👌😀",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Pertains to customer support interaction rather than product exploration or adoption.",
+    "ai": {
+      "review_id": "Product Review:pr_209",
+      "relevant": false,
+      "themes": [],
+      "segment": "Service-focused shopper",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Pertains to customer support interaction rather than product exploration or adoption.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:39.216Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304259,11 +305341,21 @@
     "title": "Blinkit Review",
     "text": "satisfied ☺️",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is a general expression of satisfaction.",
+    "ai": {
+      "review_id": "Product Review:pr_212",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is a general expression of satisfaction.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304273,11 +305365,21 @@
     "title": "Blinkit Review",
     "text": "Excellent service.",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review praises the service but does not specify how it relates to product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_216",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review praises the service but does not specify how it relates to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304287,11 +305389,21 @@
     "title": "Blinkit Review",
     "text": "thanks for best servicing 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review thanks for the service but does not provide insight into product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_220",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review thanks for the service but does not provide insight into product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304301,11 +305413,21 @@
     "title": "Blinkit Review",
     "text": "Good facilities",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review mentions good facilities but does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_224",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions good facilities but does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304315,11 +305437,21 @@
     "title": "Blinkit Review",
     "text": "wow nice",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide useful insight into product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_235",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide useful insight into product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304329,11 +305461,21 @@
     "title": "Blinkit Review",
     "text": "100 % service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review praises the service but does not specify how it relates to product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_238",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review praises the service but does not specify how it relates to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304343,11 +305485,21 @@
     "title": "Blinkit Review",
     "text": "very bad",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is negative but does not provide insight into why the user did not discover, trust, try, or repeatedly buy new product categories.",
+    "ai": {
+      "review_id": "Product Review:pr_243",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "The review is negative but does not provide insight into why the user did not discover, trust, try, or repeatedly buy new product categories.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304359,9 +305511,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Discovery or navigation"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The review mentions excellent and fast delivery, which could influence product discovery and trust.",
+    "ai": {
+      "review_id": "Product Review:pr_248",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation"
+      ],
+      "segment": "Fast Delivery",
+      "categories": [
+        "Delivery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions excellent and fast delivery, which could influence product discovery and trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304371,11 +305539,21 @@
     "title": "Blinkit Review",
     "text": "provide the best service..",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review praises the service but does not specify how it relates to product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_252",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review praises the service but does not specify how it relates to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304387,9 +305565,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Discovery or navigation"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The review mentions a negative experience with delivery time, which could affect product discovery and trust.",
+    "ai": {
+      "review_id": "Product Review:pr_256",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation"
+      ],
+      "segment": "Delayed Delivery",
+      "categories": [
+        "Delivery"
+      ],
+      "barrier": "Delivery Issues",
+      "sentiment": "negative",
+      "reason": "The review mentions a negative experience with delivery time, which could affect product discovery and trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:44.113Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304399,11 +305593,21 @@
     "title": "Blinkit Review",
     "text": "very nice sincerely work",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic feedback about service without specific insights into product or category discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_261",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic feedback about service without specific insights into product or category discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304413,11 +305617,21 @@
     "title": "Blinkit Review",
     "text": "absolutely fantastic and efficient",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General praise for service efficiency without details on products or categories.",
+    "ai": {
+      "review_id": "Product Review:pr_264",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "General praise for service efficiency without details on products or categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304427,11 +305641,21 @@
     "title": "Blinkit Review",
     "text": "Nice option",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Vague compliment about options with no specific product or navigation insights.",
+    "ai": {
+      "review_id": "Product Review:pr_268",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Vague compliment about options with no specific product or navigation insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304441,11 +305665,21 @@
     "title": "Blinkit Review",
     "text": "nice 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic positive feedback with no mention of products or categories.",
+    "ai": {
+      "review_id": "Product Review:pr_271",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic positive feedback with no mention of products or categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304455,11 +305689,21 @@
     "title": "Blinkit Review",
     "text": "good app",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Brief general feedback about the app without relevant product exploration details.",
+    "ai": {
+      "review_id": "Product Review:pr_275",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Brief general feedback about the app without relevant product exploration details.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304469,11 +305713,21 @@
     "title": "Blinkit Review",
     "text": "I returned an order as it was damaged They took the parcel the same day and I was supposed to get my money back but I did not get my money and the assistant chat is the worst part does not allow you to text anything of no use",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Pertains strictly to a refund dispute and customer service issue rather than product discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_281",
+      "relevant": false,
+      "themes": [],
+      "segment": "Customer Service & Returns",
+      "categories": [],
+      "barrier": "Unresolved refund and unhelpful chat support",
+      "sentiment": "negative",
+      "reason": "Pertains strictly to a refund dispute and customer service issue rather than product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304483,11 +305737,21 @@
     "title": "Blinkit Review",
     "text": "good work",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic positive sentiment about work done, providing no product research value.",
+    "ai": {
+      "review_id": "Product Review:pr_284",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic positive sentiment about work done, providing no product research value.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304497,11 +305761,21 @@
     "title": "Blinkit Review",
     "text": "very nice",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Short generic review lacking details about product selection or trial.",
+    "ai": {
+      "review_id": "Product Review:pr_287",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Short generic review lacking details about product selection or trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304511,11 +305785,21 @@
     "title": "Blinkit Review",
     "text": "very nice! fast service!",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses on fast service delivery rather than product or category exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_290",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery Speed",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Focuses on fast service delivery rather than product or category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304525,11 +305809,21 @@
     "title": "Blinkit Review",
     "text": "ghar baithe saman mil raha hai aaj kal k baag dour wali life me",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General appreciation for doorstep delivery convenience without mentioning product categories.",
+    "ai": {
+      "review_id": "Product Review:pr_295",
+      "relevant": false,
+      "themes": [],
+      "segment": "Convenience",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "General appreciation for doorstep delivery convenience without mentioning product categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:43:54.891Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304539,11 +305833,21 @@
     "title": "Blinkit Review",
     "text": "very good",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_299",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304553,11 +305857,21 @@
     "title": "Blinkit Review",
     "text": "good service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_304",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304567,11 +305881,21 @@
     "title": "Blinkit Review",
     "text": "not bad",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_307",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304581,11 +305905,21 @@
     "title": "Blinkit Review",
     "text": "too much time to deliver.",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is related to delivery time, not product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_313",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is related to delivery time, not product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304597,9 +305931,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Category or product exploration"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The review mentions a wide range of products, indicating satisfaction with product exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_317",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Convenience",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions a wide range of products, indicating satisfaction with product exploration.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304609,11 +305959,21 @@
     "title": "Blinkit Review",
     "text": "wonderfull service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_320",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304627,7 +305987,23 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The review mentions difficulty with returning a spoiled item, indicating a lack of trust in the trial process.",
+    "ai": {
+      "review_id": "Product Review:pr_326",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Support",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": "Return Policy",
+      "sentiment": "negative",
+      "reason": "The review mentions difficulty with returning a spoiled item, indicating a lack of trust in the trial process.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304637,11 +306013,21 @@
     "title": "Blinkit Review",
     "text": "good working",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_329",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304651,11 +306037,21 @@
     "title": "Blinkit Review",
     "text": "ekdm mast",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_333",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304665,11 +306061,21 @@
     "title": "Blinkit Review",
     "text": "thank you blankit",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The review is too brief and does not provide any specific information about product discovery or trust.",
+    "ai": {
+      "review_id": "Product Review:pr_340",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is too brief and does not provide any specific information about product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:43:59.521Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304679,11 +306085,21 @@
     "title": "Blinkit Review",
     "text": "too much good outstanding app",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic feedback without actionable insights into product discovery or category trial.",
+    "ai": {
+      "review_id": "Product Review:pr_343",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic App User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic feedback without actionable insights into product discovery or category trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304693,11 +306109,21 @@
     "title": "Blinkit Review",
     "text": "Good Service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic praise for service without details on product exploration or selection.",
+    "ai": {
+      "review_id": "Product Review:pr_347",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic App User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic praise for service without details on product exploration or selection.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304711,7 +306137,23 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Mentions fresh commodities, which establishes product quality trust for repeat grocery buying.",
+    "ai": {
+      "review_id": "Product Review:pr_350",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Fresh Produce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Mentions fresh commodities, which establishes product quality trust for repeat grocery buying.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304721,11 +306163,21 @@
     "title": "Blinkit Review",
     "text": "bahut ghatiya app hai",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic negative complaint with no specific details regarding products or categories.",
+    "ai": {
+      "review_id": "Product Review:pr_353",
+      "relevant": false,
+      "themes": [],
+      "segment": "Dissatisfied User",
+      "categories": [],
+      "barrier": "General dissatisfaction",
+      "sentiment": "negative",
+      "reason": "Generic negative complaint with no specific details regarding products or categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304735,11 +306187,21 @@
     "title": "Blinkit Review",
     "text": "to bad",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Extremely brief negative comment lacking context on product selection or purchase barriers.",
+    "ai": {
+      "review_id": "Product Review:pr_356",
+      "relevant": false,
+      "themes": [],
+      "segment": "Dissatisfied User",
+      "categories": [],
+      "barrier": "General dissatisfaction",
+      "sentiment": "negative",
+      "reason": "Extremely brief negative comment lacking context on product selection or purchase barriers.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304751,10 +306213,27 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Discovery or navigation",
-      "Trial confidence"
+      "Trial confidence",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Discovery or navigation; Trial confidence"
+    "screening_reason": "AI (gemini): Highlights fresh products reinforcing repeat orders, while suggesting discounts to sustain loyalty.",
+    "ai": {
+      "review_id": "Product Review:pr_359",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Loyal Shopper",
+      "categories": [
+        "Fresh Produce"
+      ],
+      "barrier": "Lack of loyalty discounts",
+      "sentiment": "positive",
+      "reason": "Highlights fresh products reinforcing repeat orders, while suggesting discounts to sustain loyalty.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304764,11 +306243,21 @@
     "title": "Blinkit Review",
     "text": "👍🏻 👍🏻👍🏻👍🏻 Nice",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Short emoji praise that lacks context for studying product or category engagement.",
+    "ai": {
+      "review_id": "Product Review:pr_365",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic App User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Short emoji praise that lacks context for studying product or category engagement.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304778,11 +306267,21 @@
     "title": "Blinkit Review",
     "text": "resaneable rates and best delivery service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General comment on rates and delivery without reference to specific product categories or exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_368",
+      "relevant": false,
+      "themes": [],
+      "segment": "Value-Conscious Shopper",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "General comment on rates and delivery without reference to specific product categories or exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304796,7 +306295,23 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Returns friction for incorrect items impacts post-purchase trust and willingness to try new products.",
+    "ai": {
+      "review_id": "Product Review:pr_371",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Cautious Shopper",
+      "categories": [
+        "General Grocery"
+      ],
+      "barrier": "Difficult returns for incorrect items",
+      "sentiment": "neutral",
+      "reason": "Returns friction for incorrect items impacts post-purchase trust and willingness to try new products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304806,11 +306321,21 @@
     "title": "Blinkit Review",
     "text": "delivery time adherence",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses purely on delivery timeliness without any product or category context.",
+    "ai": {
+      "review_id": "Product Review:pr_376",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery-Focused User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Focuses purely on delivery timeliness without any product or category context.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:10.414Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304820,11 +306345,21 @@
     "title": "Blinkit Review",
     "text": "I lost only ₹72.50 due to the non-issuance of a cashback, but Blinkit’s lack of accountability is far more disappointing. I applied the AIRTELAXIS10 coupon exactly as I had on previous successful orders, but it was apparently not recorded due to an app/server/network issue. Despite weeks of follow-ups, Blinkit simply repeated that the coupon wasn’t applied and refused to help. Customer support should solve problems, not just quote system records. Uninstalling the app and switching to other apps.",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Customer had an issue with a coupon not being applied.",
+    "ai": {
+      "review_id": "Product Review:pr_380",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic Complaint",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Customer had an issue with a coupon not being applied.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304834,11 +306369,21 @@
     "title": "Blinkit Review",
     "text": "so nice",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer liked the app.",
+    "ai": {
+      "review_id": "Product Review:pr_384",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic Praise",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer liked the app.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304848,11 +306393,21 @@
     "title": "Blinkit Review",
     "text": "super deivery",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer liked the delivery service.",
+    "ai": {
+      "review_id": "Product Review:pr_387",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery Praise",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer liked the delivery service.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304864,9 +306419,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The customer found the delivery charges to be expensive.",
+    "ai": {
+      "review_id": "Product Review:pr_390",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Price Sensitive",
+      "categories": [
+        "Delivery Charges"
+      ],
+      "barrier": "High delivery charges",
+      "sentiment": "negative",
+      "reason": "The customer found the delivery charges to be expensive.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304876,12 +306447,21 @@
     "title": "Blinkit Review",
     "text": "I had ordered for banana along with other items but banana was not delivered. I complained but they are saying it is delivered which is wrong as I have not received banana for which I paid Rs 61",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence",
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Trial confidence; Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer had an issue with their order not being delivered correctly.",
+    "ai": {
+      "review_id": "Product Review:pr_394",
+      "relevant": false,
+      "themes": [],
+      "segment": "Order Issue",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "The customer had an issue with their order not being delivered correctly.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304891,11 +306471,21 @@
     "title": "Blinkit Review",
     "text": "I'm obsessed",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer is obsessed with the app.",
+    "ai": {
+      "review_id": "Product Review:pr_397",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic Praise",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer is obsessed with the app.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304909,7 +306499,23 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The customer received an expired product.",
+    "ai": {
+      "review_id": "Product Review:pr_403",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Quality Concern",
+      "categories": [
+        "Product Quality"
+      ],
+      "barrier": "Poor product quality",
+      "sentiment": "negative",
+      "reason": "The customer received an expired product.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304923,7 +306529,24 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The customer received a defective product and had a poor customer service experience.",
+    "ai": {
+      "review_id": "Product Review:pr_407",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Quality Concern",
+      "categories": [
+        "Product Quality",
+        "Customer Service"
+      ],
+      "barrier": "Poor product quality and customer service",
+      "sentiment": "negative",
+      "reason": "The customer received a defective product and had a poor customer service experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304933,11 +306556,21 @@
     "title": "Blinkit Review",
     "text": "it's very gud app",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): The customer likes the app.",
+    "ai": {
+      "review_id": "Product Review:pr_410",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic Praise",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer likes the app.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304951,7 +306584,24 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): The customer received old and poorly packaged products.",
+    "ai": {
+      "review_id": "Product Review:pr_415",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Quality Concern",
+      "categories": [
+        "Product Quality",
+        "Packaging"
+      ],
+      "barrier": "Poor product quality and packaging",
+      "sentiment": "negative",
+      "reason": "The customer received old and poorly packaged products.",
+      "provider": "groq",
+      "classified_at": "2026-08-03T09:44:15.184Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304961,11 +306611,21 @@
     "title": "Blinkit Review",
     "text": "👍 good",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Contains only generic praise with no information on product or category discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_418",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Contains only generic praise with no information on product or category discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304977,10 +306637,25 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration",
-      "Trial confidence"
+      "Availability or substitution"
     ],
-    "screening_reason": "Matched: Category or product exploration; Trial confidence"
+    "screening_reason": "AI (gemini): Highlights nighttime availability issues when trying to order from the medicine category.",
+    "ai": {
+      "review_id": "Product Review:pr_421",
+      "relevant": true,
+      "themes": [
+        "Availability or substitution"
+      ],
+      "segment": "Category availability",
+      "categories": [
+        "Medicine"
+      ],
+      "barrier": "Nighttime delivery unavailability",
+      "sentiment": "negative",
+      "reason": "Highlights nighttime availability issues when trying to order from the medicine category.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -304992,9 +306667,27 @@
     "url": "",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Trial confidence",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Identifies warm cold drinks as a key barrier threatening repeat orders in the category.",
+    "ai": {
+      "review_id": "Product Review:pr_425",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Product quality",
+      "categories": [
+        "Beverages"
+      ],
+      "barrier": "Poor temperature control upon delivery",
+      "sentiment": "negative",
+      "reason": "Identifies warm cold drinks as a key barrier threatening repeat orders in the category.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305004,11 +306697,21 @@
     "title": "Blinkit Review",
     "text": "devilery partners carry weapons to threnen",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses on delivery partner behavior rather than product or category exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_428",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery partner conduct",
+      "categories": [],
+      "barrier": "Safety concerns",
+      "sentiment": "negative",
+      "reason": "Focuses on delivery partner behavior rather than product or category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305018,11 +306721,21 @@
     "title": "Blinkit Review",
     "text": "good 👍",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Short generic positive comment with no relevance to category discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_434",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Short generic positive comment with no relevance to category discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305032,11 +306745,21 @@
     "title": "Blinkit Review",
     "text": "atleast cut off the charges and platform fees on the order which are going to jantar mantar, Delhi, please bharat mata ki jai",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Discusses platform fee waivers for specific locations rather than product discovery.",
+    "ai": {
+      "review_id": "Product Review:pr_437",
+      "relevant": false,
+      "themes": [],
+      "segment": "Platform fees",
+      "categories": [],
+      "barrier": "Location-specific fees",
+      "sentiment": "neutral",
+      "reason": "Discusses platform fee waivers for specific locations rather than product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305046,11 +306769,21 @@
     "title": "Blinkit Review",
     "text": "nice good service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic positive rating with no mention of specific products or shopping habits.",
+    "ai": {
+      "review_id": "Product Review:pr_440",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic positive rating with no mention of specific products or shopping habits.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305060,11 +306793,21 @@
     "title": "Blinkit Review",
     "text": "good app",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General praise for the application without product or category insights.",
+    "ai": {
+      "review_id": "Product Review:pr_445",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "General praise for the application without product or category insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305074,11 +306817,21 @@
     "title": "Blinkit Review",
     "text": "I like the service",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic positive comment about service without details on product trial.",
+    "ai": {
+      "review_id": "Product Review:pr_450",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic feedback",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Generic positive comment about service without details on product trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
@@ -305088,11 +306841,21 @@
     "title": "Blinkit Review",
     "text": "Very pathetic application and delivery service. The delivery guy falsely claimed that I had entered the wrong address, even though my address was completely correct. I even showed him the correct address in person, but instead of accepting his mistake, he blamed me and said, \"Because of you, I suffered a loss. It's disappointing that you have delivery partners who don't know how to navigate to the correct location and then blame customers for their own mistakes. I want a call from Blinkit",
     "url": "",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Describes a delivery partner dispute regarding the address, unrelated to product exploration.",
+    "ai": {
+      "review_id": "Product Review:pr_453",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery address issue",
+      "categories": [],
+      "barrier": "Delivery partner error",
+      "sentiment": "negative",
+      "reason": "Describes a delivery partner dispute regarding the address, unrelated to product exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-03T09:44:25.942Z"
+    }
   },
   {
     "source": "Product Review",
