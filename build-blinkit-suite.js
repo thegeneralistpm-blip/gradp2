@@ -4,7 +4,13 @@ const dataDir = path.join(__dirname, 'data');
 const records = JSON.parse(fs.readFileSync(path.join(dataDir, 'review_screening.json')));
 const report = JSON.parse(fs.readFileSync(path.join(dataDir, 'screening_report.json')));
 const themes = report.theme_definitions.map(t => ({ name: t.name, count: records.filter(r => r.matched_themes.includes(t.name)).length }));
-const sourceCounts = Object.entries(report.source_breakdown).map(([source, value]) => ({ source, count: value.downloaded })).sort((a, b) => b.count - a.count);
+const groupedSourceCounts = Object.entries(report.source_breakdown).reduce((groups, [source, value]) => {
+  const displaySource = source === 'Apple App Store (IN)' || source === 'Apple App Store (India)'
+    ? 'Apple App Store (India)' : source;
+  groups[displaySource] = (groups[displaySource] || 0) + value.downloaded;
+  return groups;
+}, {});
+const sourceCounts = Object.entries(groupedSourceCounts).map(([source, count]) => ({ source, count })).sort((a, b) => b.count - a.count);
 const sourceCoverage = sourceCounts.map(item => `${item.source}: ${item.count.toLocaleString()}`).join(' · ');
 const summary = { report, themes, sourceCounts, sourceCoverage, appStore: records.filter(r => r.source.startsWith('Apple')).length, play: records.filter(r => r.source.startsWith('Google')).length };
 const json = value => JSON.stringify(value).replace(/</g, '\\u003c');

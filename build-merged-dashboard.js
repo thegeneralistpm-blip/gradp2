@@ -11,11 +11,17 @@ const themes = report.theme_definitions.map(t => ({
 const inScope = records.filter(r => r.study_relevant).length;
 const appStore = records.filter(r => String(r.source).startsWith('Apple')).length;
 const playStore = records.filter(r => String(r.source).startsWith('Google')).length;
-const sourceCounts = Object.entries(report.source_breakdown)
-  .map(([source, value]) => ({ source, count: value.downloaded }))
+const sourceCounts = Object.entries(report.source_breakdown).reduce((groups, [source, value]) => {
+  const displaySource = source === 'Apple App Store (IN)' || source === 'Apple App Store (India)'
+    ? 'Apple App Store (India)' : source;
+  groups[displaySource] = (groups[displaySource] || 0) + value.downloaded;
+  return groups;
+}, {});
+const groupedSourceCounts = Object.entries(sourceCounts)
+  .map(([source, count]) => ({ source, count }))
   .sort((a, b) => b.count - a.count);
-const sourceMax = Math.max(...sourceCounts.map(item => item.count), 1);
-const sourceRows = sourceCounts.map((item, index) => `<div class="barrow"><span>${item.source}</span><div class="bar"><i class="${index === 0 ? 'orange' : 'green'}" style="width:${item.count / sourceMax * 100}%"></i></div><b>${item.count.toLocaleString()}</b></div>`).join('');
+const sourceMax = Math.max(...groupedSourceCounts.map(item => item.count), 1);
+const sourceRows = groupedSourceCounts.map((item, index) => `<div class="barrow"><span>${item.source}</span><div class="bar"><i class="${index === 0 ? 'orange' : 'green'}" style="width:${item.count / sourceMax * 100}%"></i></div><b>${item.count.toLocaleString()}</b></div>`).join('');
 const ratings = [1, 2, 3, 4, 5].map(rating => ({ rating, count: records.filter(r => Number(r.rating) === rating).length }));
 const safe = value => JSON.stringify(value).replace(/</g, '\\u003c');
 
