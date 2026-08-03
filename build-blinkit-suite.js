@@ -5,8 +5,8 @@ const records = JSON.parse(fs.readFileSync(path.join(dataDir, 'review_screening.
 const report = JSON.parse(fs.readFileSync(path.join(dataDir, 'screening_report.json')));
 const themes = report.theme_definitions.map(t => ({ name: t.name, count: records.filter(r => r.matched_themes.includes(t.name)).length }));
 const groupedSourceCounts = Object.entries(report.source_breakdown).reduce((groups, [source, value]) => {
-  const displaySource = source === 'Apple App Store (IN)' || source === 'Apple App Store (India)'
-    ? 'Apple App Store (India)' : source;
+  const displaySource = source.startsWith('Apple App Store')
+    ? 'Apple App Store (IN)' : source;
   groups[displaySource] = (groups[displaySource] || 0) + value.downloaded;
   return groups;
 }, {});

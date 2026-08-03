@@ -12,8 +12,8 @@ const inScope = records.filter(r => r.study_relevant).length;
 const appStore = records.filter(r => String(r.source).startsWith('Apple')).length;
 const playStore = records.filter(r => String(r.source).startsWith('Google')).length;
 const sourceCounts = Object.entries(report.source_breakdown).reduce((groups, [source, value]) => {
-  const displaySource = source === 'Apple App Store (IN)' || source === 'Apple App Store (India)'
-    ? 'Apple App Store (India)' : source;
+  const displaySource = source.startsWith('Apple App Store')
+    ? 'Apple App Store (IN)' : source;
   groups[displaySource] = (groups[displaySource] || 0) + value.downloaded;
   return groups;
 }, {});
