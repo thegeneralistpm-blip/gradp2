@@ -32879,5 +32879,2799 @@
     "reason": "Describes a delivery partner dispute regarding the address, unrelated to product exploration.",
     "provider": "gemini",
     "classified_at": "2026-08-03T09:44:25.942Z"
+  },
+  "14369177594": {
+    "review_id": "14369177594",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Received spoiled product",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "14366993848": {
+    "review_id": "14366993848",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Damaged product and poor customer service",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "14322366757": {
+    "review_id": "14322366757",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "High product prices",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "14322339237": {
+    "review_id": "14322339237",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Fast and reliable service",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "14322319935": {
+    "review_id": "14322319935",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Issue with change refund",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "14322067831": {
+    "review_id": "14322067831",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Double payment issue",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "11262710737": {
+    "review_id": "11262710737",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Poor quality and quantity of products",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "11204578569": {
+    "review_id": "11204578569",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Easy to use app and quick delivery",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "10601071194": {
+    "review_id": "10601071194",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Bad service and missing orders",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "482d7ed8-f4e5-42d9-8615-1f0dfbbefc5b": {
+    "review_id": "482d7ed8-f4e5-42d9-8615-1f0dfbbefc5b",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Price-sensitive",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "High prices",
+    "sentiment": "neutral",
+    "reason": "Prices are higher than market price",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:38.121Z"
+  },
+  "3b2e902d-a135-4d34-b4c2-a1b6c40e2c92": {
+    "review_id": "3b2e902d-a135-4d34-b4c2-a1b6c40e2c92",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Stock Management",
+    "categories": [
+      "Toys"
+    ],
+    "barrier": "Out of stock",
+    "sentiment": "neutral",
+    "reason": "Hot Wheels are always out of stock.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "e17196f5-e0da-4b27-bff2-168bdde5441f": {
+    "review_id": "e17196f5-e0da-4b27-bff2-168bdde5441f",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The app is a bit expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "e7b30972-de9a-4fc9-a115-dcf3d4cf6a7c": {
+    "review_id": "e7b30972-de9a-4fc9-a115-dcf3d4cf6a7c",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment Options",
+    "categories": [],
+    "barrier": "COD option not available",
+    "sentiment": "negative",
+    "reason": "The COD option is not available for the user's account.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "d984ffab-b9c8-44be-8008-37427ca2b2a9": {
+    "review_id": "d984ffab-b9c8-44be-8008-37427ca2b2a9",
+    "relevant": false,
+    "themes": [],
+    "segment": "User Experience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The app has made the user's life easier.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "10fa4e95-36b0-45f2-937b-81fdf7c26ced": {
+    "review_id": "10fa4e95-36b0-45f2-937b-81fdf7c26ced",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Product Availability",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Some items not available",
+    "sentiment": "positive",
+    "reason": "Some items are not available on the app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "6f21ee14-2a19-4659-b7c4-6c99f2b5da41": {
+    "review_id": "6f21ee14-2a19-4659-b7c4-6c99f2b5da41",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery",
+    "categories": [],
+    "barrier": "Late delivery",
+    "sentiment": "negative",
+    "reason": "The delivery took too long.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "19f247ba-aa04-4498-91ef-3a17d9231316": {
+    "review_id": "19f247ba-aa04-4498-91ef-3a17d9231316",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing",
+    "categories": [
+      "Spices",
+      "Diapers"
+    ],
+    "barrier": "High prices",
+    "sentiment": "negative",
+    "reason": "The prices of certain items are too high.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "34b9439c-028e-4315-8d83-56cc470b88f8": {
+    "review_id": "34b9439c-028e-4315-8d83-56cc470b88f8",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment Options",
+    "categories": [],
+    "barrier": "COD order blocked",
+    "sentiment": "negative",
+    "reason": "The user's COD order was blocked.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "86fc00d1-cea3-427b-8cb7-ad3888921e9b": {
+    "review_id": "86fc00d1-cea3-427b-8cb7-ad3888921e9b",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Product Availability",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": "Most electronics items are unavailable",
+    "sentiment": "neutral",
+    "reason": "Most electronics items are not available on the app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "c526582d-8be9-4522-904e-20e05e5f5b1b": {
+    "review_id": "c526582d-8be9-4522-904e-20e05e5f5b1b",
+    "relevant": false,
+    "themes": [],
+    "segment": "Product Quality",
+    "categories": [],
+    "barrier": "Expired products",
+    "sentiment": "negative",
+    "reason": "The app sells expired products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:11:42.343Z"
+  },
+  "292444b0-5cbd-4669-910a-28f1e45758c9": {
+    "review_id": "292444b0-5cbd-4669-910a-28f1e45758c9",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Availability or substitution"
+    ],
+    "segment": "General convenience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user notes that all items are available and the app is easy to navigate.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "a98255d1-50d1-4b6b-97af-5360856e5f1e": {
+    "review_id": "a98255d1-50d1-4b6b-97af-5360856e5f1e",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product quality & returns",
+    "categories": [
+      "Dry Fruits"
+    ],
+    "barrier": "Strict return validation for poor quality goods",
+    "sentiment": "negative",
+    "reason": "Receiving low quality almonds and facing rejected return requests harms buyer trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "84e31185-ae24-4d7f-b6fc-738ce478d9c6": {
+    "review_id": "84e31185-ae24-4d7f-b6fc-738ce478d9c6",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Groceries rating",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Mentions high-rated groceries which relates to category perception and trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "7e1c0f8c-a629-4bfb-932f-2769815a092f": {
+    "review_id": "7e1c0f8c-a629-4bfb-932f-2769815a092f",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery issues",
+    "categories": [],
+    "barrier": "Non-delivery to home address",
+    "sentiment": "negative",
+    "reason": "This is a location and delivery execution issue unrelated to product discovery or category trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "2243593b-d015-4192-87bd-6856ba570a83": {
+    "review_id": "2243593b-d015-4192-87bd-6856ba570a83",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "segment": "Category expansion",
+    "categories": [
+      "Electronics",
+      "Appliances",
+      "Groceries"
+    ],
+    "barrier": "Lack of return policies for non-grocery categories",
+    "sentiment": "negative",
+    "reason": "The user explicitly rejects trying electronics/appliances on Blinkit due to post-purchase return policies.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "ced60f4f-8a1f-4cd5-971a-b0c2975c670e": {
+    "review_id": "ced60f4f-8a1f-4cd5-971a-b0c2975c670e",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration",
+      "Availability or substitution"
+    ],
+    "segment": "Repeat grocery buyer",
+    "categories": [
+      "Groceries",
+      "Snacks",
+      "Beverages",
+      "Fruits & Vegetables",
+      "Household Essentials"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Highlights repeat shopping across multiple categories despite occasional stock availability issues.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "50bc997a-ad65-40df-9512-4eb8e76b40ec": {
+    "review_id": "50bc997a-ad65-40df-9512-4eb8e76b40ec",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment methods",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Praise is focused solely on cash on delivery payment options rather than product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "bab136ff-8580-4fe6-aa2d-b48fb15bfd7b": {
+    "review_id": "bab136ff-8580-4fe6-aa2d-b48fb15bfd7b",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Daily breakfast essentials",
+    "categories": [
+      "Breakfast & Dairy"
+    ],
+    "barrier": "Frequently damaged products causing routine disruption",
+    "sentiment": "negative",
+    "reason": "Receiving damaged daily essentials damages buyer confidence and disrupts repeat morning habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "8da890d5-f951-4fe1-84ef-b164f9a3864d": {
+    "review_id": "8da890d5-f951-4fe1-84ef-b164f9a3864d",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Listing accuracy",
+    "categories": [
+      "Snacks"
+    ],
+    "barrier": "Mismatched pack quantity description",
+    "sentiment": "negative",
+    "reason": "Discrepancies between listed item count and delivered package quantity erode consumer trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "edb6433b-4cec-44e8-9a64-1bfa8da4a5d7": {
+    "review_id": "edb6433b-4cec-44e8-9a64-1bfa8da4a5d7",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer service & refunds",
+    "categories": [],
+    "barrier": "Promo cash refund instead of original payment method",
+    "sentiment": "negative",
+    "reason": "This review concerns generic customer service and refund method complaints.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:11:58.285Z"
+  },
+  "24315c1a-07d9-4551-a85e-0b19e78c698f": {
+    "review_id": "24315c1a-07d9-4551-a85e-0b19e78c698f",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions low price without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "730abbca-615e-4f5b-bb7f-689b4a1c37bd": {
+    "review_id": "730abbca-615e-4f5b-bb7f-689b4a1c37bd",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions time saver and good quality without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "6ce3756e-ef30-45c6-b9a9-697a29512df0": {
+    "review_id": "6ce3756e-ef30-45c6-b9a9-697a29512df0",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review mentions good quality but high price without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "643ded43-b315-499d-bb7a-dda5277feda1": {
+    "review_id": "643ded43-b315-499d-bb7a-dda5277feda1",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions timely delivery and exchange policy without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "19abd9e2-b096-4242-8f47-d81268438c83": {
+    "review_id": "19abd9e2-b096-4242-8f47-d81268438c83",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review mentions fast delivery and best price but issues with fruits items without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "c056ef4c-2782-4a22-bb6a-eee77fe38841": {
+    "review_id": "c056ef4c-2782-4a22-bb6a-eee77fe38841",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review only mentions packaging and bag charge without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "de2832fb-8a4d-4aa4-8c42-8ac7c863cf07": {
+    "review_id": "de2832fb-8a4d-4aa4-8c42-8ac7c863cf07",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions best grocery app without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "9648ec01-5baf-4df7-8dbc-3146238b31a2": {
+    "review_id": "9648ec01-5baf-4df7-8dbc-3146238b31a2",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Book readers",
+    "categories": [
+      "Books"
+    ],
+    "barrier": "Limited product availability",
+    "sentiment": "positive",
+    "reason": "The review mentions the desire for more books by a specific author, indicating a need for better product exploration and discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "e440079e-4291-4bad-8a67-e03f224b3867": {
+    "review_id": "e440079e-4291-4bad-8a67-e03f224b3867",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review only mentions nice service and good quality without any context of product discovery or exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "4ba9907d-e8d0-4323-b802-954a4d776ba2": {
+    "review_id": "4ba9907d-e8d0-4323-b802-954a4d776ba2",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "segment": "Convenience seekers",
+    "categories": [
+      "Electronics",
+      "Groceries"
+    ],
+    "barrier": "High prices",
+    "sentiment": "positive",
+    "reason": "The review mentions the app as a good alternative for urgent purchases, indicating a habit of repeat purchase and exploration of different product categories.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:03.593Z"
+  },
+  "a2050c8c-37e8-4d3a-ab45-0dc6c9eb060d": {
+    "review_id": "a2050c8c-37e8-4d3a-ab45-0dc6c9eb060d",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Low-quality products",
+    "categories": [
+      "Product quality"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "The company sells expired products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "900c28db-80be-44f6-9949-a0e6e94d6bdc": {
+    "review_id": "900c28db-80be-44f6-9949-a0e6e94d6bdc",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery issues",
+    "categories": [
+      "Delivery"
+    ],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The order was not delivered on time.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "47d5d3c0-cbe9-4b42-bab6-65b05ee94469": {
+    "review_id": "47d5d3c0-cbe9-4b42-bab6-65b05ee94469",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Pricing concerns",
+    "categories": [
+      "Pricing"
+    ],
+    "barrier": "High prices",
+    "sentiment": "neutral",
+    "reason": "The products are too expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "125e84ba-d2fb-4548-9a5f-f82cba526f52": {
+    "review_id": "125e84ba-d2fb-4548-9a5f-f82cba526f52",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Satisfied customers",
+    "categories": [
+      "Product quality",
+      "Service"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The service is good and the products are fresh.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "a068814e-283d-49c0-88c0-02c7c545decc": {
+    "review_id": "a068814e-283d-49c0-88c0-02c7c545decc",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Low-quality products",
+    "categories": [
+      "Product quality"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "The image and original product may not be the same.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "519e0954-3c65-4193-9cf8-16bf070bca07": {
+    "review_id": "519e0954-3c65-4193-9cf8-16bf070bca07",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Pricing concerns",
+    "categories": [
+      "Pricing"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The products should have correct prices.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "939e9315-1957-4048-a69a-f20eaa9ebde9": {
+    "review_id": "939e9315-1957-4048-a69a-f20eaa9ebde9",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Low-quality products",
+    "categories": [
+      "Product quality"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "There is a discrepancy in the prices and quality checks are questionable.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "dba80bfc-5287-4f41-9577-238c7b2f6212": {
+    "review_id": "dba80bfc-5287-4f41-9577-238c7b2f6212",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Satisfied customers",
+    "categories": [
+      "Product quality",
+      "Service"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The service is excellent and the products are genuine.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "e865df84-f3ef-4bd2-bd8e-a38284791b8e": {
+    "review_id": "e865df84-f3ef-4bd2-bd8e-a38284791b8e",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Product availability",
+    "categories": [
+      "Product availability"
+    ],
+    "barrier": "Out-of-stock products",
+    "sentiment": "neutral",
+    "reason": "Some items are not available.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "c8d95e26-a864-4afc-aa8c-f91a14d51c9f": {
+    "review_id": "c8d95e26-a864-4afc-aa8c-f91a14d51c9f",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Product quality concerns",
+    "categories": [
+      "Product quality"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "neutral",
+    "reason": "The products should be of good quality and fresh.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:18.086Z"
+  },
+  "b76fc0e8-94c9-4015-a229-cb866c8403ee": {
+    "review_id": "b76fc0e8-94c9-4015-a229-cb866c8403ee",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The user had issues with cancelling an order.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "5c8f2170-1443-431c-927c-5d1593227885": {
+    "review_id": "5c8f2170-1443-431c-927c-5d1593227885",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "price-sensitive",
+    "categories": [
+      "groceries"
+    ],
+    "barrier": "price difference",
+    "sentiment": "positive",
+    "reason": "The user noticed a huge price difference for some products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "c47960d3-1b2f-438d-82fc-76943c2355e5": {
+    "review_id": "c47960d3-1b2f-438d-82fc-76943c2355e5",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user is satisfied with the fast complaint resolution and delivery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "0906412c-c27e-4ffa-afa3-664b87d9c39f": {
+    "review_id": "0906412c-c27e-4ffa-afa3-664b87d9c39f",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "night shoppers",
+    "categories": [
+      "food"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user finds the app helpful for late-night shopping with discounted prices.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "5567fe85-46b5-4e29-b1d6-5c1615b67572": {
+    "review_id": "5567fe85-46b5-4e29-b1d6-5c1615b67572",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the high delivery charges.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "ac025dad-d215-4b28-9344-30a2bbe2eeb1": {
+    "review_id": "ac025dad-d215-4b28-9344-30a2bbe2eeb1",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user is satisfied with the service and product quality.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "397f481d-16d9-404c-b9b6-543c679310c5": {
+    "review_id": "397f481d-16d9-404c-b9b6-543c679310c5",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "price-sensitive",
+    "categories": [
+      "groceries"
+    ],
+    "barrier": "high prices",
+    "sentiment": "positive",
+    "reason": "The user found the products they were looking for but thinks they are overpriced compared to another app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "efc97e89-02af-46c8-9666-9833671a579e": {
+    "review_id": "efc97e89-02af-46c8-9666-9833671a579e",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "frequent users",
+    "categories": [
+      "groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes that the app is available at any time.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "f0a1e670-f030-4111-a432-17bf9ad12b91": {
+    "review_id": "f0a1e670-f030-4111-a432-17bf9ad12b91",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the product quality and feels it's a waste of money.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "3fbe7b49-b4d2-4630-88fc-b61461a129fb": {
+    "review_id": "3fbe7b49-b4d2-4630-88fc-b61461a129fb",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "price-sensitive",
+    "categories": [
+      "groceries"
+    ],
+    "barrier": "high prices",
+    "sentiment": "neutral",
+    "reason": "The user thinks the prices are high compared to the market.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:22.616Z"
+  },
+  "c0fb7373-6ffe-4db1-8eea-c75affeeb65a": {
+    "review_id": "c0fb7373-6ffe-4db1-8eea-c75affeeb65a",
+    "relevant": false,
+    "themes": [],
+    "segment": "App user",
+    "categories": [],
+    "barrier": "VPN and location access restrictions",
+    "sentiment": "negative",
+    "reason": "App uninstallation was caused by technical VPN restrictions rather than product or category exploration issues.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "ac563f0e-24cc-4c6b-be32-820ea7c7dd6c": {
+    "review_id": "ac563f0e-24cc-4c6b-be32-820ea7c7dd6c",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Cross-category buyer",
+    "categories": [
+      "Fresh",
+      "Grocery"
+    ],
+    "barrier": "Cross-category contamination from poor packaging",
+    "sentiment": "negative",
+    "reason": "Raw fish packaging leaked onto vegetables and groceries, destroying trust in cross-category fresh orders.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "e52b261b-ed39-44d1-a360-dd772f8d790a": {
+    "review_id": "e52b261b-ed39-44d1-a360-dd772f8d790a",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Dairy shopper",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Unrequested product substitution",
+    "sentiment": "negative",
+    "reason": "Sending milk instead of ordered curd due to stock issues erodes trust in product availability.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "38993241-8d84-4d8d-b5fd-e03ef42b13d5": {
+    "review_id": "38993241-8d84-4d8d-b5fd-e03ef42b13d5",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Availability or substitution"
+    ],
+    "segment": "First-time user",
+    "categories": [],
+    "barrier": "Failed delivery on split trial order",
+    "sentiment": "negative",
+    "reason": "A missing second delivery on a first-time split order severely damages trial confidence.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "57b769dc-dc65-4e4b-b866-95fd63703cb0": {
+    "review_id": "57b769dc-dc65-4e4b-b866-95fd63703cb0",
+    "relevant": false,
+    "themes": [],
+    "segment": "Price-sensitive user",
+    "categories": [],
+    "barrier": "Dynamic pricing",
+    "sentiment": "negative",
+    "reason": "Generic complaint about dynamic pricing without reference to specific products or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "987bf1f6-2139-4227-a9fc-56dc12aa1f41": {
+    "review_id": "987bf1f6-2139-4227-a9fc-56dc12aa1f41",
+    "relevant": false,
+    "themes": [],
+    "segment": "Potential user",
+    "categories": [],
+    "barrier": "Location unserviceability",
+    "sentiment": "negative",
+    "reason": "General location unserviceability prevents app usage and is unrelated to product category research.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "4ba3d696-3627-4159-8606-ad350487f83b": {
+    "review_id": "4ba3d696-3627-4159-8606-ad350487f83b",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Fresh produce shopper",
+    "categories": [
+      "Fruits & Vegetables"
+    ],
+    "barrier": "Poor product quality",
+    "sentiment": "negative",
+    "reason": "Poor quality control in fresh fruits and vegetables prevents reliable repeat purchases in the category.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "efc0484c-5886-4a8e-ac05-6c41558dede0": {
+    "review_id": "efc0484c-5886-4a8e-ac05-6c41558dede0",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise of overall service without specific mention of product categories or discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "4a700b22-794b-4c69-80bd-2e49cb8286e9": {
+    "review_id": "4a700b22-794b-4c69-80bd-2e49cb8286e9",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution",
+      "Trial confidence"
+    ],
+    "segment": "General shopper",
+    "categories": [],
+    "barrier": "Stockouts and unexpected substitution",
+    "sentiment": "negative",
+    "reason": "Post-checkout stockouts and forced substitutions hurt user confidence in inventory accuracy.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "abdb620b-9ba2-4e50-a281-a1b242103eb6": {
+    "review_id": "abdb620b-9ba2-4e50-a281-a1b242103eb6",
+    "relevant": false,
+    "themes": [],
+    "segment": "Cash-on-delivery user",
+    "categories": [],
+    "barrier": "Payment method restriction",
+    "sentiment": "negative",
+    "reason": "Payment option availability is a general checkout issue unrelated to product category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-03T10:12:52.900Z"
+  },
+  "d5d1d987-b3b5-453a-9c91-6871100d6372": {
+    "review_id": "d5d1d987-b3b5-453a-9c91-6871100d6372",
+    "relevant": false,
+    "themes": [],
+    "segment": "",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Received a fake product and customer support refused to help.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "f67cfacb-ca5b-4a6c-b168-69ad3b269488": {
+    "review_id": "f67cfacb-ca5b-4a6c-b168-69ad3b269488",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Fresh produce",
+    "categories": [
+      "Vegetables"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "Always receives low-quality vegetables.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "41db2e4f-a5b7-48c1-a412-436e2ba7c1af": {
+    "review_id": "41db2e4f-a5b7-48c1-a412-436e2ba7c1af",
+    "relevant": false,
+    "themes": [],
+    "segment": "",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good quality products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "878e0845-2721-497b-87ae-91f4817cb6ce": {
+    "review_id": "878e0845-2721-497b-87ae-91f4817cb6ce",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Daily essentials",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Convenient service with fast delivery and reasonable prices.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "5c2deab8-72e2-4d22-803f-40d3ffef27ae": {
+    "review_id": "5c2deab8-72e2-4d22-803f-40d3ffef27ae",
+    "relevant": false,
+    "themes": [],
+    "segment": "",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Helped with medicine delivery during a time of need.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "60e9bca0-6298-44b1-9ad3-ca49faa792f5": {
+    "review_id": "60e9bca0-6298-44b1-9ad3-ca49faa792f5",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Groceries",
+    "categories": [
+      "Fresh produce"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "neutral",
+    "reason": "Requests Blinkit to check products before sending them to ensure fresh and good-quality products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "b28d709f-5808-4421-b4b3-001673a7e1ae": {
+    "review_id": "b28d709f-5808-4421-b4b3-001673a7e1ae",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Groceries",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Outstanding experience with fast delivery and good-quality products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "821178e8-2827-43d3-bb03-b5c3d28b3aa1": {
+    "review_id": "821178e8-2827-43d3-bb03-b5c3d28b3aa1",
+    "relevant": false,
+    "themes": [],
+    "segment": "",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Order not delivered and poor customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "8d87c035-b7fa-4dbf-aa82-87538fdb6cb5": {
+    "review_id": "8d87c035-b7fa-4dbf-aa82-87538fdb6cb5",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Groceries",
+    "categories": [
+      "Rice"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "Received broken rice and poor customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "3ed2da87-42fe-469e-bd39-c628c7fb73c5": {
+    "review_id": "3ed2da87-42fe-469e-bd39-c628c7fb73c5",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation"
+    ],
+    "segment": "New user",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Lack of expiry date information",
+    "sentiment": "neutral",
+    "reason": "Requests Blinkit to display expiry dates for products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:12:58.069Z"
+  },
+  "0b0f4078-cb7b-4066-8a7f-27c2df99fac2": {
+    "review_id": "0b0f4078-cb7b-4066-8a7f-27c2df99fac2",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is about pricing, not related to discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "b5fd895f-ae4d-47fd-ac85-9815629cab0c": {
+    "review_id": "b5fd895f-ae4d-47fd-ac85-9815629cab0c",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Daily essentials",
+    "categories": [
+      "Essentials"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions that the app helps with daily essentials, indicating repeat purchase behavior.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "ccaf58eb-4873-4c73-a3b9-d98fcf0b6d82": {
+    "review_id": "ccaf58eb-4873-4c73-a3b9-d98fcf0b6d82",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Food and groceries",
+    "categories": [
+      "Food",
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions that food items, fruits, and ice-cream are fresh, indicating satisfaction with product exploration.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "5bc38f6f-4f44-409a-a82f-73cbf7563b28": {
+    "review_id": "5bc38f6f-4f44-409a-a82f-73cbf7563b28",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is about delivery and service quality, not related to discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "ef84c590-2f92-4e38-9c65-f64ec3c5abed": {
+    "review_id": "ef84c590-2f92-4e38-9c65-f64ec3c5abed",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about a missing item and customer service, not related to discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "da0935ba-d0c6-46c1-8f64-9b5471c19822": {
+    "review_id": "da0935ba-d0c6-46c1-8f64-9b5471c19822",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Genuine products",
+    "categories": [
+      "General merchandise"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions satisfaction with genuine products, indicating trust in the platform.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "5155b757-a47b-4003-bc3c-ec9d3fcc4adf": {
+    "review_id": "5155b757-a47b-4003-bc3c-ec9d3fcc4adf",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is about quality and timing, not related to discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "1dc800c2-d385-4cc3-a84c-652ccfcb77f6": {
+    "review_id": "1dc800c2-d385-4cc3-a84c-652ccfcb77f6",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food and groceries",
+    "categories": [
+      "Food",
+      "Groceries"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "The review mentions bad quality products and refund issues, indicating a lack of trust in the platform.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "8c12671b-7d80-4a26-b952-808d10721064": {
+    "review_id": "8c12671b-7d80-4a26-b952-808d10721064",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about a delivery person's behavior, not related to discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "e1e6b9aa-c40b-4f01-b8ff-6f81a1d52c65": {
+    "review_id": "e1e6b9aa-c40b-4f01-b8ff-6f81a1d52c65",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "General merchandise",
+    "categories": [
+      "General merchandise"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "The review mentions poor quality, indicating a lack of trust in the platform.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:12.579Z"
+  },
+  "d0a4ab0a-b7f7-41e6-9ef8-e07c062cfc41": {
+    "review_id": "d0a4ab0a-b7f7-41e6-9ef8-e07c062cfc41",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Poor customer service and refund issues.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "b67b72e4-4322-4156-b58c-2451d6b87d93": {
+    "review_id": "b67b72e4-4322-4156-b58c-2451d6b87d93",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good quality and delivery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "7be5f3b7-9a05-43cf-bc28-bbaa917114d8": {
+    "review_id": "7be5f3b7-9a05-43cf-bc28-bbaa917114d8",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Price-sensitive",
+    "categories": [
+      "Pricing"
+    ],
+    "barrier": "High prices",
+    "sentiment": "negative",
+    "reason": "Items are very expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "1f15606e-0dc6-4a94-b445-61eaffa9f684": {
+    "review_id": "1f15606e-0dc6-4a94-b445-61eaffa9f684",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Request for service availability in a new area.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "9623a6b0-acd8-4dc9-b5d6-96bbf518f829": {
+    "review_id": "9623a6b0-acd8-4dc9-b5d6-96bbf518f829",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Order issues with out-of-stock and missing items.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "f7f53bd4-db40-467f-b8d6-6e3921a98483": {
+    "review_id": "f7f53bd4-db40-467f-b8d6-6e3921a98483",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-focused",
+    "categories": [
+      "Quality"
+    ],
+    "barrier": "Poor quality",
+    "sentiment": "negative",
+    "reason": "Multiple experiences with bad item quality.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "ff16b3e2-2ca0-4a6e-95ed-385bf98a2420": {
+    "review_id": "ff16b3e2-2ca0-4a6e-95ed-385bf98a2420",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Service not available in the user's location.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "a62a12c9-b259-4569-a459-8350104c50df": {
+    "review_id": "a62a12c9-b259-4569-a459-8350104c50df",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-focused",
+    "categories": [
+      "Quality",
+      "Authenticity"
+    ],
+    "barrier": "Fake or expired products",
+    "sentiment": "negative",
+    "reason": "Received expired goods and fake products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "e21d23ce-70fb-4c24-9c54-61a4ecaf8cb8": {
+    "review_id": "e21d23ce-70fb-4c24-9c54-61a4ecaf8cb8",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price-sensitive",
+    "categories": [
+      "Pricing"
+    ],
+    "barrier": "Delivery and handling fees",
+    "sentiment": "negative",
+    "reason": "Charges delivery and handling fees unlike other apps.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "ae5fb268-6048-496e-aee1-2d5441583b53": {
+    "review_id": "ae5fb268-6048-496e-aee1-2d5441583b53",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-focused",
+    "categories": [
+      "Quality",
+      "Authenticity"
+    ],
+    "barrier": "Re-printed and expired products",
+    "sentiment": "negative",
+    "reason": "Sells products with re-printed labels and extended expiry dates.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:16.941Z"
+  },
+  "11581310-9bfc-4431-8dff-cfc190a22ee9": {
+    "review_id": "11581310-9bfc-4431-8dff-cfc190a22ee9",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The product is too expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "e9221449-8404-4795-8824-a7886bab6ad1": {
+    "review_id": "e9221449-8404-4795-8824-a7886bab6ad1",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Poor customer service",
+    "sentiment": "negative",
+    "reason": "The customer had a poor experience with customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "987efc7f-4790-4103-9a47-5d530609972b": {
+    "review_id": "987efc7f-4790-4103-9a47-5d530609972b",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Regular customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The app is convenient for quick grocery shopping.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "a92ad12f-2656-4de2-b80e-12a82a670906": {
+    "review_id": "a92ad12f-2656-4de2-b80e-12a82a670906",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The service is good despite being expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "2331bf9b-068e-41f9-8d46-a5b81b3efb73": {
+    "review_id": "2331bf9b-068e-41f9-8d46-a5b81b3efb73",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The product is too expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "8c1dcc8b-c14c-46e2-97b1-869958462ad7": {
+    "review_id": "8c1dcc8b-c14c-46e2-97b1-869958462ad7",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The customer wants lower prices.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "5d4c37ec-b3c0-4a65-928a-576dff594054": {
+    "review_id": "5d4c37ec-b3c0-4a65-928a-576dff594054",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Poor customer service",
+    "sentiment": "negative",
+    "reason": "The customer had a poor experience with customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "efbc0fea-3ef4-480c-8b84-8c00cbf900b1": {
+    "review_id": "efbc0fea-3ef4-480c-8b84-8c00cbf900b1",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Frequent customer",
+    "categories": [
+      "Vegetables"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "The vegetables were not fresh.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "d05f5421-a5f4-4667-a262-f8fb6580e355": {
+    "review_id": "d05f5421-a5f4-4667-a262-f8fb6580e355",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Occasional customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "neutral",
+    "reason": "The quality is not always good, but the delivery is fast.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "23088c93-53ac-466c-be8f-46d7ae8b9b48": {
+    "review_id": "23088c93-53ac-466c-be8f-46d7ae8b9b48",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Frequent customer",
+    "categories": [
+      "Fruits"
+    ],
+    "barrier": "High prices",
+    "sentiment": "neutral",
+    "reason": "The customer wants fresh products and lower prices for fruits.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:31.464Z"
+  },
+  "b42c5f8b-ff1b-4f58-b5f1-f8119fbb2031": {
+    "review_id": "b42c5f8b-ff1b-4f58-b5f1-f8119fbb2031",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Dairy",
+    "categories": [
+      "Food"
+    ],
+    "barrier": "Quality",
+    "sentiment": "negative",
+    "reason": "Expired food items were sold.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "9e7ef174-5d4a-4aeb-82a8-8435532b71b5": {
+    "review_id": "9e7ef174-5d4a-4aeb-82a8-8435532b71b5",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "No option to cancel order.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "1bb6dca6-fac5-417f-b415-6306f1759432": {
+    "review_id": "1bb6dca6-fac5-417f-b415-6306f1759432",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Payment option not available.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "e1a8dfcb-1f86-4285-aff7-ce60540d72ec": {
+    "review_id": "e1a8dfcb-1f86-4285-aff7-ce60540d72ec",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Grocery",
+    "categories": [
+      "Food"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Reasonable price and fresh stock.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "199a3cf0-9ae6-418f-9d6a-6ce1e66b9503": {
+    "review_id": "199a3cf0-9ae6-418f-9d6a-6ce1e66b9503",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Service not available in the area.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "12c77db8-e98a-448f-9d96-62ce221bf257": {
+    "review_id": "12c77db8-e98a-448f-9d96-62ce221bf257",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Grocery",
+    "categories": [
+      "Food"
+    ],
+    "barrier": "Pricing",
+    "sentiment": "neutral",
+    "reason": "Higher price than MRP.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "fdecb5dc-f453-49f3-b129-e826be78e126": {
+    "review_id": "fdecb5dc-f453-49f3-b129-e826be78e126",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Grocery",
+    "categories": [
+      "Food"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Hassle-free shopping at same price as offline.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "95f6e80b-2361-4e82-a0e4-2ccfd52d5fa9": {
+    "review_id": "95f6e80b-2361-4e82-a0e4-2ccfd52d5fa9",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Grocery",
+    "categories": [
+      "Food"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good service and quality.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "1c7521f4-06e2-4b49-928b-274e4c6de375": {
+    "review_id": "1c7521f4-06e2-4b49-928b-274e4c6de375",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Grocery",
+    "categories": [
+      "Food"
+    ],
+    "barrier": "Quality",
+    "sentiment": "negative",
+    "reason": "Product not as described.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "0c4936a3-c70c-40ef-90ae-27be4409866e": {
+    "review_id": "0c4936a3-c70c-40ef-90ae-27be4409866e",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Support team is unresponsive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:35.684Z"
+  },
+  "bc0ad315-869e-4e01-9714-53e5d3de0cd8": {
+    "review_id": "bc0ad315-869e-4e01-9714-53e5d3de0cd8",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "User expects discount from market price.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "70b7120d-855e-4e01-8996-e495ddd365cf": {
+    "review_id": "70b7120d-855e-4e01-8996-e495ddd365cf",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "User finds price a little high.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "0291c945-874c-43c5-8a5d-a51118f19fd0": {
+    "review_id": "0291c945-874c-43c5-8a5d-a51118f19fd0",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "User cannot cancel order after placing it.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "bbff8273-01db-4f0d-9f2f-214ac6219b64": {
+    "review_id": "bbff8273-01db-4f0d-9f2f-214ac6219b64",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "User experiences poor service and unavailability.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "2f5d3dea-d43d-432c-be27-96dfd4f0d238": {
+    "review_id": "2f5d3dea-d43d-432c-be27-96dfd4f0d238",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "User sometimes receives expired products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "a26469a8-4b31-4de1-bbd7-3cde591b2bef": {
+    "review_id": "a26469a8-4b31-4de1-bbd7-3cde591b2bef",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Payment method unavailability",
+    "sentiment": "negative",
+    "reason": "User's preferred payment method is not available.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "533615ad-18dc-45a9-9a8b-f7c56ce0aa97": {
+    "review_id": "533615ad-18dc-45a9-9a8b-f7c56ce0aa97",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "User experiences discrepancy in displayed and actual arrival times.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "0ae8e3d8-c212-4beb-af50-61709979f353": {
+    "review_id": "0ae8e3d8-c212-4beb-af50-61709979f353",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Loyal customer",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "User appreciates the quality of products and fast delivery.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "194a1bb9-32b4-40b8-8869-68ab7c25b9f6": {
+    "review_id": "194a1bb9-32b4-40b8-8869-68ab7c25b9f6",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "segment": "Elderly support",
+    "categories": [
+      "Household items"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "User finds the app helpful for getting household items, especially for elderly people.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "235f13ba-98d6-4b78-9e22-b473ddf82caa": {
+    "review_id": "235f13ba-98d6-4b78-9e22-b473ddf82caa",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Grocery shopper",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "User considers the app the best for home grocery shopping.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:49.966Z"
+  },
+  "ad4b788a-bbde-41db-983b-05421402eb78": {
+    "review_id": "ad4b788a-bbde-41db-983b-05421402eb78",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Issue with delivery and refund",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "760a6fb2-ecc2-40bf-872b-78ea42130378": {
+    "review_id": "760a6fb2-ecc2-40bf-872b-78ea42130378",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "segment": "Loyal Customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Variety of products and excellent service",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "36cb3dd7-eeca-4dcd-bb06-37233ddcb913": {
+    "review_id": "36cb3dd7-eeca-4dcd-bb06-37233ddcb913",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Quick service and refund for damaged products",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "24dd1e7a-5239-4901-9de1-f90b1057ec37": {
+    "review_id": "24dd1e7a-5239-4901-9de1-f90b1057ec37",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Issue with cancellation and refund policy",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "7281f831-125c-4cdf-a7c5-0059ad510dfb": {
+    "review_id": "7281f831-125c-4cdf-a7c5-0059ad510dfb",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Fast delivery and competitive pricing",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "1b8ea846-400b-4211-baa2-c321440f933c": {
+    "review_id": "1b8ea846-400b-4211-baa2-c321440f933c",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Bad service and delivery issues",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "30b7172c-e974-405f-a42f-e2fd34b3e01c": {
+    "review_id": "30b7172c-e974-405f-a42f-e2fd34b3e01c",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Fast service and original products",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "a5ca9df7-d36f-4726-8b04-3da2e3f950b3": {
+    "review_id": "a5ca9df7-d36f-4726-8b04-3da2e3f950b3",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Convenience Seeker",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Fast delivery and convenience",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "bc753c32-0610-4a45-913d-d016a3e95c7d": {
+    "review_id": "bc753c32-0610-4a45-913d-d016a3e95c7d",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "High prices but acceptable",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "72e94e55-c64b-4723-a813-65615453b7fa": {
+    "review_id": "72e94e55-c64b-4723-a813-65615453b7fa",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Excellent service with suggestions for improvement",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:13:53.920Z"
+  },
+  "ec70fda9-12cf-4e2f-8012-237edd24d141": {
+    "review_id": "ec70fda9-12cf-4e2f-8012-237edd24d141",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "New User",
+    "categories": [
+      "Grocery",
+      "Electronics",
+      "Sports"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The app offers a wide range of products across various categories.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "1f07bbd1-c5bb-46f3-b1f4-9eb1668fc7c2": {
+    "review_id": "1f07bbd1-c5bb-46f3-b1f4-9eb1668fc7c2",
+    "relevant": false,
+    "themes": [],
+    "segment": "Existing User",
+    "categories": [],
+    "barrier": "Delivery Time",
+    "sentiment": "neutral",
+    "reason": "The user is requesting a change in delivery time.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "b934a5a4-2820-4345-a089-c5b489d9fcf9": {
+    "review_id": "b934a5a4-2820-4345-a089-c5b489d9fcf9",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Loyal User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The app offers multiple payment options and a wide variety of products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "4a784694-ae6a-4ef0-8707-309b97b963cc": {
+    "review_id": "4a784694-ae6a-4ef0-8707-309b97b963cc",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Disappointed User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Quality and Refund Issues",
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the quality of products and refund process.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "5f92e7d8-0972-4f7f-9c98-e6b9f099ecf0": {
+    "review_id": "5f92e7d8-0972-4f7f-9c98-e6b9f099ecf0",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "New User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user is satisfied with the quality of products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "5b6f3527-0c1a-492e-975f-2b58d277b87f": {
+    "review_id": "5b6f3527-0c1a-492e-975f-2b58d277b87f",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Loyal User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user is happy with the delivery and quality of products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "ed078f15-0cb1-401e-a855-aca5cea85f22": {
+    "review_id": "ed078f15-0cb1-401e-a855-aca5cea85f22",
+    "relevant": false,
+    "themes": [],
+    "segment": "Disappointed User",
+    "categories": [],
+    "barrier": "Order Cancellation",
+    "sentiment": "negative",
+    "reason": "The user's order was cancelled after a long wait.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "531cb51a-185d-4b3c-82e8-0f60592c8cf4": {
+    "review_id": "531cb51a-185d-4b3c-82e8-0f60592c8cf4",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Price Sensitive User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Pricing",
+    "sentiment": "neutral",
+    "reason": "The user feels that the prices are not competitive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "2f56935c-11e9-408b-a3c3-f6c63c9a10e1": {
+    "review_id": "2f56935c-11e9-408b-a3c3-f6c63c9a10e1",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Disappointed User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Quality Issues",
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the quality of products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "4957fde5-ca6f-4bf1-9930-84390fe3eac2": {
+    "review_id": "4957fde5-ca6f-4bf1-9930-84390fe3eac2",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Disappointed User",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Refund and Quality Issues",
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the refund policy and quality of products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:08.505Z"
+  },
+  "7b4b96e9-1566-4e58-b5f5-b86a21983e08": {
+    "review_id": "7b4b96e9-1566-4e58-b5f5-b86a21983e08",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied Customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Poor quality product",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "269d518c-fcc0-4fff-80d9-59b0aeab09a8": {
+    "review_id": "269d518c-fcc0-4fff-80d9-59b0aeab09a8",
+    "relevant": false,
+    "themes": [],
+    "segment": "Value Seeker",
+    "categories": [],
+    "barrier": "Pricing",
+    "sentiment": "neutral",
+    "reason": "Concern about handling and delivery charges",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "a97d072a-bab3-4488-bff9-45b600fc95e7": {
+    "review_id": "a97d072a-bab3-4488-bff9-45b600fc95e7",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Fresh Produce Enthusiast",
+    "categories": [
+      "Vegetables"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Fresh veggies available",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "f50dbb92-fda4-4de4-9c5a-0b842f695e71": {
+    "review_id": "f50dbb92-fda4-4de4-9c5a-0b842f695e71",
+    "relevant": false,
+    "themes": [],
+    "segment": "Satisfied Customer",
+    "categories": [],
+    "barrier": "Packaging",
+    "sentiment": "positive",
+    "reason": "Generally satisfied with the app despite some issues",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "e873d94f-0cdc-4a49-af16-8f0ddbcc020c": {
+    "review_id": "e873d94f-0cdc-4a49-af16-8f0ddbcc020c",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied Customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Order not delivered and no refund",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "c03f61a3-651f-4af9-b520-38cccb762627": {
+    "review_id": "c03f61a3-651f-4af9-b520-38cccb762627",
+    "relevant": false,
+    "themes": [],
+    "segment": "Satisfied Customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good service and fast delivery",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "723dbc4c-4d3b-4610-9c4a-430d9348ccf5": {
+    "review_id": "723dbc4c-4d3b-4610-9c4a-430d9348ccf5",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied Customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Damaged product and poor customer service",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "260e87c2-b196-4f7b-96da-4c159151e33e": {
+    "review_id": "260e87c2-b196-4f7b-96da-4c159151e33e",
+    "relevant": false,
+    "themes": [],
+    "segment": "Value Seeker",
+    "categories": [],
+    "barrier": "Pricing",
+    "sentiment": "neutral",
+    "reason": "Free delivery not available",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "d543dcf6-3c4a-416e-aa10-9a8ed65deec4": {
+    "review_id": "d543dcf6-3c4a-416e-aa10-9a8ed65deec4",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Quality Conscious",
+    "categories": [
+      "Vegetables",
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Quality of products could improve",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "37e994a1-9323-49e9-b715-4aa60365abf9": {
+    "review_id": "37e994a1-9323-49e9-b715-4aa60365abf9",
+    "relevant": false,
+    "themes": [],
+    "segment": "Dissatisfied Customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Missing items and out of stock products",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:12.563Z"
+  },
+  "e9be21da-ae89-43c9-83fc-564a59d6b08a": {
+    "review_id": "e9be21da-ae89-43c9-83fc-564a59d6b08a",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Product Variety",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Limited Options",
+    "sentiment": "neutral",
+    "reason": "The customer wants more variety in products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "b2647ab4-51b6-4bf9-bac7-f4fb9a4eec3a": {
+    "review_id": "b2647ab4-51b6-4bf9-bac7-f4fb9a4eec3a",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Convenience",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Blinkit is available when other shops are closed.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "e055f3ef-68dd-4482-8c6e-ef03234a5972": {
+    "review_id": "e055f3ef-68dd-4482-8c6e-ef03234a5972",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Service",
+    "categories": [],
+    "barrier": "Order Cancellation",
+    "sentiment": "negative",
+    "reason": "The customer's order was cancelled automatically.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "a4befc6a-a9c3-4bb8-a96c-264d3b8311b8": {
+    "review_id": "a4befc6a-a9c3-4bb8-a96c-264d3b8311b8",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Small City",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer is happy with the availability of products in their small city.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "1f337ffb-14bc-4f5a-8f09-b8775de009f9": {
+    "review_id": "1f337ffb-14bc-4f5a-8f09-b8775de009f9",
+    "relevant": false,
+    "themes": [],
+    "segment": "Healthcare",
+    "categories": [
+      "Medicine"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer appreciates the instant call with prescription feature.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "e6b375cd-7efc-49ae-9a9f-faa7bbd7059a": {
+    "review_id": "e6b375cd-7efc-49ae-9a9f-faa7bbd7059a",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Service",
+    "categories": [],
+    "barrier": "Poor Customer Support",
+    "sentiment": "negative",
+    "reason": "The customer had a bad experience with customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "ad998be6-3b0f-44ac-b567-0962df73a808": {
+    "review_id": "ad998be6-3b0f-44ac-b567-0962df73a808",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Convenience",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer supports the app for its fast delivery and zero fees ambulance service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "5225fa18-7e6a-4f8d-bdf4-1a85cc1c089f": {
+    "review_id": "5225fa18-7e6a-4f8d-bdf4-1a85cc1c089f",
+    "relevant": false,
+    "themes": [],
+    "segment": "Product Quality",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Damaged Product",
+    "sentiment": "negative",
+    "reason": "The customer received a damaged product and had issues with exchange.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "bdff9350-5939-480a-924e-2e53ee53cbc4": {
+    "review_id": "bdff9350-5939-480a-924e-2e53ee53cbc4",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The customer is satisfied with the product quality and fast service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "b8bb1700-7a2a-4097-82c0-24dccbad5d0f": {
+    "review_id": "b8bb1700-7a2a-4097-82c0-24dccbad5d0f",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Service",
+    "categories": [
+      "Food"
+    ],
+    "barrier": "Poor Quality",
+    "sentiment": "negative",
+    "reason": "The customer has been experiencing bad service and quality of food products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:27.419Z"
+  },
+  "eee844b3-b44f-44fa-afb1-45fda332bcbe": {
+    "review_id": "eee844b3-b44f-44fa-afb1-45fda332bcbe",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Order was cancelled after a long wait.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "552d0fc5-9e48-4081-8392-c75c71badd4f": {
+    "review_id": "552d0fc5-9e48-4081-8392-c75c71badd4f",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Wrong product was delivered.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "efce627e-92d6-437a-82c6-41a7d02da6bb": {
+    "review_id": "efce627e-92d6-437a-82c6-41a7d02da6bb",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Price-conscious",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "High prices",
+    "sentiment": "positive",
+    "reason": "User wants more products at competitive prices.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "51b899d0-bd9f-4acf-acad-f92e5778c8af": {
+    "review_id": "51b899d0-bd9f-4acf-acad-f92e5778c8af",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "User appreciated the follow-up call from the doctor for medicine orders.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "4db2a73c-f136-433e-b523-4231c1e99636": {
+    "review_id": "4db2a73c-f136-433e-b523-4231c1e99636",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price-conscious",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "High prices",
+    "sentiment": "neutral",
+    "reason": "Prices are higher than local shops.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "b05209a7-8906-4d08-bdcd-0701b18db7d2": {
+    "review_id": "b05209a7-8906-4d08-bdcd-0701b18db7d2",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "User had issues with delivery executives and customer service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "4a8cd57b-a2c8-41fc-bc26-0351dfaae7a9": {
+    "review_id": "4a8cd57b-a2c8-41fc-bc26-0351dfaae7a9",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "User is trying the service for the first time.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "66b7695d-e705-43d9-8e92-5753364b4ff8": {
+    "review_id": "66b7695d-e705-43d9-8e92-5753364b4ff8",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "User received expired and damaged products.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "41e7d350-a835-4505-ae95-05640610fea0": {
+    "review_id": "41e7d350-a835-4505-ae95-05640610fea0",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Parent",
+    "categories": [
+      "Food"
+    ],
+    "barrier": "Product unavailability",
+    "sentiment": "positive",
+    "reason": "User wants a specific product to be available.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "b75fbf63-b2da-451a-8004-ed80002f424c": {
+    "review_id": "b75fbf63-b2da-451a-8004-ed80002f424c",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Busy professional",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "User appreciates the fast delivery service.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:31.660Z"
+  },
+  "02d57b76-799e-4101-b58a-14e52c496e92": {
+    "review_id": "02d57b76-799e-4101-b58a-14e52c496e92",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the app for daily life uses.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "b0f4b8a6-6d6d-4ee3-8a70-2d18920fd6c1": {
+    "review_id": "b0f4b8a6-6d6d-4ee3-8a70-2d18920fd6c1",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the convenience and quality of the app.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "ce423745-c40a-41a3-8501-e24b39d028f9": {
+    "review_id": "ce423745-c40a-41a3-8501-e24b39d028f9",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user finds the app makes daily life easy.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "324f753b-dec1-470f-a044-c3810cb65a90": {
+    "review_id": "324f753b-dec1-470f-a044-c3810cb65a90",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Logistics",
+    "sentiment": "negative",
+    "reason": "The user's products arrived wet due to lack of bags.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "72dc7199-a238-402c-b05c-7e039bc45c9a": {
+    "review_id": "72dc7199-a238-402c-b05c-7e039bc45c9a",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Price-sensitive",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Pricing",
+    "sentiment": "negative",
+    "reason": "The user finds the app too expensive.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "f03b852a-6482-4626-8f98-0e58b9e97693": {
+    "review_id": "f03b852a-6482-4626-8f98-0e58b9e97693",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Customer Service",
+    "sentiment": "negative",
+    "reason": "The user had a bad experience returning a damaged item.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "2ecdd35a-63bb-4a0a-bbe2-cea823a55be5": {
+    "review_id": "2ecdd35a-63bb-4a0a-bbe2-cea823a55be5",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Availability or substitution"
+    ],
+    "segment": "Frequent User",
+    "categories": [
+      "Jewellery"
+    ],
+    "barrier": "Availability",
+    "sentiment": "neutral",
+    "reason": "The user is unhappy with the frequent out-of-stock items.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "c97f54e1-4c3f-4781-a36a-b2ae9bf31874": {
+    "review_id": "c97f54e1-4c3f-4781-a36a-b2ae9bf31874",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-conscious",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Quality",
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the product quality and price.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "01e8905d-54fc-4447-b45b-9814916ad8e3": {
+    "review_id": "01e8905d-54fc-4447-b45b-9814916ad8e3",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user is hopeful about their first delivery experience.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "63fd9feb-3176-4c30-b825-74ec9473179a": {
+    "review_id": "63fd9feb-3176-4c30-b825-74ec9473179a",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": "Customer Service",
+    "sentiment": "negative",
+    "reason": "The user is unhappy with the customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:46.021Z"
+  },
+  "2d9f9a83-18d6-4d01-86ea-232431be21b3": {
+    "review_id": "2d9f9a83-18d6-4d01-86ea-232431be21b3",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the app's availability.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "5204e2e4-a26c-4610-b8a3-972c004443b5": {
+    "review_id": "5204e2e4-a26c-4610-b8a3-972c004443b5",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Dissatisfied customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Poor product quality",
+    "sentiment": "negative",
+    "reason": "The user received old stock with a bad smell.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "c2274646-0c8b-459b-a2f7-1971f23ec5b7": {
+    "review_id": "c2274646-0c8b-459b-a2f7-1971f23ec5b7",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the app's services.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "2690343e-83f1-4465-9c0b-868dfdcfda44": {
+    "review_id": "2690343e-83f1-4465-9c0b-868dfdcfda44",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The user experienced slow delivery and missing items.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "fb9aa10b-b2d2-42fe-a695-3844a584d59c": {
+    "review_id": "fb9aa10b-b2d2-42fe-a695-3844a584d59c",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The user had issues with refund and customer support.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "4139581e-253a-4f7e-ac38-a4e7e17fd5cd": {
+    "review_id": "4139581e-253a-4f7e-ac38-a4e7e17fd5cd",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price-sensitive customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the app's low prices.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "b69757ab-a99f-4f8f-93a5-ccb485679cb6": {
+    "review_id": "b69757ab-a99f-4f8f-93a5-ccb485679cb6",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The user had issues with order cancellation.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "b71c9df3-54ae-48ab-b1c3-83a289d93875": {
+    "review_id": "b71c9df3-54ae-48ab-b1c3-83a289d93875",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The user suggests improving the COD option.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "a9d489e4-37d1-4389-9392-d848f607f264": {
+    "review_id": "a9d489e4-37d1-4389-9392-d848f607f264",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Satisfied customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user likes the app's timely delivery and variety of groceries.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "0c91a40a-2716-489a-b997-1d58eb58c40e": {
+    "review_id": "0c91a40a-2716-489a-b997-1d58eb58c40e",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price-sensitive customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "High prices",
+    "sentiment": "neutral",
+    "reason": "The user compares the app's prices to Jio Mart.",
+    "provider": "groq",
+    "classified_at": "2026-08-03T10:14:50.168Z"
   }
 }

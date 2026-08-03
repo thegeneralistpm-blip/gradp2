@@ -1,19 +1,19 @@
 {
-  "screened_at": "2026-08-03T09:44:30.578Z",
+  "screened_at": "2026-08-03T10:14:53.899Z",
   "total_downloaded": 23292,
-  "in_scope_for_category_discovery_analysis": 1298,
-  "excluded_from_themed_analysis": 21994,
+  "in_scope_for_category_discovery_analysis": 1187,
+  "excluded_from_themed_analysis": 22105,
   "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
   "source_breakdown": {
     "Apple App Store (MY)": {
       "downloaded": 17,
-      "in_scope": 2,
-      "excluded": 15
+      "in_scope": 1,
+      "excluded": 16
     },
     "Apple App Store (CA)": {
       "downloaded": 278,
-      "in_scope": 42,
-      "excluded": 236
+      "in_scope": 41,
+      "excluded": 237
     },
     "Apple App Store (AU)": {
       "downloaded": 226,
@@ -22,8 +22,8 @@
     },
     "Apple App Store (US)": {
       "downloaded": 503,
-      "in_scope": 61,
-      "excluded": 442
+      "in_scope": 60,
+      "excluded": 443
     },
     "Apple App Store (IN)": {
       "downloaded": 14,
@@ -32,8 +32,8 @@
     },
     "Apple App Store (India)": {
       "downloaded": 500,
-      "in_scope": 42,
-      "excluded": 458
+      "in_scope": 38,
+      "excluded": 462
     },
     "Apple App Store (AE)": {
       "downloaded": 211,
@@ -132,8 +132,8 @@
     },
     "Apple App Store (IT)": {
       "downloaded": 6,
-      "in_scope": 2,
-      "excluded": 4
+      "in_scope": 0,
+      "excluded": 6
     },
     "Apple App Store (CH)": {
       "downloaded": 4,
@@ -167,8 +167,8 @@
     },
     "Google Play (India)": {
       "downloaded": 20123,
-      "in_scope": 887,
-      "excluded": 19236
+      "in_scope": 785,
+      "excluded": 19338
     },
     "Q-Commerce": {
       "downloaded": 239,
