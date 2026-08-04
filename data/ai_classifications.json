@@ -35673,5 +35673,2692 @@
     "reason": "The user compares the app's prices to Jio Mart.",
     "provider": "groq",
     "classified_at": "2026-08-03T10:14:50.168Z"
+  },
+  "8af4f1cd-8535-49fc-ab70-1b6b924054db": {
+    "review_id": "8af4f1cd-8535-49fc-ab70-1b6b924054db",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Satisfactory product quality builds consumer trust and trial confidence on the platform.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "b19bf939-73b7-4134-a448-1d23e9071aed": {
+    "review_id": "b19bf939-73b7-4134-a448-1d23e9071aed",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment Options",
+    "categories": [],
+    "barrier": "Cash on delivery unavailable",
+    "sentiment": "negative",
+    "reason": "This review discusses cash-on-delivery restrictions rather than product or category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "0e162092-8319-47c1-a8b3-a9ca0e2b0ef7": {
+    "review_id": "0e162092-8319-47c1-a8b3-a9ca0e2b0ef7",
+    "relevant": false,
+    "themes": [],
+    "segment": "Order Management",
+    "categories": [],
+    "barrier": "Order cancellation failure",
+    "sentiment": "negative",
+    "reason": "The feedback focuses purely on order cancellation issues without addressing product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "bf061bc5-c8e4-4817-8dac-3debcf16f4bd": {
+    "review_id": "bf061bc5-c8e4-4817-8dac-3debcf16f4bd",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Support & Packaging",
+    "categories": [],
+    "barrier": "Damaged items and poor support",
+    "sentiment": "negative",
+    "reason": "The issue relates to damaged packaging and customer service hours rather than category adoption or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "9080ea5d-1f99-478b-92fc-78be38e565a0": {
+    "review_id": "9080ea5d-1f99-478b-92fc-78be38e565a0",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Product Quality",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "High product quality fosters trust, encouraging repeat purchases and overall trial confidence.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "d483fdfb-6b04-4244-b160-b22158f69d65": {
+    "review_id": "d483fdfb-6b04-4244-b160-b22158f69d65",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Pricing Transparency",
+    "categories": [
+      "Snacks & Munchies"
+    ],
+    "barrier": "Unexpected price markup at checkout",
+    "sentiment": "negative",
+    "reason": "Price discrepancies at checkout reduce consumer trust when trying to purchase products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "13dd3821-df4b-4971-a8fe-a53e7350bf5c": {
+    "review_id": "13dd3821-df4b-4971-a8fe-a53e7350bf5c",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing & Fees",
+    "categories": [],
+    "barrier": "High handling fees",
+    "sentiment": "negative",
+    "reason": "General dissatisfaction with handling fees and price comparisons across apps does not specify product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "c913ee82-7265-47d8-a618-1e01cf9b94b4": {
+    "review_id": "c913ee82-7265-47d8-a618-1e01cf9b94b4",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Trial confidence"
+    ],
+    "segment": "First-Time User Experience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "An easy-to-use interface helps new users comfortably navigate and complete their first order trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "a93a11cd-6e56-4531-b00a-79185602c0db": {
+    "review_id": "a93a11cd-6e56-4531-b00a-79185602c0db",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic feedback on pricing lacks meaningful details regarding product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "4ef19908-d211-4fd9-a4b4-af89e52139d7": {
+    "review_id": "4ef19908-d211-4fd9-a4b4-af89e52139d7",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Product Quality & Freshness",
+    "categories": [
+      "Fresh Produce"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Assurance of fresh items drives trial confidence and habit formation for purchasing perishable products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:19:24.170Z"
+  },
+  "7bd0207f-6cd1-4adf-8e75-c22afbc760ce": {
+    "review_id": "7bd0207f-6cd1-4adf-8e75-c22afbc760ce",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing",
+    "categories": [],
+    "barrier": "High prices",
+    "sentiment": "neutral",
+    "reason": "Generic feedback on occasional price increases without specific context on category exploration or repeat habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "8045a859-d7bd-47bb-ba14-fbb99a91b48a": {
+    "review_id": "8045a859-d7bd-47bb-ba14-fbb99a91b48a",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Product Availability",
+    "categories": [],
+    "barrier": "Product unavailability in specific regions",
+    "sentiment": "positive",
+    "reason": "Mentions product unavailability and regional service limitations affecting product access.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "c85aec43-8f49-4a33-bc79-a2792855cb12": {
+    "review_id": "c85aec43-8f49-4a33-bc79-a2792855cb12",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Freshness & Quality",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Spoiled product received",
+    "sentiment": "negative",
+    "reason": "Receiving non-fresh, curdled milk undermines trust and trial confidence in ordering fresh dairy.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "ea08c982-e3db-4975-b472-a0dfc18dd94c": {
+    "review_id": "ea08c982-e3db-4975-b472-a0dfc18dd94c",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing",
+    "categories": [],
+    "barrier": "Overpriced products",
+    "sentiment": "negative",
+    "reason": "Generic single-word pricing complaint unrelated to product discovery or repeat purchase drivers.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "7e396f93-07e9-419c-8c71-7f320fc8f1f5": {
+    "review_id": "7e396f93-07e9-419c-8c71-7f320fc8f1f5",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing & Fees",
+    "categories": [],
+    "barrier": "High handling charges",
+    "sentiment": "negative",
+    "reason": "Complaint focuses generally on high prices and handling charges without category context.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "91f9f86a-b0b4-445e-b875-4c8f993d27d2": {
+    "review_id": "91f9f86a-b0b4-445e-b875-4c8f993d27d2",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Quality & Returns",
+    "categories": [
+      "Dry Fruits"
+    ],
+    "barrier": "Inflexible return policy for poor quality items",
+    "sentiment": "positive",
+    "reason": "Highlights return policy issues for defective raisins while noting continued repeat app usage.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "8e79d0b8-3998-4d5c-ac3e-c549bdb69842": {
+    "review_id": "8e79d0b8-3998-4d5c-ac3e-c549bdb69842",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment Options",
+    "categories": [],
+    "barrier": "COD disabled",
+    "sentiment": "negative",
+    "reason": "Focuses on payment method restrictions after order cancellation rather than product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "ac67f394-cdb9-46bc-82ae-d394fcc3865b": {
+    "review_id": "ac67f394-cdb9-46bc-82ae-d394fcc3865b",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Trial confidence"
+    ],
+    "segment": "Product Discovery & Freshness",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Praises the easy discovery of items and consistent delivery of fresh products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "8f353a0c-f206-481c-ac3e-c549bdb69842": {
+    "review_id": "8f353a0c-f206-481c-ac3e-c549bdb69842",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Customer Service & Quality",
+    "categories": [],
+    "barrier": "Unresolved damaged product delivery",
+    "sentiment": "negative",
+    "reason": "Lack of customer support resolution for damaged goods weakens consumer trust in trying products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "d2a283ee-0212-4714-a498-d2c7256b5bf8": {
+    "review_id": "d2a283ee-0212-4714-a498-d2c7256b5bf8",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Order Experience & Quality",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Excellent product quality and fast delivery encourage continued repeat usage and high trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:00.539Z"
+  },
+  "46f138f9-ac31-4fba-9c55-ab0cc3b96ac5": {
+    "review_id": "46f138f9-ac31-4fba-9c55-ab0cc3b96ac5",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "High price",
+    "sentiment": "neutral",
+    "reason": "Generically mentions high price without context on category exploration or product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "b1dd5cf0-ac77-4146-b572-46631308f952": {
+    "review_id": "b1dd5cf0-ac77-4146-b572-46631308f952",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Delivery failure",
+    "sentiment": "negative",
+    "reason": "Focuses on delivery non-fulfillment rather than category discovery or product trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "99fa58ce-64a2-48df-90bb-d75595dd67f8": {
+    "review_id": "99fa58ce-64a2-48df-90bb-d75595dd67f8",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution",
+      "Category or product exploration"
+    ],
+    "segment": "Snacks buyer",
+    "categories": [
+      "Packaged Foods",
+      "Snacks"
+    ],
+    "barrier": "Unavailability of lower pack sizes",
+    "sentiment": "neutral",
+    "reason": "Highlights unavailable smaller SKU options for chips, impacting product selection and purchase decision.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "0abb152f-95b9-45bc-9df7-74ae877c26f2": {
+    "review_id": "0abb152f-95b9-45bc-9df7-74ae877c26f2",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic compliment about pricing without specific details on product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "3e7aa0ef-00ec-4131-bb84-66d78b5fb03b": {
+    "review_id": "3e7aa0ef-00ec-4131-bb84-66d78b5fb03b",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise for delivery speed without product or category insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "0b2352f1-ae18-46bf-ac17-dcdb13f2b56c": {
+    "review_id": "0b2352f1-ae18-46bf-ac17-dcdb13f2b56c",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-conscious shopper",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Expired products and hidden expiry dates",
+    "sentiment": "negative",
+    "reason": "Mentions receiving expired items and hidden dates, directly eroding product trust and trial confidence.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "307d3e28-a488-4911-ad17-3be02a60b557": {
+    "review_id": "307d3e28-a488-4911-ad17-3be02a60b557",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Lack of Cash on Delivery",
+    "sentiment": "negative",
+    "reason": "Discusses payment options rather than product discovery or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "6538711a-66f5-44da-814d-a5e7f81a5a14": {
+    "review_id": "6538711a-66f5-44da-814d-a5e7f81a5a14",
+    "relevant": false,
+    "themes": [],
+    "segment": "Grocery shopper",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive comment on grocery service and delivery speed.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "05d041ad-15f5-46d0-bdea-8ffdf73d0848": {
+    "review_id": "05d041ad-15f5-46d0-bdea-8ffdf73d0848",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Delivery slot unavailability",
+    "sentiment": "negative",
+    "reason": "Refers to general delivery slot unavailability rather than product selection or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "105b028d-7bb1-42bc-9670-20b4c7e2561d": {
+    "review_id": "105b028d-7bb1-42bc-9670-20b4c7e2561d",
+    "relevant": false,
+    "themes": [],
+    "segment": "General user",
+    "categories": [],
+    "barrier": "Rude delivery staff behavior",
+    "sentiment": "negative",
+    "reason": "Focuses on delivery partner conduct during payment rather than product or category insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:16.359Z"
+  },
+  "e537c84c-68f1-4ec3-806c-7a76206a44d0": {
+    "review_id": "e537c84c-68f1-4ec3-806c-7a76206a44d0",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The reviewer likes the product's price.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "00990960-37e4-4464-be4f-952dcec380a9": {
+    "review_id": "00990960-37e4-4464-be4f-952dcec380a9",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The reviewer dislikes the price hike.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "157c4e79-876a-4a66-bc22-8408f063f0bc": {
+    "review_id": "157c4e79-876a-4a66-bc22-8408f063f0bc",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The product was not delivered to the reviewer's location.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "05d3b895-261c-46b3-ac68-572e9da63a09": {
+    "review_id": "05d3b895-261c-46b3-ac68-572e9da63a09",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The reviewer dislikes the app's interface.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "f4fee48b-20f3-4aa7-b83e-817ba2b63743": {
+    "review_id": "f4fee48b-20f3-4aa7-b83e-817ba2b63743",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Loyal Customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The reviewer has had satisfying experiences with the service.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "2d799c6b-7e0b-4c54-99b5-2d289ff09282": {
+    "review_id": "2d799c6b-7e0b-4c54-99b5-2d289ff09282",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The reviewer likes the product quality.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "d8974bf8-55e9-4b5c-916d-74364e82a7bb": {
+    "review_id": "d8974bf8-55e9-4b5c-916d-74364e82a7bb",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The reviewer had a bad experience with customer service.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "2f9bfc40-c3f9-4702-85bd-1abff3d85392": {
+    "review_id": "2f9bfc40-c3f9-4702-85bd-1abff3d85392",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The reviewer likes the search function.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "d4c86231-4a00-4575-9e95-ba6fc55fb1ee": {
+    "review_id": "d4c86231-4a00-4575-9e95-ba6fc55fb1ee",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The reviewer dislikes the service.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "55917c80-f4fe-4711-b4be-8ad8c313353e": {
+    "review_id": "55917c80-f4fe-4711-b4be-8ad8c313353e",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Casual User",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Limited location availability",
+    "sentiment": "neutral",
+    "reason": "The reviewer wants the service to be available at more locations.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:21:21.425Z"
+  },
+  "ff4105dd-60ce-45ef-9bfc-6de1243a81a8": {
+    "review_id": "ff4105dd-60ce-45ef-9bfc-6de1243a81a8",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Freshness & Quality",
+    "categories": [
+      "Fresh Food",
+      "Groceries"
+    ],
+    "barrier": "Unfresh food items",
+    "sentiment": "negative",
+    "reason": "The user expressed dissatisfaction with the freshness of food items, harming trial confidence and repeat purchase trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "20fdf431-ad2b-4913-a438-0e36ceb39ab2": {
+    "review_id": "20fdf431-ad2b-4913-a438-0e36ceb39ab2",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "segment": "Electronics",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": "Defective product and unhelpful customer support for warranty",
+    "sentiment": "negative",
+    "reason": "Buying an electronics item resulted in a defective product and lack of post-purchase support, deterring future non-grocery category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "d96685d4-d0b5-42c8-b598-783fd60403c7": {
+    "review_id": "d96685d4-d0b5-42c8-b598-783fd60403c7",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment options",
+    "categories": [],
+    "barrier": "Lack of Cash on Delivery option",
+    "sentiment": "negative",
+    "reason": "The review mentions generic payment method availability without referencing product discovery or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "e06b9f10-f08e-4149-90a8-abdf5fac03f8": {
+    "review_id": "e06b9f10-f08e-4149-90a8-abdf5fac03f8",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Availability or substitution"
+    ],
+    "segment": "Regional availability",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The user relies on Blinkit as the primary operational grocery service in Kashmir for repeat purchasing.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "69b44c2e-3f5b-4e72-9998-28e88e654b9b": {
+    "review_id": "69b44c2e-3f5b-4e72-9998-28e88e654b9b",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Quality & Returns",
+    "categories": [
+      "Groceries",
+      "Fresh Food"
+    ],
+    "barrier": "Expired and rotten items combined with a difficult return process",
+    "sentiment": "negative",
+    "reason": "Receiving expired or rotten items alongside a cumbersome return process erodes trust and repeat purchase habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "3c6b32b0-b268-40b6-b276-5794935e7bf8": {
+    "review_id": "3c6b32b0-b268-40b6-b276-5794935e7bf8",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "General satisfaction",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good product quality and timing build trust and support habit forming repeat purchases.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "b0418cb0-a9cc-47a2-9273-4fd4b660979a": {
+    "review_id": "b0418cb0-a9cc-47a2-9273-4fd4b660979a",
+    "relevant": false,
+    "themes": [],
+    "segment": "Payment & Promotions",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review focuses on general payment methods and delivery charges rather than product category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "6891cd83-528e-4021-ac3b-cf266e746820": {
+    "review_id": "6891cd83-528e-4021-ac3b-cf266e746820",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Freshness & Packaging",
+    "categories": [
+      "Fresh Food",
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Freshness and quality packaging build strong trial confidence and encourage repeat orders.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "09690fae-a536-443f-8915-394f16125aa1": {
+    "review_id": "09690fae-a536-443f-8915-394f16125aa1",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing & Billing",
+    "categories": [],
+    "barrier": "Checkout price discrepancy",
+    "sentiment": "negative",
+    "reason": "The review expresses concern over checkout total calculation rather than product exploration or category trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "fe74ef04-9e09-4356-b608-81a32cc51787": {
+    "review_id": "fe74ef04-9e09-4356-b608-81a32cc51787",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Availability or substitution"
+    ],
+    "segment": "Print services",
+    "categories": [
+      "Print Services"
+    ],
+    "barrier": "Unavailability of print and xerox services",
+    "sentiment": "negative",
+    "reason": "The user attempted to explore and utilize print services on the platform but found them unavailable.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:21:56.523Z"
+  },
+  "dc7f7a5d-2510-4c72-97bf-ba79975de6d5": {
+    "review_id": "dc7f7a5d-2510-4c72-97bf-ba79975de6d5",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution",
+      "Trial confidence"
+    ],
+    "segment": "Availability & Payment Options",
+    "categories": [
+      "General"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Highlights superior product availability compared to competitors and cash on delivery fostering trust to buy.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "36827125-45c2-4e3a-86ba-2de3e7a163af": {
+    "review_id": "36827125-45c2-4e3a-86ba-2de3e7a163af",
+    "relevant": false,
+    "themes": [],
+    "segment": "Packaging Quality",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Damaged packaging",
+    "sentiment": "neutral",
+    "reason": "Focuses on delivery packaging issues rather than product discovery or purchasing behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "7a5056a2-5a86-40dd-befd-29169d8af347": {
+    "review_id": "7a5056a2-5a86-40dd-befd-29169d8af347",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price Sensitivity",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "High prices compared to offline stores",
+    "sentiment": "neutral",
+    "reason": "Expresses concern over product pricing relative to local shops, impacting repeat purchase habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "c196bf27-718e-4a1d-8d6a-ff5c6ef49753": {
+    "review_id": "c196bf27-718e-4a1d-8d6a-ff5c6ef49753",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Multi-category Shopper",
+    "categories": [
+      "Groceries",
+      "Gifts"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Demonstrates successful cross-category exploration and repeat purchases across groceries and gifts.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "727e25ab-7a22-4d0d-b850-33c853da277c": {
+    "review_id": "727e25ab-7a22-4d0d-b850-33c853da277c",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Service",
+    "categories": [],
+    "barrier": "Slow order cancellation",
+    "sentiment": "negative",
+    "reason": "Focuses purely on generic customer service and order cancellation issues.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "dac97151-c324-4f13-8409-a026eb85805b": {
+    "review_id": "dac97151-c324-4f13-8409-a026eb85805b",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing & Fees",
+    "categories": [],
+    "barrier": "Increasing handling charges",
+    "sentiment": "negative",
+    "reason": "Discusses unexpected platform fees rather than category discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "d8276389-b589-40b2-8454-1d27eeca21fa": {
+    "review_id": "d8276389-b589-40b2-8454-1d27eeca21fa",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Feedback",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Contains a non-specific generic statement without details on products or navigation.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "dc682f2b-9afa-41ea-aa94-3b8ce62dcbc3": {
+    "review_id": "dc682f2b-9afa-41ea-aa94-3b8ce62dcbc3",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Praise",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Provides short generic praise without insights into discovery or product adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "2106b909-ea62-4264-ad63-c3b9a5f160ca": {
+    "review_id": "2106b909-ea62-4264-ad63-c3b9a5f160ca",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Order Safety & Quality",
+    "categories": [
+      "Household Chemicals",
+      "Food"
+    ],
+    "barrier": "Unsafe cross-packing of chemicals and food",
+    "sentiment": "negative",
+    "reason": "Co-packing chemicals with food breaches product safety expectations and damages trust in buying non-food items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "82aac7ae-bcdd-4cd9-8f6a-351d60a9c61d": {
+    "review_id": "82aac7ae-bcdd-4cd9-8f6a-351d60a9c61d",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic Praise",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Offers generic praise about delivery and offers without explicit links to category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:22.040Z"
+  },
+  "705b9e54-6c43-4201-bc5f-f81ccbee4174": {
+    "review_id": "705b9e54-6c43-4201-bc5f-f81ccbee4174",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Availability or substitution"
+    ],
+    "segment": "Electronics buyer",
+    "categories": [
+      "Electronics",
+      "Mobile Accessories"
+    ],
+    "barrier": "Wrong item delivered",
+    "sentiment": "negative",
+    "reason": "Receiving the wrong item and being denied a return undermines trial confidence for buying non-grocery items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "3a8a0694-09e9-4f74-9815-fbda9ad91ec9": {
+    "review_id": "3a8a0694-09e9-4f74-9815-fbda9ad91ec9",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Daily essentials buyer",
+    "categories": [
+      "Daily Essentials"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Expresses reliance on the app for daily life needs, indicating habit forming behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "5bfd3dc4-3507-4f53-9d4e-6b5f791e68e2": {
+    "review_id": "5bfd3dc4-3507-4f53-9d4e-6b5f791e68e2",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Fresh produce buyer",
+    "categories": [
+      "Fresh Produce",
+      "Vegetables"
+    ],
+    "barrier": "Poor product quality",
+    "sentiment": "negative",
+    "reason": "Poor freshness and cooking quality of vegetables deter repeat purchases in the fresh produce category.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "5b5cd4c5-cdc0-4677-9c49-981536f5a586": {
+    "review_id": "5b5cd4c5-cdc0-4677-9c49-981536f5a586",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Daily essentials buyer",
+    "categories": [
+      "Daily Essentials"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "App validates fast fulfillment for recurring daily essential buying habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "e145f296-9121-48d4-9379-9508f0895d8e": {
+    "review_id": "e145f296-9121-48d4-9379-9508f0895d8e",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Staples buyer",
+    "categories": [
+      "Grocery",
+      "Staples"
+    ],
+    "barrier": "Low quality produce/staples",
+    "sentiment": "negative",
+    "reason": "Unsatisfactory quality of branded rice hurts user trust and repeat purchase behavior in grocery staples.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "b8980704-3a0f-4621-bed4-7f56f6618b9d": {
+    "review_id": "b8980704-3a0f-4621-bed4-7f56f6618b9d",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic shopper",
+    "categories": [],
+    "barrier": "Refund and cancellation issues",
+    "sentiment": "negative",
+    "reason": "General customer service issues regarding cancellations and refunds do not provide product category exploration insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "fa930a66-7cbb-4c64-9a04-d2437c4585d5": {
+    "review_id": "fa930a66-7cbb-4c64-9a04-d2437c4585d5",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Electronics buyer",
+    "categories": [
+      "Electronics",
+      "Audio"
+    ],
+    "barrier": "Incomplete product delivered",
+    "sentiment": "negative",
+    "reason": "Delivering incomplete and unsealed high-value electronics damages customer trial confidence when exploring new categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "a27b3afa-8366-45eb-8b5c-907e25374a0e": {
+    "review_id": "a27b3afa-8366-45eb-8b5c-907e25374a0e",
+    "relevant": false,
+    "themes": [],
+    "segment": "Price-sensitive user",
+    "categories": [],
+    "barrier": "Lack of timely discounts",
+    "sentiment": "neutral",
+    "reason": "Vague feedback on discount timing lacks specific product or category context.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "90af4720-db88-404e-9bb4-53c439203be9": {
+    "review_id": "90af4720-db88-404e-9bb4-53c439203be9",
+    "relevant": false,
+    "themes": [],
+    "segment": "Generic shopper",
+    "categories": [],
+    "barrier": "Missing item support",
+    "sentiment": "negative",
+    "reason": "Generic feedback about customer support for incomplete deliveries does not relate to product category research.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "f6fa16cd-027d-471f-bffc-60352a1d708a": {
+    "review_id": "f6fa16cd-027d-471f-bffc-60352a1d708a",
+    "relevant": false,
+    "themes": [],
+    "segment": "Price-sensitive user",
+    "categories": [],
+    "barrier": "High prices",
+    "sentiment": "negative",
+    "reason": "General price complaints without category context do not shed light on product exploration or trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:34:48.548Z"
+  },
+  "9ca7ba26-a12e-42ff-9699-5761b8bf2b33": {
+    "review_id": "9ca7ba26-a12e-42ff-9699-5761b8bf2b33",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Customer service issue",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "1307c4ae-1896-4789-98dd-bf9ea09a64b8": {
+    "review_id": "1307c4ae-1896-4789-98dd-bf9ea09a64b8",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good price and service",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "7a60e88d-ecad-414b-8f8f-d2a161385f9c": {
+    "review_id": "7a60e88d-ecad-414b-8f8f-d2a161385f9c",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Defective product and poor replacement policy",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "3471b9f9-2307-4879-abf2-31917cfa9306": {
+    "review_id": "3471b9f9-2307-4879-abf2-31917cfa9306",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Price-sensitive",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "High price",
+    "sentiment": "neutral",
+    "reason": "High price despite overall good experience",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "f506938f-72f2-48ed-8c82-ae362f8263b7": {
+    "review_id": "f506938f-72f2-48ed-8c82-ae362f8263b7",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good app experience",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "3401bfa9-da09-495e-8ef6-1705da7bc542": {
+    "review_id": "3401bfa9-da09-495e-8ef6-1705da7bc542",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Loyal customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Request for offer on specific product",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "d8b80ae2-92ef-434b-8520-fab3fbe54a52": {
+    "review_id": "d8b80ae2-92ef-434b-8520-fab3fbe54a52",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase"
+    ],
+    "segment": "Satisfied customer",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good products and offers",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "d4a4629f-680b-49da-9ea2-564f978b2cb9": {
+    "review_id": "d4a4629f-680b-49da-9ea2-564f978b2cb9",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Order cancellation and refund issue",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "57b1de7a-87ca-446a-ac01-cc3810473f45": {
+    "review_id": "57b1de7a-87ca-446a-ac01-cc3810473f45",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Good app for groceries",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "ef64a5b2-a266-42ab-9ee5-caba3571acaa": {
+    "review_id": "ef64a5b2-a266-42ab-9ee5-caba3571acaa",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation"
+    ],
+    "segment": "Feature requester",
+    "categories": [
+      "App features"
+    ],
+    "barrier": "Lack of scheduling feature",
+    "sentiment": "neutral",
+    "reason": "Missing scheduling feature",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:34:53.684Z"
+  },
+  "Product Review:pr_459": {
+    "review_id": "Product Review:pr_459",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Users",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic delivery speed praise does not provide insights into product discovery or category adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Forum / News:news_0": {
+    "review_id": "Forum / News:news_0",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Analysts",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Brokerage news regarding financial targets is not customer product feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Forum / News:news_62": {
+    "review_id": "Forum / News:news_62",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Analysts",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Brokerage news regarding company performance does not offer insights into user category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Forum / News:news_161": {
+    "review_id": "Forum / News:news_161",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial Analysts",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "News report on stock targets and discounting strategy is unrelated to customer discovery behaviors.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_465": {
+    "review_id": "Product Review:pr_465",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Quality-sensitive Shoppers",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": "Expired products",
+    "sentiment": "negative",
+    "reason": "Receiving an expired item severely erodes trial confidence and trust in purchasing product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_469": {
+    "review_id": "Product Review:pr_469",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Users",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic feedback on delivery timing does not address product exploration or adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_474": {
+    "review_id": "Product Review:pr_474",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Users",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Brief compliment on speed is general service feedback without product context.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_480": {
+    "review_id": "Product Review:pr_480",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Users",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Vague negative review lacking detail on product discovery, quality, or app navigation.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_485": {
+    "review_id": "Product Review:pr_485",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Fresh Food"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Delivering fresh food builds trust and trial confidence, encouraging repeat purchases in the category.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_488": {
+    "review_id": "Product Review:pr_488",
+    "relevant": false,
+    "themes": [],
+    "segment": "Price-sensitive Users",
+    "categories": [],
+    "barrier": "High charges",
+    "sentiment": "neutral",
+    "reason": "General feedback on delivery fees and service charges does not specifically relate to product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:35:05.552Z"
+  },
+  "Product Review:pr_491": {
+    "review_id": "Product Review:pr_491",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Availability or substitution"
+    ],
+    "segment": "Product Assortment",
+    "categories": [
+      "General Grocery"
+    ],
+    "barrier": "Lack of national/recognized brands",
+    "sentiment": "negative",
+    "reason": "User discourages app usage due to limited selection consisting only of local items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_495": {
+    "review_id": "Product Review:pr_495",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic positive compliment about service without details on product exploration or purchasing decisions.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_498": {
+    "review_id": "Product Review:pr_498",
+    "relevant": false,
+    "themes": [],
+    "segment": "Promotions & Speed",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic feedback praising discounts and delivery speed without insights into category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_502": {
+    "review_id": "Product Review:pr_502",
+    "relevant": false,
+    "themes": [],
+    "segment": "Order Cancellation & Refunds",
+    "categories": [],
+    "barrier": "Order cancellation and pending refund",
+    "sentiment": "negative",
+    "reason": "Focuses strictly on order cancellation and delayed refund issues rather than product exploration or category trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_507": {
+    "review_id": "Product Review:pr_507",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery Speed",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic review praising rapid delivery of required items without specific product discovery details.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_514": {
+    "review_id": "Product Review:pr_514",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Usability",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise for shopping ease and affordability without category-specific context.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_517": {
+    "review_id": "Product Review:pr_517",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Experience",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic praise for overall service speed without specific insights into product trial or discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_524": {
+    "review_id": "Product Review:pr_524",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality & Cold Chain",
+    "categories": [
+      "Dairy & Frozen",
+      "Ice Creams"
+    ],
+    "barrier": "Improper storage and poor product texture",
+    "sentiment": "negative",
+    "reason": "Poor temperature control compromised the ice cream texture, eroding trust to buy frozen products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_527": {
+    "review_id": "Product Review:pr_527",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Short generic comment praising service without mentioning product selection or navigation.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_533": {
+    "review_id": "Product Review:pr_533",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic short praise for overall service quality.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:32.291Z"
+  },
+  "Product Review:pr_536": {
+    "review_id": "Product Review:pr_536",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is a generic compliment about service without details on product exploration or purchasing habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_541": {
+    "review_id": "Product Review:pr_541",
+    "relevant": false,
+    "themes": [],
+    "segment": "Pricing & Fees",
+    "categories": [],
+    "barrier": "Extra order fees",
+    "sentiment": "negative",
+    "reason": "Mentions extra charges without discussing product discovery, trial confidence, or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_544": {
+    "review_id": "Product Review:pr_544",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Satisfaction",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Provides general praise without mentioning products, categories, or shopping behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_547": {
+    "review_id": "Product Review:pr_547",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery Speed",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Refers only to service speed without context on product exploration or category trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_556": {
+    "review_id": "Product Review:pr_556",
+    "relevant": false,
+    "themes": [],
+    "segment": "App Usability",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Contains generic praise for the app with no specific detail on product catalog or habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_559": {
+    "review_id": "Product Review:pr_559",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Utility",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "States general utility without providing insights into product discovery or repeat purchasing patterns.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_562": {
+    "review_id": "Product Review:pr_562",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "segment": "Multi-category shopper",
+    "categories": [
+      "Grocery",
+      "Household"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Highlights convenient repeat purchasing across specific categories like groceries and household items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_566": {
+    "review_id": "Product Review:pr_566",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Habit or repeat purchase"
+    ],
+    "segment": "Wide-category reliance",
+    "categories": [
+      "Groceries",
+      "Household",
+      "Snacks & Munchies",
+      "Pharma & Wellness"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Shows reliance across diverse product categories ranging from daily groceries to late-night snacks and medicine.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_570": {
+    "review_id": "Product Review:pr_570",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": "Poor service quality",
+    "sentiment": "negative",
+    "reason": "Complains about service generally without specifying any product category or discovery issue.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_575": {
+    "review_id": "Product Review:pr_575",
+    "relevant": false,
+    "themes": [],
+    "segment": "App Usability",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Short generic feedback about the app without relevant product discovery context.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:45:50.331Z"
+  },
+  "Product Review:pr_578": {
+    "review_id": "Product Review:pr_578",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Delivery",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Generic request for quick delivery without mention of product exploration or trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Product Review:pr_582": {
+    "review_id": "Product Review:pr_582",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Generic compliment about service without specific product or category feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Product Review:pr_585": {
+    "review_id": "Product Review:pr_585",
+    "relevant": false,
+    "themes": [],
+    "segment": "General Service",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Non-informative feedback with no details on product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Product Review:pr_591": {
+    "review_id": "Product Review:pr_591",
+    "relevant": false,
+    "themes": [],
+    "segment": "Store Operations",
+    "categories": [],
+    "barrier": "Limited operating hours",
+    "sentiment": "neutral",
+    "reason": "Requests 24-hour service availability rather than addressing product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Product Review:pr_596": {
+    "review_id": "Product Review:pr_596",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Habit or repeat purchase"
+    ],
+    "segment": "First-time Customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "User shares initial trial experience and expresses optimism for long-term repeat purchases.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Reddit:t3_2": {
+    "review_id": "Reddit:t3_2",
+    "relevant": false,
+    "themes": [],
+    "segment": "Social / Public Cause",
+    "categories": [
+      "Essentials",
+      "Medical"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Discusses ordering essentials for a protest site rather than consumer category discovery or adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Q-Commerce:qc_news_95": {
+    "review_id": "Q-Commerce:qc_news_95",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Health & Gourmet",
+    "categories": [
+      "Paneer",
+      "High-Protein Foods"
+    ],
+    "barrier": "Product authenticity concerns",
+    "sentiment": "negative",
+    "reason": "Allegations of fake high-protein paneer undermine consumer trust and trial confidence in specialized food categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Forum / News:news_95": {
+    "review_id": "Forum / News:news_95",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Health & Gourmet",
+    "categories": [
+      "Paneer",
+      "High-Protein Foods"
+    ],
+    "barrier": "Product authenticity concerns",
+    "sentiment": "negative",
+    "reason": "News regarding counterfeit high-protein paneer hurts trial confidence in specialized grocery items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Q-Commerce:qc_news_196": {
+    "review_id": "Q-Commerce:qc_news_196",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Discovery or navigation"
+    ],
+    "segment": "Gourmet & Premium",
+    "categories": [
+      "Gourmet Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Reports on the launch of a new Gourmet section intended to encourage product exploration and higher order values.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Forum / News:news_196": {
+    "review_id": "Forum / News:news_196",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Discovery or navigation"
+    ],
+    "segment": "Gourmet & Premium",
+    "categories": [
+      "Gourmet Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Highlights Blinkit's strategic push into premium groceries to drive category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T09:50:20.108Z"
+  },
+  "Q-Commerce:qc_news_150": {
+    "review_id": "Q-Commerce:qc_news_150",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Review is about Amazon's entry into quick commerce, not related to Blinkit's product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Forum / News:news_150": {
+    "review_id": "Forum / News:news_150",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Review is about Amazon's entry into quick commerce, not related to Blinkit's product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Q-Commerce:qc_news_154": {
+    "review_id": "Q-Commerce:qc_news_154",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Review is about Amazon and Flipkart's impact on quick commerce, not related to Blinkit's product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Q-Commerce:qc_news_168": {
+    "review_id": "Q-Commerce:qc_news_168",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Review is about Amazon and Flipkart's price war in quick commerce, not related to Blinkit's product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Forum / News:news_154": {
+    "review_id": "Forum / News:news_154",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Review is about Amazon and Flipkart's impact on quick commerce, not related to Blinkit's product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Forum / News:news_168": {
+    "review_id": "Forum / News:news_168",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Review is about Amazon and Flipkart's price war in quick commerce, not related to Blinkit's product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Q-Commerce:qc_news_27": {
+    "review_id": "Q-Commerce:qc_news_27",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "Review mentions poor quality curd being sold online, affecting trust in Blinkit's products.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Forum / News:news_27": {
+    "review_id": "Forum / News:news_27",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "Review mentions poor quality curd being sold online, affecting trust in Blinkit's products.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Q-Commerce:qc_news_9": {
+    "review_id": "Q-Commerce:qc_news_9",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "Review mentions low-quality curd sale on Blinkit's platform, affecting trust in Blinkit's products.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Forum / News:news_9": {
+    "review_id": "Forum / News:news_9",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food",
+    "categories": [
+      "Dairy"
+    ],
+    "barrier": "Quality concerns",
+    "sentiment": "negative",
+    "reason": "Review mentions low-quality curd sale on Blinkit's platform, affecting trust in Blinkit's products.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T09:50:52.754Z"
+  },
+  "Q-Commerce:qc_news_18": {
+    "review_id": "Q-Commerce:qc_news_18",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood",
+      "Grocery"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "News regarding FSSAI inquiries into poor egg quality impacts consumer trust in purchasing fresh perishables.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Q-Commerce:qc_news_66": {
+    "review_id": "Q-Commerce:qc_news_66",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood",
+      "Grocery"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Reports of poor-quality eggs sold on the platform erode trial confidence for fresh groceries.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Forum / News:news_18": {
+    "review_id": "Forum / News:news_18",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood",
+      "Grocery"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Regulatory scrutiny over substandard egg quality damages consumer trust in ordering fresh foods.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Forum / News:news_66": {
+    "review_id": "Forum / News:news_66",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood",
+      "Grocery"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Publicity about egg quality issues creates a barrier to trying fresh food categories online.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Reddit:t3_5": {
+    "review_id": "Reddit:t3_5",
+    "relevant": false,
+    "themes": [],
+    "segment": "Quick Commerce Users",
+    "categories": [
+      "Instant Food"
+    ],
+    "barrier": "Delivery safety and harassment",
+    "sentiment": "negative",
+    "reason": "The complaint focuses on delivery partner harassment and safety rather than product or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Social:soc_reddit_5": {
+    "review_id": "Social:soc_reddit_5",
+    "relevant": false,
+    "themes": [],
+    "segment": "Quick Commerce Users",
+    "categories": [
+      "Instant Food"
+    ],
+    "barrier": "Delivery partner behavior",
+    "sentiment": "negative",
+    "reason": "Focuses on delivery agent misconduct rather than evaluating category or product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Q-Commerce:qc_news_4": {
+    "review_id": "Q-Commerce:qc_news_4",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Food safety watchdog notices about bad quality eggs discourage customers from trying perishable items online.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Q-Commerce:qc_news_6": {
+    "review_id": "Q-Commerce:qc_news_6",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Complaints about rubber-like egg quality undermine customer trust in fresh product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Q-Commerce:qc_news_7": {
+    "review_id": "Q-Commerce:qc_news_7",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "FSSAI notices over quality issues directly reduce confidence in purchasing fresh items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Q-Commerce:qc_news_50": {
+    "review_id": "Q-Commerce:qc_news_50",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh Food Buyers",
+    "categories": [
+      "Eggs, Meat & Seafood"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Regulatory scrutiny on poor egg quality negatively impacts consumer willingness to try fresh grocery categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:42.420Z"
+  },
+  "Q-Commerce:qc_news_51": {
+    "review_id": "Q-Commerce:qc_news_51",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "News / Public Media",
+    "categories": [
+      "Dairy & Eggs"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Regulatory action over poor quality eggs directly damages consumer trust and trial confidence in fresh groceries.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_4": {
+    "review_id": "Forum / News:news_4",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "News / Public Media",
+    "categories": [
+      "Dairy & Eggs"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Food safety watchdog notices regarding bad egg quality undermine customer trust in ordering fresh produce.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_6": {
+    "review_id": "Forum / News:news_6",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "News / Public Media",
+    "categories": [
+      "Dairy & Eggs"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Reports of selling defective rubber-like eggs hurt customer confidence when buying fresh items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_7": {
+    "review_id": "Forum / News:news_7",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "News / Public Media",
+    "categories": [
+      "Dairy & Eggs"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Public scrutiny over poor egg quality discourages users from trusting perishable product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_50": {
+    "review_id": "Forum / News:news_50",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "News / Public Media",
+    "categories": [
+      "Dairy & Eggs"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "FSSAI demanding a report over egg quality concerns negatively impacts user trust in category safety.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_51": {
+    "review_id": "Forum / News:news_51",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "News / Public Media",
+    "categories": [
+      "Dairy & Eggs"
+    ],
+    "barrier": "Product quality concerns",
+    "sentiment": "negative",
+    "reason": "Concerns regarding poor quality egg complaints harm customer willingness to try or repeat buy fresh goods.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Q-Commerce:qc_news_186": {
+    "review_id": "Q-Commerce:qc_news_186",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "General industry news on delivery wars does not provide user feedback on category discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_186": {
+    "review_id": "Forum / News:news_186",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "High-level commentary on delivery competition lacks insight into customer product exploration or behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Q-Commerce:qc_news_19": {
+    "review_id": "Q-Commerce:qc_news_19",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Brokerage research and financial results news do not touch upon user shopping barriers or category trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Forum / News:news_19": {
+    "review_id": "Forum / News:news_19",
+    "relevant": false,
+    "themes": [],
+    "segment": "Financial / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Corporate financial performance news provides no insights into user product discovery or purchasing trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:13:58.161Z"
+  },
+  "Q-Commerce:qc_news_214": {
+    "review_id": "Q-Commerce:qc_news_214",
+    "relevant": false,
+    "themes": [],
+    "segment": "News Outlet",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is a news headline about a new service launch rather than customer feedback on product discovery or purchase decisions.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Forum / News:news_214": {
+    "review_id": "Forum / News:news_214",
+    "relevant": false,
+    "themes": [],
+    "segment": "News Outlet",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "It is a news headline announcing service expansion rather than individual user shopping feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Reddit:t3_6": {
+    "review_id": "Reddit:t3_6",
+    "relevant": false,
+    "themes": [],
+    "segment": "App Developer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The post discusses an expense tracking app rather than user feedback on exploring or buying products on Blinkit.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Q-Commerce:qc_news_208": {
+    "review_id": "Q-Commerce:qc_news_208",
+    "relevant": false,
+    "themes": [],
+    "segment": "Industry Analyst",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is an e-commerce trend article title rather than direct customer feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Forum / News:news_208": {
+    "review_id": "Forum / News:news_208",
+    "relevant": false,
+    "themes": [],
+    "segment": "Industry Analyst",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "It is an industry report headline summarizing platform sales trends rather than user experience.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Q-Commerce:qc_news_118": {
+    "review_id": "Q-Commerce:qc_news_118",
+    "relevant": false,
+    "themes": [],
+    "segment": "Tech News",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is a news report announcing smartphone availability on quick commerce apps rather than customer shopping insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Forum / News:news_118": {
+    "review_id": "Forum / News:news_118",
+    "relevant": false,
+    "themes": [],
+    "segment": "Tech News",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "It is a news article headline about product availability rather than user experience or feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Q-Commerce:qc_news_52": {
+    "review_id": "Q-Commerce:qc_news_52",
+    "relevant": false,
+    "themes": [],
+    "segment": "News Outlet",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This is a news update regarding regulatory warnings rather than direct consumer shopping feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Forum / News:news_52": {
+    "review_id": "Forum / News:news_52",
+    "relevant": false,
+    "themes": [],
+    "segment": "News Outlet",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It is a news headline reporting FDA actions instead of personal user review data.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Reddit:t3_9": {
+    "review_id": "Reddit:t3_9",
+    "relevant": true,
+    "themes": [
+      "Habit or repeat purchase",
+      "Trial confidence"
+    ],
+    "segment": "Reddit User",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Dynamic pricing and reduced discounts",
+    "sentiment": "negative",
+    "reason": "Highlights how dynamic pricing and removal of discounts for repeat buyers hurt user trust and repeat purchasing habits on quick commerce platforms.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:06.316Z"
+  },
+  "Reddit:t3_10": {
+    "review_id": "Reddit:t3_10",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Industry",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "It is an article link discussing ultra-fast grocery delivery with no consumer insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Social:soc_reddit_10": {
+    "review_id": "Social:soc_reddit_10",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Industry",
+    "categories": [
+      "Grocery"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "It is an industry news submission without specific customer category discovery insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Reddit:t3_14": {
+    "review_id": "Reddit:t3_14",
+    "relevant": false,
+    "themes": [],
+    "segment": "Personal Experience",
+    "categories": [
+      "Cleaning Supplies"
+    ],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It is a story about relocation with an incidental mention of buying cleaning supplies.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Reddit:t3_15": {
+    "review_id": "Reddit:t3_15",
+    "relevant": false,
+    "themes": [],
+    "segment": "Gig Economy / Riders",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It focuses on delivery rider earnings and working conditions rather than consumer product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Reddit:t3_17": {
+    "review_id": "Reddit:t3_17",
+    "relevant": false,
+    "themes": [],
+    "segment": "Labor / Social Commentary",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It criticizes quick delivery labor practices rather than addressing customer purchasing habits or categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Reddit:t3_18": {
+    "review_id": "Reddit:t3_18",
+    "relevant": false,
+    "themes": [],
+    "segment": "Travel / Social Commentary",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It mentions a Blinkit paper bag incidentally in a broader personal post about civic issues in India.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Reddit:t3_20": {
+    "review_id": "Reddit:t3_20",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality & Trust",
+    "categories": [
+      "Grocery",
+      "Packaged Foods"
+    ],
+    "barrier": "Expired products and mislabeling",
+    "sentiment": "negative",
+    "reason": "Warehouse inspection findings of expired items erode trial confidence and product trust for quick-commerce buyers.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Social:soc_reddit_20": {
+    "review_id": "Social:soc_reddit_20",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality & Trust",
+    "categories": [
+      "Grocery",
+      "Packaged Foods"
+    ],
+    "barrier": "Expired products and mislabeling",
+    "sentiment": "negative",
+    "reason": "Reports on expired goods in warehouses highlight trust issues that impact consumer trial confidence.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Q-Commerce:qc_news_55": {
+    "review_id": "Q-Commerce:qc_news_55",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery / Incident News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It covers a viral news story about a delivery partner dispute over a missing item.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Forum / News:news_55": {
+    "review_id": "Forum / News:news_55",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery / Incident News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "It describes a news story regarding delivery partner earnings and missing items rather than product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:26.504Z"
+  },
+  "Reddit:t3_23": {
+    "review_id": "Reddit:t3_23",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review does not relate to Blinkit or product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Social:soc_reddit_23": {
+    "review_id": "Social:soc_reddit_23",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review does not relate to Blinkit or product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Q-Commerce:qc_news_56": {
+    "review_id": "Q-Commerce:qc_news_56",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Concerned customer",
+    "categories": [
+      "Dairy products"
+    ],
+    "barrier": "Expired products",
+    "sentiment": "negative",
+    "reason": "The customer received expired products from Blinkit.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Forum / News:news_56": {
+    "review_id": "Forum / News:news_56",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Concerned customer",
+    "categories": [
+      "Dairy products"
+    ],
+    "barrier": "Expired products",
+    "sentiment": "negative",
+    "reason": "The customer received expired products from Blinkit.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Reddit:t3_24": {
+    "review_id": "Reddit:t3_24",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review does not relate to Blinkit or product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Social:soc_reddit_24": {
+    "review_id": "Social:soc_reddit_24",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review does not relate to Blinkit or product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Q-Commerce:qc_news_24": {
+    "review_id": "Q-Commerce:qc_news_24",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about an antitrust review and does not relate to product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Q-Commerce:qc_news_78": {
+    "review_id": "Q-Commerce:qc_news_78",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about an antitrust review and does not relate to product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Forum / News:news_24": {
+    "review_id": "Forum / News:news_24",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about an antitrust review and does not relate to product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Forum / News:news_78": {
+    "review_id": "Forum / News:news_78",
+    "relevant": false,
+    "themes": [],
+    "segment": "Non-customer",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about an antitrust review and does not relate to product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-04T10:30:31.411Z"
+  },
+  "Q-Commerce:qc_news_45": {
+    "review_id": "Q-Commerce:qc_news_45",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "News headline",
+    "categories": [
+      "Ghee",
+      "Induction Cooktop",
+      "Groceries",
+      "Electronics"
+    ],
+    "barrier": "Poor quality and damaged goods",
+    "sentiment": "negative",
+    "reason": "Reports of expired ghee and damaged electronics erode customer trust when trying different product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Forum / News:news_45": {
+    "review_id": "Forum / News:news_45",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "News headline",
+    "categories": [
+      "Ghee",
+      "Induction Cooktop",
+      "Groceries",
+      "Electronics"
+    ],
+    "barrier": "Poor quality and damaged goods",
+    "sentiment": "negative",
+    "reason": "Quality issues with expired food and damaged appliances hurt trial confidence across product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Q-Commerce:qc_news_41": {
+    "review_id": "Q-Commerce:qc_news_41",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "News headline",
+    "categories": [
+      "Mangoes",
+      "Lettuce",
+      "Fresh Produce"
+    ],
+    "barrier": "Poor quality fresh produce",
+    "sentiment": "negative",
+    "reason": "Receiving poor-quality fresh produce impacts customer willingness to order fresh food categories online.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Forum / News:news_41": {
+    "review_id": "Forum / News:news_41",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "News headline",
+    "categories": [
+      "Mangoes",
+      "Lettuce",
+      "Fresh Produce"
+    ],
+    "barrier": "Poor quality fresh produce",
+    "sentiment": "negative",
+    "reason": "Bad quality in fresh produce undermines trust in ordering perishables from the platform.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Q-Commerce:qc_news_46": {
+    "review_id": "Q-Commerce:qc_news_46",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant product review",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This review refers to an unrelated iPod accessory rather than the Blinkit quick commerce platform.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Q-Commerce:qc_news_127": {
+    "review_id": "Q-Commerce:qc_news_127",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant product review",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This review is about an iPod accessory product, not Blinkit q-commerce.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Forum / News:news_46": {
+    "review_id": "Forum / News:news_46",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant product review",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The article discusses a safety light device named Blinkit rather than the quick commerce app.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Forum / News:news_127": {
+    "review_id": "Forum / News:news_127",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant product review",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This review is for an iPod safety light hardware device, not the Blinkit grocery service.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Q-Commerce:qc_news_129": {
+    "review_id": "Q-Commerce:qc_news_129",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant news",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This article is about a loyalty program in Singapore and is unrelated to Blinkit product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Forum / News:news_129": {
+    "review_id": "Forum / News:news_129",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant news",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This news item discusses BonusLink marketing awards and has no relation to Blinkit or product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:30:44.299Z"
+  },
+  "Q-Commerce:qc_news_128": {
+    "review_id": "Q-Commerce:qc_news_128",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "This is a movie review and completely unrelated to Blinkit products or e-commerce experiences.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:33:27.798Z"
+  },
+  "Forum / News:news_128": {
+    "review_id": "Forum / News:news_128",
+    "relevant": false,
+    "themes": [],
+    "segment": "Irrelevant",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is a news headline reviewing a film and is not relevant to Blinkit customer feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-04T10:33:27.798Z"
   }
 }

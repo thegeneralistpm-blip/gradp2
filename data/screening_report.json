@@ -1,8 +1,8 @@
 {
-  "screened_at": "2026-08-03T10:14:53.899Z",
+  "screened_at": "2026-08-04T10:33:32.329Z",
   "total_downloaded": 23292,
-  "in_scope_for_category_discovery_analysis": 1187,
-  "excluded_from_themed_analysis": 22105,
+  "in_scope_for_category_discovery_analysis": 1069,
+  "excluded_from_themed_analysis": 22223,
   "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
   "source_breakdown": {
     "Apple App Store (MY)": {
@@ -167,33 +167,33 @@
     },
     "Google Play (India)": {
       "downloaded": 20123,
-      "in_scope": 785,
-      "excluded": 19338
+      "in_scope": 741,
+      "excluded": 19382
     },
     "Q-Commerce": {
       "downloaded": 239,
-      "in_scope": 31,
-      "excluded": 208
+      "in_scope": 15,
+      "excluded": 224
     },
     "Forum / News": {
       "downloaded": 239,
-      "in_scope": 40,
-      "excluded": 199
+      "in_scope": 21,
+      "excluded": 218
     },
     "Reddit": {
       "downloaded": 25,
-      "in_scope": 12,
-      "excluded": 13
+      "in_scope": 2,
+      "excluded": 23
     },
     "Social": {
       "downloaded": 25,
-      "in_scope": 5,
-      "excluded": 20
+      "in_scope": 1,
+      "excluded": 24
     },
     "Product Review": {
       "downloaded": 141,
-      "in_scope": 53,
-      "excluded": 88
+      "in_scope": 28,
+      "excluded": 113
     }
   },
   "theme_definitions": [
