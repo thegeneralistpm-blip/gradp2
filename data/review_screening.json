@@ -310517,7 +310517,19 @@
     "url": "https://www.reddit.com/r/india/comments/1v3siax/resource_i_built_a_singlepage_hub_for_the_jantar/",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Mentions Blinkit only as a tool for sending protest supplies, providing no insights into customer product discovery or buying behavior.",
+    "ai": {
+      "review_id": "Reddit:t3_1",
+      "relevant": false,
+      "themes": [],
+      "segment": "External mention",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Mentions Blinkit only as a tool for sending protest supplies, providing no insights into customer product discovery or buying behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Social",
@@ -310529,7 +310541,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Contains a community post title with no feedback on Blinkit's product catalog, discovery, or user behavior.",
+    "ai": {
+      "review_id": "Social:soc_reddit_1",
+      "relevant": false,
+      "themes": [],
+      "segment": "External mention",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Contains a community post title with no feedback on Blinkit's product catalog, discovery, or user behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -310541,7 +310565,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News headline focusing on corporate financials rather than user category exploration or purchase experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_184",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "News headline focusing on corporate financials rather than user category exploration or purchase experience.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -310553,7 +310589,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Corporate news article summary without insights into consumer product trial, discovery, or buying habits.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_147",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Corporate news article summary without insights into consumer product trial, discovery, or buying habits.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -310565,7 +310613,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Financial news headline detailing company earnings without user product discovery insights.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_149",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Financial news headline detailing company earnings without user product discovery insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -310577,7 +310637,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): B2B industry news about dark store expansion strategies, lacking customer-level feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_182",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "B2B industry news about dark store expansion strategies, lacking customer-level feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310637,7 +310709,19 @@
     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOb1ZvRmlaRGY4cFFrVjZZZ2JVQ1NuVjBrTWNQTW9Ka1RibHF6bi1QaUVRTUdUU3NtRndQMFllR19hUGVQZEZQUXoyb190YUduemk5aDFxeEJNLUN0dGsxbWZEYVAwSEw0ZFVjelhNSm5wTVdUUjMzUDZTV1BZRWJsbC14eTh6OURfdEtSdUZybXVoQS14NUlPaENaWmxXV1R6Sy1kLTk0M0FfWUpUN2pySWFhcTBVc0UzdjhYM2xfRDdqMlFGYm9pQTZtTXJ1cnBMVVZoMVpYUFpnNUtBRlpkTVJXX3RWM2lRY193VlBSQm9wTnROamZyQ3N2YUpPRVZKUTM2OUlzUnVIUXNxc0gyQ3ByZ0ZOVHlicS13aWw4ampVanfSAagCQVVfeXFMTXU3a2JZenA4M29lR0VhR2RKa01vT1AtM2pkRVNadEdHR3hGeE5sRjhiQXBGclY3ZW1UZzBLdVRQUTlRMjJiUk0xdlk3SE05bkVNMWxZbkpUWTh3Q0JuNWR3TjZJaXFBWWlzaHVmd3A4Z1djUjhqMGZQZnJfLUwtbk9Zc09lYkhWc1gwZG1VT0lPZEhIeGduUVJGbng1dXh3aWtVRTViTGdORXVWdHZKTTN2VlZobGJKNk1QVGJxX1lTaGFfOC0tbzU2X2RtMk9wbWNuSU1QclFSWE5NWFpnN2FaVldhUjBiRmpjcTlZNTA0aGVjeTZuX25qMG9ScWtHZFlrd3dnZkJkVUdfRXgwWHBuY2MyTk9vekhYWWIwVGVMZWJ6YUxPZ0o?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): General lifestyle news mentioning Blinkit in passing as an everyday service without product category exploration details.",
+    "ai": {
+      "review_id": "Forum / News:news_105",
+      "relevant": false,
+      "themes": [],
+      "segment": "General mention",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "General lifestyle news mentioning Blinkit in passing as an everyday service without product category exploration details.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310649,7 +310733,19 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdmFkZlIwVDRtRGpXVkRzcTMtUnRJSzZORVd5S1RyeGZvZVhnZUVNdFN2S0QxYjJpN1VRVFBNRVRYZ2VJVXFGbHItZElhNFF2ZDNNcGJjRFp3Rld2eHQ0VXFRSER6XzlBSkM1cll6NkxOdWJMeEg3Szd5SlRtNGxEcUM1MEdidWd2RUJSRTNsT2JYTTREOXVILXNjZFRxNmpGSS1IV1lQYTdYdVZPSzJHRXBCWWxxVC13UGtmQ1loQVA2WDhhZ1p4OVg1NXpqNW1NTkFtcUJheTYxeUgwZk04MmMyWlNIMktK0gHwAUFVX3lxTE9uVEhLLU9HcEZ1QVhhSWJsMlhMTDdXS0tkUkpQakdxTVN2WC1nR3dwUXhHRVVpaWswLUxFal9iT3lsUV9OYzlWWWpTWEpCVzlnTWNOTl9teXZmSUNEbW52alJiYTFTbW5ORkpDTE5lYmVZNVZ6WDZzWFpzdlh4SW9tV2RITFExMFJsZ2dhUERCMjhTMmZGVmlxaE1mSnBIem16V3N3X2NrSnJ4X1BjUmk0STBMOW5GcC1VTmFxZDFDRUdZNkRtM0Fud3FiUUllQnZWSldOd1ZFS0Q2VHNUanNXUlppRnZjdWs2SGVJb2d5Tw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Industry news headline about quick commerce discounting trends with no direct consumer feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_145",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Industry news headline about quick commerce discounting trends with no direct consumer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310661,7 +310757,19 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNlNLdkNEOXNPSWx1d2N2WDMzNG1MQ2FGSW1mRUc3ZXNFeExtOEhpMEkwNXNpb1JvcmhJbU9jRTJPbzVkQ1VVVUl6SldJb0lMMUpVeGhWV1NqU2x3ZVhOdFZYQ01jbUEtTUF4cU9FYVIzNC1QNk5TcWlFWi14VzFvdjByRFptZm1Pb05GeTI4TlFuRjJTaXZTYVJoV3dpOGt6eklGZFhvYk9DLW1ialNNRUNRNnlkVmItd1ZFRQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Corporate earnings headline containing no actionable customer behavioral insights.",
+    "ai": {
+      "review_id": "Forum / News:news_147",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Corporate earnings headline containing no actionable customer behavioral insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310673,7 +310781,19 @@
     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOenpZTE5JSkR2czhxaTREQmp6ZHVhTXVkZVVYbDREeENTank3ekVoX3o1OTk1N19RZ1lPRHRNaU1MWHVjdXJBeEhTaGFuQUZvbm0xVUxBQ3kxcU5BTjZMQjdZcnZFdFhEX2RmQkdCRXNVUl9HNUgwLXl0NWtneGtBWURqaVlFT2trSmhuekFUN1dhWjlqb2pzdGxzeEhMQVMyLW1nYlFVLXFVa3kzTUtacWxZb29PcmVjT2l4WEdHTHpQblN2bUVOOU1BRGxJTE9QZlh0RGQ4TWVZSXZ4RkFYeHNWWHpHQXhEbUlTUjZ4OEo4SWcyS2hCMTN6dzNnTXPSAYQCQVVfeXFMTVIyXzZCVzgxdDBNXzhjb2NWLXU4TzJUajYyRzhDdW1kWG9FRVZoWHNFdG1HdU9lTDBleTlqQXlNT25PemJwUjdJXzFhdUNCR1UxTDVCRl9qajJXR0MtS2lFSUJRUUhOWDkyNEppaEsyWFhWVnJ4RGxMZUZqTWVlaWlEVjRxOUZ2YWtOemMta19zSGgyczZocUkzQWtva2Q3Rzl1VjdBanEyVDlKR3IxWURDZUtmS0MzckJzNy1PMy1Pb1V4WmxtRU9SMm9VeUN5WXFSZ2ZJU1ZPZXZFdVRoUkRRYVEzazlnLVRUMHVCWjNYZ1ZlZUFDWTNRZHlCVXZkVG0yM1k?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Business news snippet regarding overall growth, providing no feedback on user discovery or purchasing.",
+    "ai": {
+      "review_id": "Forum / News:news_149",
+      "relevant": false,
+      "themes": [],
+      "segment": "Financial news",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Business news snippet regarding overall growth, providing no feedback on user discovery or purchasing.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:22.202Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310685,7 +310805,19 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZG4zTmVoZFpPWnFpNzlMU25WTmVteXVNZjVJalQ3UTlmUURDdUJDakc4cjUyV3N2UUE2Rk9mR1pfS2JzcV85LUp5Q2d2VjhzUFBJTzdEWndTdVU0YkxSZlBVMGE2al9DWXZsUlQwQkdGbnEyc2dJNGFxS1ZPNFFxajZYaEppZF9hWmNrZTF4ZUV1bWRmclN5QWs4MjJoY0p5SWhfX2YzT1BlMEJMLUV1SGhRa2x4TFkyeVFPZHBHUU9QSkNvcDB6VlNwWdIB0wFBVV95cUxOdEx4NXViMXFtNWhaaVZ2MUh2RWNfSUtXekdkVG1ER1VDVklBdkJGWERLY0xuQ1JoV3RpUTRFM2VaaHNUQkNEUlEwemhaak9UQXowLVhSSFlYSkFGTTNSVDMxSnNXeGN0aDZhNE4zS2ZYc2JrYkJvNE55dEU1R05DalVMVVEzb3ZXNGV6UDFXaHFTMmFlZUs3dVpNYXR0UWZmeVNrVFZMNTdycURFaWVZanRFc1REcGk1ZVJTZUc2M3ZPc3lsUmVMa2lIcll1RDBfUXVz?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about financial results and does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_160",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about financial results and does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310721,7 +310853,19 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcDFxUy01UDBwQTl0VFlzTHRXS2VsNmQ3eHFRc2QwTHFtTDNhSzFxLWtiendxYkYzalprUzNHT0VLbV85ME10aHRCaVJOV0tJU01tQjdLY01BT2ZTVjdkd2swSDdtamVWOFpXUy1xUFdoZVZtSHJ3a1MxdGE5Z0FUNGl0cEhETVpoRUVMZ2Jja19BZw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about market expansion and does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_182",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about market expansion and does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310733,7 +310877,19 @@
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNamw5VXd1Vl9yUVE3MUlNNVhXM2Q3NUR0SWl4a2t5dDNRWmdoZEVTMmtZS2NZckUwRDRxNXV1M1FBeGg3MHdnNV81WEtIVHRwMVFNcThzNVdVMXFXdU42Y2hQU0d3TzFWS0YtQjBWNkhXSHNZUDVzYm1tMGpRYVZSRnlpNUw4N3lFZV8welpTMlNvVDZ2SDdVcE80cl85blpwcHpyQ0RlRXBCNDJKbFBhQllFWnVObzM0SUg3MFU0LVI2SW1pZG1RdWlJNFJKLTNIemh6R0NidFpGSzA0R3EzU1NwSzAxOE5zRVNXeDNwNWhnLWc?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about financial results and does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_184",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about financial results and does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -310745,7 +310901,19 @@
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZkxrRWcyc3NnX3FhUFNjY0h5LXhTV2xWa01YcFA2UmlMcFUxcDVKeGdXV3hONFh6elFiZ0d5M0s5SHJSUGVVd3ZNaVFvUmpxMjZZNVFqUlNSdGZtSExhMzUzSUV0VWF4RFY5R29QMExNM1VCUWx3cVdQUjUzUC02SzlreDg?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about financial results and does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_232",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about financial results and does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Product Review",
@@ -311583,7 +311751,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is unrelated to Blinkit or product discovery.",
+    "ai": {
+      "review_id": "Social:soc_reddit_2",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is unrelated to Blinkit or product discovery.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311593,9 +311773,27 @@
     "title": "",
     "text": "Chennai Family Fell Ill After Having Paneer Ordered On Blinkit, Woman Alleges Complaint Went Unresolved: ‘I - News18",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The customer had a bad experience with a product purchased on Blinkit.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_1",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Food",
+      "categories": [
+        "Dairy"
+      ],
+      "barrier": "Quality",
+      "sentiment": "negative",
+      "reason": "The customer had a bad experience with a product purchased on Blinkit.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311605,9 +311803,27 @@
     "title": "Chennai Family Fell Ill After Having Paneer Ordered On Blinkit, Woman Alleges Complaint Went Unresolved: ‘I - News18",
     "text": "Chennai Family Fell Ill After Having Paneer Ordered On Blinkit, Woman Alleges Complaint Went Unresolved: ‘I - News18",
     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOY3FvUERySlh1X040YVk3Si1sVUx3cGdDRTdzRVUtVHZVTHMtbXdHMXZiYTJQZWFmSXJKNkZja2RkcWZvQTlTcGt3dmM0SVZTOHRnWGxHZzBWaFcxeXVFdjI1TUU5aWgtSWdpS1JXTksyS0ZQM0hnVUR4NWhkT1ozVHcwamVjR1p2RmRpV3QyMDhEelp1MlBEMGhUMG0ySXJIR1ZsZjZnejN3QVNXT0FFdHJNWlRRYTJzLXdnX2E1TmJDVzk2bEVOcGJ5OVBpSVpnVmkzLVYxX0ZtUzdQOTg0NW9DTjFlcmlSOXFNTmFCUVdPMDVPd1pWdHlkcUxPZ9IBgwJBVV95cUxPdnA4eHZRRnRlWU12LWlQNXc0QVpLQTZXSnJ0X1hQWUZtXy1NS1FieHRWTDVSYmFiclcyckFBdkR4eVRFZE9GYy1TR21ORndJUEFnb2xTR0JndUg2c2JuVGlFd280UTFYNy05NkNrV0NreDBPX2MzUlY2SGkwRVhQYWF5RjljVG4xNDdBYXUzc0lEdVFwUVdFMmJMV0FnbnQyS1lhVGhaOFhIWTZtV1pUTk80Q2pMOVZ4WThNOVJSSWYyUEtNTVVBUkF3SmFlN18teWEyYlp0SjFyeHdVR1ZuanJrTnloRXJ3UHFORnBUTUJHMjhzSGoyOW1LTFItTWh2b3pn?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The customer had a bad experience with a product purchased on Blinkit.",
+    "ai": {
+      "review_id": "Forum / News:news_1",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Food",
+      "categories": [
+        "Dairy"
+      ],
+      "barrier": "Quality",
+      "sentiment": "negative",
+      "reason": "The customer had a bad experience with a product purchased on Blinkit.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311619,7 +311835,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about financial results and does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_100",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about financial results and does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311697,7 +311925,19 @@
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTDZtSmVBOHRuSXU0VjFWNVBfdXBhN2JJVzY4OEVHSmRxTGJqdU5VMTNPVmRrTWo4QkhOUTdYOF9OVk5RQ2kxcmswX0RpTUlLTDNNbEh2VnVocUliaWV0M0Z3MzU4S3FGZUw0LWhydVBHcEdiTTBQRG9uMElWTVZnXzFFd0ZvNlVMdnJLLWFzdGNTOWZpLWYzdUM4OERhaHMxY2NUcTh0NTQ0a2Npb05pTU5EVHVoOVNmeGhkVm9hYWRCZEJSOWJ1a29mWmE1cTMtRll1SGR1c0tDeWZBemNCTWsydVNDLWNocU03Ny1uU0lJd9IB9wFBVV95cUxQUHVfbms3RkVoR3c0NGluNzVuTlZJZXl0ajdKakRLeUxsN29pMjlTZnFKQmJsMlBrdi1INHo3V1RLSG5Ua1hXeW1FSnNoRlpZMlR1Y0ZZWGVxQWlGNm1pZGZoVlFmUms4VVJWc0VYREhTUXBkOEN5Z0N4WDNCQ2ZLOU91ZG4yWW95eVljdEJrOVpjRnFwdThSa2VkNXp4di02WVVhWmJOaTgzbGZtd2RiWi1kcUVPZEZxS0k3WEFhUkg3MkYzQnpHaWVoTlctbF9kczJSSmdlckpVWU9qQkZrcEYxekRoV2poVHhoQ2VERlQ0YzJoZ0Rz?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about financial results and does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_100",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about financial results and does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311707,9 +311947,27 @@
     "title": "",
     "text": "'Delivery partner taught me something my MBA didn't': Bengaluru woman recalls Blinkit rider refusing ₹100 tip | Trending - Hindustan Times",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The customer had a positive experience with a Blinkit delivery partner.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_106",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Delivery",
+      "categories": [
+        "Customer Service"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The customer had a positive experience with a Blinkit delivery partner.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:27.003Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311721,7 +311979,19 @@
     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNHBkOGFCUnFRZjg5RVVWUkY0Zk9FbU5zcHZMdFROTlFfUnJHcGZxUEFWbS1wYjBQT0tUQ1VldG5IV2ZLZlhfMGpRMWlSRXEwYjBVT1p5UFQzZjJidkllSHhmYVpfdU5ZUm84NkdKYkRqemx2U1hVVnVRYld4dzQxWEgzVERoV1JEVjFnRnJRMkFhTlppaHFNVXZnZDNJdDVyMzczdXZPUDlGSENEQlBVQ05qblhjUFVzRGZMVGZlVzJqeUx2bFZFMFV6RndfVGQ3eUVfdFZOTUNnZVY1RWJqZkZLZFlGWWtFSUNXMkFrVEpHSzRuZGJQTk9UUS3SAYICQVVfeXFMUExUSHpSN0Exem1qbktaX24xYVE3S0lPNE5XRUJGS3R3RjZSamoxX1NmdVRQNW1PTjByOW84a1JSbHh6dU5RZEhOZnA4Rl9HRFY2WWNxdVJ6dHlnUThvanBDelFZN3g3SFVSV0tGWTF6N28zLVFtWTZqYy1YaVZwcXoyYWpiQWlZRTBwX0dlNEJUcVpoUkVKZ0VHOGgzbmU4LXp3ek5tSnRBRHJjUW1kM2tja2JzV3ZiRE9kVTd2cW5zQVlyYmpqT1F3bHBUZDR1WEszNWZLY1VHQ1JXV3FkNFN2cXhVVDZWOWNzWkV3UVJjSDZYMEp1djlzeC1MTnZXSFln?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Focuses on a delivery partner tipping story rather than customer product discovery or purchasing behavior.",
+    "ai": {
+      "review_id": "Forum / News:news_106",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery Experience",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Focuses on a delivery partner tipping story rather than customer product discovery or purchasing behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311733,7 +312003,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Discusses competitive impact on local corner shops rather than consumer product exploration or trial.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_191",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Discusses competitive impact on local corner shops rather than consumer product exploration or trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311745,7 +312027,19 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObEFXQkRwbGhRRFhRbXN2cFFVM2V1WjRFR2g1TEM4c1FJZS00QU1vMDlSdEp5c3NYV3lVSVlpQU5uSnBXY1NSaWJwS0NaUTNuU2t6V19pSHVvRUhxRXRiOGtiTnZScERfSjIxeUlHUUdrdzBUVWQ1X284RS1LRUV6ZVpITjhZdUxQd3lFOXhISU4zbWM?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Focuses on market disruption to local stores rather than user category adoption or discovery.",
+    "ai": {
+      "review_id": "Forum / News:news_191",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Focuses on market disruption to local stores rather than user category adoption or discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311757,7 +312051,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Compares quick commerce platforms broadly without detailing customer product discovery or trial behavior.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_183",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Compares quick commerce platforms broadly without detailing customer product discovery or trial behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311769,7 +312075,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Reports on high-level platform user growth and market position rather than product category exploration.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_171",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Reports on high-level platform user growth and market position rather than product category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311781,7 +312099,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Analyzes dark store expansion metrics rather than consumer product discovery or buying decisions.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_167",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Analyzes dark store expansion metrics rather than consumer product discovery or buying decisions.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311793,7 +312123,19 @@
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcEJJaDRESWJoS0h0eHNfUlRZR2JYakM5N1JnS09PYW80a1haZnc0S2hkRm93V2hJMGpTV1c0ZXp5aFRMZkhVcW80RGRwWFVjeTdjVHBaZnJVbDBvbHhoT2VxcXdESkRYS01Sc0YzeXdPdlJIQmJsa0VWTWwyQVBLVU9XcUltQ2JOZEpqaEJpS2hGMlhHTWF1LTRyMktFT1EzazBacDI1TFZsTDVvZEdSWWVCc3p2eFVhMnVnOTFmWDVSMmRFTi1LZWxDSHZBc0VRWnlBTERFNkthQdIB3wFBVV95cUxOMFV2ck9MN2o5YnNaZkRfVEJVNjI1T3dOQVY4WXZJWDREX1o0bmk3YzNOMDJUX3hWWnVxQV9jNGFBeno4VHhXTENRN2tiQTJRZWs5SmpQM0NqQjM4eWZYTnR2YkZqdlF0Y3NFYnE2ZGo3TnFENzgzUENTSy1zVE9Lc0NadzN6VnlPOElBRmtUaG92c0lTa09sQ21SOHJrdnNHLW9fWldYcTBUa1FSOTdOVmo5WmR6YUFIQUxEMGY5THh5SThGVEp0Wlh4TnFKTGhkZ2trVGNVZER0RFQ4N0Nn?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Discusses dark store infrastructure economics rather than user product engagement.",
+    "ai": {
+      "review_id": "Forum / News:news_167",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Discusses dark store infrastructure economics rather than user product engagement.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311805,7 +312147,19 @@
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmhNUXlDX2dmQ2wtTjZwUEJqR1JQeGlNajVwUDJDbVRzLXltOEE3SzUySUpiV1cwaU12b1F6ejB4MW9QRzg2MGhiTlBReFRVSGJQOFBlT3R6ZGh0aDlHdEJDUFVhYjZWNUJjZlBVWlJOZ0ZSMl84TjllNUltRUV0RE9rdUU5eERYZ3g4YU5mYjR5aG9EOHBUUWYyMWFyazhIQXVZWHVlbFg2SVpma05SYXo3R2VjQkpNRDR2NmVJS2p3emJqSVE0b9IB0AFBVV95cUxQN0RLS3N5TWFobEtCZXlHYlV2SXk0VURXRjhuNUFsVHFLY2xFRWhGVzhBdDhiSDAzRC1ENUppUDcyUmMtZFFURlZDT3dXbk45YURmUG1zQUhobVhQUllPMDQyd3p1Q1NzMWdGVVVEUGNtNEE0X0hwcnJnLWg3RnVvOWV3N0R0UTI4UUZfcnFtV2xIU19MYkU2OUhCeGZrMzFSOHdxRmFrTlNuYjFLMndQMEpIS0VqZDItYmYtZWdvOUpvY1FTbVBQRmZvQm13b2FZ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Focuses on overall business leadership metrics rather than customer product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_171",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Focuses on overall business leadership metrics rather than customer product discovery or trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311817,7 +312171,19 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sMWdPSFVVNWN2SkZzMzhybHZSZnFJOVMybTlFS0pBUmtEVjFVTzFHa25ZdFBVQXlSVUd3dk9jNGhJZnI0QVdPUFlINDNYa0ppaDBUYVJ3ekVJRXdwbWc0X29ScGlQb1JvSFJjUHhrcw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Presents market share competition among platforms without addressing user shopping behavior.",
+    "ai": {
+      "review_id": "Forum / News:news_183",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Presents market share competition among platforms without addressing user shopping behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311829,7 +312195,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Covers geographic expansion and economic concerns of local retailers rather than end-user product adoption.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_155",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Covers geographic expansion and economic concerns of local retailers rather than end-user product adoption.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:40.122Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311841,7 +312219,19 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSjVtY0NhX0c4MWpLNldZY3hhbEFmQlVfOW82V0l5WkhhZlJXRlN3QmdHVjR0NVBzOVN2U1h3a2dpaDJjQ0R0WHQwMUNIV0V3eUZib295Sm1uYnV2bmZIOHJYSXhZLTBhU1hIRzY3ZFgxZTFHUFRfSFBTUGxQZFhDdHRtWmZ3b0xjR1phb0dKcndhakNvXzl2M292VUhKN21MRHVVVFZQeVlRRXRUQm5SVVppWEVhVWhQNXpDctIBwgFBVV95cUxNQ0VHTzItZ2NFMUt6c0ZONm5wVlZCYkc5UHZjS3B5MGw3a19UMmNQM2puTnZmWGZNdWRuZ1hzMkQ4NG5VYzNBTk1weUlHSnBQMFZnTkYzVWNoMnUwZEVUeVlDalA4VUdKTnBFd2RuM292LVdCQU9sSmVtVHBYZkV1T3paVE1CRjlkdGlBREhuSEs1NDZwTVd4VGN2MGdqWDhwMWVrZF9ZVWc2T2dtSlo2cmhfOEYxY080SlpLRHZxMm15dw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about economic worry for small retailers due to Blinkit's entry, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_155",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about economic worry for small retailers due to Blinkit's entry, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311853,7 +312243,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_63",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -311865,7 +312267,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_158",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311877,7 +312291,19 @@
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXhMdF9kUDJuc0IyS2I4WGN3cC0xQVZGTkgyei1qa29nel9hbElYLVZjMVc5UGNtUmJkMHliaEFNS3BDajNYMFBDbGlvLTlEZWhxcDk1bjZJSVh2bFhLdkNfWWphSG5Yd2FhbXp1SE81aEpjNFhCOGxCMF9GUl9feHZoRGpXMFg5bHUzZFVSSWJZazcxbEg1U1NsN1NmQnJoYzFMWlozNGktZmdOQnVoS0xXMk9ZU0hYZ0RPcktmTG1jV3o3TzFRclM4Zm1vSnJ5bUtwZEZxQi1fLWd4dFZoSVJickxnTnJ3dFRmRnRKbThPZEpVNjhJ0gGEAkFVX3lxTE9WQk5VUlFsblp4MFhBSVN1TXNUaXNVZDFKV0RTREFubER3SGJWS2t2Rm5ZbW9Gbi14ZkxuNUNIcFZ0aXdDT09qbVo4dG0yNVdSSEpScVFmZ3VQRnF4bnFzbUx1bW5oS2NIR3NzU0huSlliY0tCQzVKMFBaVTlmaFVMSTAwa3NGNDlOVWhVMXZBcnRVMXZwam4tdGd3eG5RZTNkUUtxZTZlanIxVGc0Uk1oazRwUVY1TzlZM051TllFX1dwUkI5cWdidFNaNkgtMDF6Q3VuSnBFWFpIQ0RSUFkyU0hMcWo3MFRyb1dITEJWUUtVTVFjbWgtbWVyd2x4dDNCbWdk?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_63",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -311889,7 +312315,19 @@
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeXhMdF9kUDJuc0IyS2I4WGN3cC0xQVZGTkgyei1qa29nel9hbElYLVZjMVc5UGNtUmJkMHliaEFNS3BDajNYMFBDbGlvLTlEZWhxcDk1bjZJSVh2bFhLdkNfWWphSG5Yd2FhbXp1SE81aEpjNFhCOGxCMF9GUl9feHZoRGpXMFg5bHUzZFVSSWJZazcxbEg1U1NsN1NmQnJoYzFMWlozNGktZmdOQnVoS0xXMk9ZU0hYZ0RPcktmTG1jV3o3TzFRclM4Zm1vSnJ5bUtwZEZxQi1fLWd4dFZoSVJickxnTnJ3dFRmRnRKbThPZEpVNjhJ0gGEAkFVX3lxTE9WQk5VUlFsblp4MFhBSVN1TXNUaXNVZDFKV0RTREFubER3SGJWS2t2Rm5ZbW9Gbi14ZkxuNUNIcFZ0aXdDT09qbVo4dG0yNVdSSEpScVFmZ3VQRnF4bnFzbUx1bW5oS2NIR3NzU0huSlliY0tCQzVKMFBaVTlmaFVMSTAwa3NGNDlOVWhVMXZBcnRVMXZwam4tdGd3eG5RZTNkUUtxZTZlanIxVGc0Uk1oazRwUVY1TzlZM051TllFX1dwUkI5cWdidFNaNkgtMDF6Q3VuSnBFWFpIQ0RSUFkyU0hMcWo3MFRyb1dITEJWUUtVTVFjbWgtbWVyd2x4dDNCbWdk?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_158",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about Blinkit outpacing Zepto, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312013,7 +312451,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit being best placed in quick commerce, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_175",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is about Blinkit being best placed in quick commerce, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312025,7 +312475,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about quick commerce booming, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_179",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about quick commerce booming, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312037,7 +312499,19 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaVhUZzhLU054VWZ5NmJwWTVFQ0RDcmJHSGNvTjlGa3NDZVJxaUVhMndHV0JiQjNKRWRaWDIzSHFTcUFYaDh4X0RjN0lfbUhHNlRpQ0gxb0VOZDhxSjRxS1hZdUQ4d3gxaVk2MmlFQTlDUm05N3JjSkxrWEpteVhJYjdlYkdVOVRlcEVwaGM4WjRxSi1FNHdKU05jU3FobVk3V2diZHd1QzU4REV5aTNpXzI2RzY3VkpGWlhhdWt30gG-AUFVX3lxTE5pWFRnOEtTTnhVZnk2YnBZNUVDRENyYkdIY29OOUZrc0NlUnFpRWEyd0dXQmJCM0pFZFpYMjNIcVNxQVhoOHhfRGM3SV9tSEc2VGlDSDFvRU5kOHFKNHFLWFl1RDh3eDFpWTYyaUVBOUNSbTk3cmNKTGtYSm15WEliN2ViR1U5VGVwRXBoYzhaNHFKLUU0d0pTTmNTcWhtWTdXZ2Jkd3VDNThERXlpM2lfMjZHNjdWSkZaWGF1a3c?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit being best placed in quick commerce, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_175",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about Blinkit being best placed in quick commerce, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312049,7 +312523,19 @@
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXNzYmtDbWdKSzhCbi1IaFNrTFJzTnd4NDBpNExCdHpPT291c1h0TkNOWmVLdmN5M0hMTWFFODROVy1mcDQ3MEoxbUhLYlZUWG81SVVJckJvNlFKbWtGSzVYVVdVa29QTFpVV2pCU0hqTFdaZmNtRUVOSzBaSFU5UHRlTnpyYVNpNTJzVWxNdENSTzV3MFFmX1ZfZ0czYlZ3ZXZsNGdGTm1NNGJidTdWbm1vVW9lUGNfUHctWlVsbk1LS0ZlVTMwWFpSOXUzSXNPNmpTekVR0gHbAUFVX3lxTFBYQTAwVE5YNENEWFdJcTY0R1VXaTZMaHl4UjRfUUxlbFNCbjdNZk9YN2xhUmpWNGZMUVE5SzdMUWh3RlJjT2pxX09FU3V1X1BiakhCemVITnhDVVE1bm5jMmUyR2tQOXhrSGhwWnZPS0xoWnJ6TVFpd0EtWGNpODNVWG9rLUhzUjVMaFQ2dVp2WkJnNl9PUU84ZHhuSnpOdnRUMnppZkVIMWNlYWtvcDhtYkw4RlZRSTdqUU8yOUZVNUNjRl9pQXVXcnRxeHlUMGt3c1phM1JFbml6bw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about quick commerce booming, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_179",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about quick commerce booming, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312061,7 +312547,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about Blinkit being best positioned for profitability, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_151",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review is about Blinkit being best positioned for profitability, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:44:44.886Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312073,7 +312571,19 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWgyNnZIRXBTQkRoVlVDd0xqY2lwbVliai1DenoxUnNHd1g2VGhnaDZzYWtBcExCVG9tRy1mVnh4aTRWVnNTVnN0eWF6QkpjcFlBanpQaEp1N19SRzRvUjgxN3I2cTMzUHZTOGF0QjdOSnVhRWg3bmJaYmk5T3J1YldEZjc2YjAtelBuNzhfbm9QSkRVRHhSeU5BaThqbzZRUG5EMFAwLVY0V2xCakE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Corporate financial news rather than customer feedback on product category exploration.",
+    "ai": {
+      "review_id": "Forum / News:news_151",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Corporate financial news rather than customer feedback on product category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312133,7 +312643,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Industry commentary regarding market competition without customer product adoption insights.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_173",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Industry commentary regarding market competition without customer product adoption insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312193,7 +312715,19 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wZkpueFpGRG4td2RxTjF0Z09fX1lyRFdYUGNFSVZzM01DTTlhS3pjSDZoV1dBZGhLaDdiUkdOQ2JfbTBteG1MOEUtcWRWSnpDZXpSTlAtQ1VGV2M4UEZ2ZUNJTFh2dHQxdUZ5TlByYU4tRXN5SV9lVGF5bXg?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Market valuation news that does not provide consumer shopping behavior insights.",
+    "ai": {
+      "review_id": "Forum / News:news_173",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Market valuation news that does not provide consumer shopping behavior insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312205,7 +312739,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News coverage about local government decisions rather than user category trial.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_195",
+      "relevant": false,
+      "themes": [],
+      "segment": "Expansion News",
+      "categories": [],
+      "barrier": "Regulatory approval",
+      "sentiment": "negative",
+      "reason": "News coverage about local government decisions rather than user category trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312217,7 +312763,19 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01wenV3N09CRjgtdGpROUdGT3E1T1hMbENlWm5VakVrSlNoa1FhWnlKUXVLel9tYzF4aEhUOU5uVEFfaG9KOWJVazVZT0t2cGlPUS1ET0JWUEtyRzhxLWVmMUNzWVJPQ1dhNlBRVlh3aGxBVXBmQ3kxZC1TN1JkTXo5UTFCd2YtYldmZ29RZmZCa1JO?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Political expansion news that does not reflect user product exploration.",
+    "ai": {
+      "review_id": "Forum / News:news_195",
+      "relevant": false,
+      "themes": [],
+      "segment": "Expansion News",
+      "categories": [],
+      "barrier": "Regulatory approval",
+      "sentiment": "negative",
+      "reason": "Political expansion news that does not reflect user product exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312229,7 +312787,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): B2B news detailing dark store expansion plans without user feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_180",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry Logistics",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "B2B news detailing dark store expansion plans without user feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312241,7 +312811,19 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0xuMHNPRkFIX2o2dW5kWTBSalhock5nNG8yelZTWjBGbnZpTHVTSFdTZHVOU3VFbWFVQ2lkS3hvOUZhT3gyNFJtb3VfUXRRZVFZMlhUS1ItOGF0THZUS05SSFlPcXd3bzMxN3pMMXBkczNqSk9WTWNHWFcxQ09sY1hJSWhBZFp5MGdhbmRMYWNMY1lyVUM3RHd4TUs3SngzcU41Vm8xZW1SV0VPbm42LV9n0gGyAUFVX3lxTE1rTG4wc09GQUhfajZ1bmRZMFJqWGhyTmc0bzJ6VlNaMEZudmlMdVNIV1NkdU5TdUVtYVVDaWRLeG85RmFPeDI0Um1vdV9RdFFlUVkyWFRLUi04YXRMdlRLTlJIWU9xd3dvMzE3ekwxcGRzM2pKT1ZNY0dYVzFDT2xjWElJaEFkWnkwZ2FuZExhY0xjWXJVQzdEd3hNSzdKeDNxTjVWbzFlbVJXRU9ubjYtX2c?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Logistics commentary with no data on consumer discovery or purchasing habits.",
+    "ai": {
+      "review_id": "Forum / News:news_180",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry Logistics",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Logistics commentary with no data on consumer discovery or purchasing habits.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312253,7 +312835,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): A viral news story that does not relate to shopping experience or product categories.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_109",
+      "relevant": false,
+      "themes": [],
+      "segment": "Viral News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "A viral news story that does not relate to shopping experience or product categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312265,7 +312859,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): High-level market analysis without insights on consumer product discovery.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_174",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market Analysis",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "High-level market analysis without insights on consumer product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312277,7 +312883,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): General news about corporate rivalry rather than customer shopping experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_199",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry Competition",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "General news about corporate rivalry rather than customer shopping experience.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:44:56.279Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312289,7 +312907,19 @@
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWHkzNXFIelI4MldVQ18zRWQ4R1B1S2ZIcGJqVDBlN01tSmFUM0U4N3NNcS1HSnQyYU5ueUVEc0NsdjNJai1BbDZTUC1MOGQ1TnBibU1Bd2R0V3o5bFFZTjdkRzkyMXlEcW5Da2d6TWMyMGtzMnpBS3hqTUN3SUlYRlM0RnZUblJMSno2OEJQRE1LdVREbFRIY0lJRkktQktUcjBVYlJzclRHbWVFbkRmcl9jemRSeWRFVlFoNGNaMmZDWmRzRXM5TVdRd0ZNbkNld1hjd0dsdDhiVWZ4R3ZmMTFn0gHnAUFVX3lxTFBDQUktclBLazMtZFFNU0puTFo2QmU4OVJPNy0tVVAyQUNvR251WG5OTTVRYlR1Zm5QUWVTT2tIQmIwU0dMZ1k0Sjh6LXlLZWU4dnRXRWYwbUhYZGVta2plSFlCbFJBaG1PZWlBRnlHeW5vQzlSZ2xCZ2tBc2hCUDNDVFFIY3JqMXk3UXRUYUZsNXpfTkR2YTRncWZHLVdKX3d4czV3U3gtaW9kc2tkaTZpZXhFT01LWnpoMENrUVZEUURLbWtqQ1ZsaGxiVjMyeG90S1VRRDZ5bFhGUXBMOFVaWm12YXJFVQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review does not relate to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_109",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review does not relate to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312301,7 +312931,19 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2kwY0xJT3o2OTg4T0RINWV6aUdIanltVUhrSV9aTXJYTjVEQk94dXd5Q29CWFVXWGVadGZNa1JKNUFLRTdFVGhOenNxbVNMTjNpalNBdkJCR1ZVX1FiZHhFbUpUaGkyUWp3OUVVYlY0V29qVEdfRzlYVGhvTmtMUFN3SU1hWjJMWTMtRUdqNWZXeW9vYTdZU2loaVBkT2ItVFdV?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review discusses Amazon's quick commerce but does not relate to Blinkit product discovery.",
+    "ai": {
+      "review_id": "Forum / News:news_174",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review discusses Amazon's quick commerce but does not relate to Blinkit product discovery.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312311,9 +312953,27 @@
     "title": "Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine",
     "text": "Flipkart, Amazon expand quick commerce push to challenge Blinkit and Instamart - BusinessLine",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcUdzY2FmZUlwTlp3SGtoNkVIWU1fOC1WR0xDYTN4dVktaE4wVGQtWkJkNDF0dENVTTBheXlBaHdWb3drSVNycGZqSWZTQkI1Q1dyRGVISGZzeU16SjhOQm9QUVZXVGpUbDFyQlFNbmxaTUNKLWVCS0hZMURqbHJsakxWTmFYZlZFSy1FZGtqYWpvWWwxODZjT0xhY2pKNWRSZkFXQnVuR0hoMFV6Y2g4YXdJczJVcGs1a0RQa1VqRTZJU3dlZUtRcGhVa3l6ZGxlaG92ZmZnS0Z1WDc0SHdr0gHmAUFVX3lxTE1acmNfenV6RGlxR1V5dU5EQnVGNFp5SEVibk9oSFJlWDEyd3UxNUIwSHdvY1p0eW94RmRjcnhPUk9mZnRzYU9ySnYzUVVhVTh1clhzdERiNkF4WDVOMHRhV0xUdXl1d215cG4zbDFZVTUzSC1kZ203Y0VaUXhKYU9rMFp5ckk4R1pQVEpVeTd5bkFqNlBMVU9WakdLc3h6dGEtekNCY0ZjcXoySXNxV3ZjRkhuZTJ6RlFQZFFlYm1RaXM5LTZDRjIwdzBHSGdISzFJaHNZQVFzTUFwYjFWSko3bVhMeGJR?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): The review mentions Flipkart and Amazon expanding quick commerce to challenge Blinkit.",
+    "ai": {
+      "review_id": "Forum / News:news_199",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Competitor Analysis",
+      "categories": [
+        "Quick Commerce"
+      ],
+      "barrier": "Competition",
+      "sentiment": "neutral",
+      "reason": "The review mentions Flipkart and Amazon expanding quick commerce to challenge Blinkit.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312323,9 +312983,28 @@
     "title": "",
     "text": "Has Q-commerce's real battle shifted to retail media share? - ET BrandEquity",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): The review discusses the shift of Q-commerce's real battle to retail media share.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_194",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Retail Media",
+      "categories": [
+        "Quick Commerce",
+        "Retail Media"
+      ],
+      "barrier": "Market Share",
+      "sentiment": "positive",
+      "reason": "The review discusses the shift of Q-commerce's real battle to retail media share.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312335,9 +313014,30 @@
     "title": "",
     "text": "How quick commerce is helping consumer startups grow faster than ever - livemint.com",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): The review mentions how quick commerce helps consumer startups grow faster.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_209",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Category or product exploration"
+      ],
+      "segment": "Consumer Startups",
+      "categories": [
+        "Quick Commerce",
+        "Consumer Startups"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions how quick commerce helps consumer startups grow faster.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312347,9 +313047,28 @@
     "title": "Has Q-commerce's real battle shifted to retail media share? - ET BrandEquity",
     "text": "Has Q-commerce's real battle shifted to retail media share? - ET BrandEquity",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZW4xWGdqekNWNXpzZE1KTUt0NnlQeDluQm9IWjBOc3JxNU5wS1dkX0FjN3FvUnVpcnEwZGVqWWJSbVZrSm1kM0lTYnM3dFVtS085R3ZKem1EOTZMQ05rN25EeU9aU2dvOFRDYnZuOHZNNGNQRHBOX0VmTjhDUkd2dm5LNnBQdS1BT0dzaW9IaDRwQkJKR1N0NW5RUE1qVGdqcUFRcC03b2FOOVBleUVvYzhSak9hYTVtRGQzakVIMWFqNTFTYktiVnlnd9IB0AFBVV95cUxNS1ZlcDB1UTEzWERUeElvWXZVazI5MS1nMEMzSTdHSGZTZk02dnNoeFNweWlJaXFIdGtHZ1g4RGJhNlFXMVBRazk2c0piVFdYSmdWanA0YTlsZ3FuUmluLXhKbTZYaGhpdUxwd2ZHMU9VWEtENkVIZUgtSkVZUkUzeXRwVUd1N0w3djJuX2VjdWJfYjl4eEVoTmlqUnoxako3bTdsRng2ZE1LWVZCWVo3Qm95N0NaVF9mSGxLc2JBajhmRUphQTg5cDVHVHpjN3o2?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): The review discusses the shift of Q-commerce's real battle to retail media share.",
+    "ai": {
+      "review_id": "Forum / News:news_194",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Retail Media",
+      "categories": [
+        "Quick Commerce",
+        "Retail Media"
+      ],
+      "barrier": "Market Share",
+      "sentiment": "neutral",
+      "reason": "The review discusses the shift of Q-commerce's real battle to retail media share.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312359,9 +313078,30 @@
     "title": "How quick commerce is helping consumer startups grow faster than ever - livemint.com",
     "text": "How quick commerce is helping consumer startups grow faster than ever - livemint.com",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWNQcWdfRmRNYWJtV3Y0a3F6Y2lpZWllSkpEVmcyV3Y1b0ZMa2FjWHlsa1IwZHIyUGlzaTFqWVlvZ05UMHZHbDYxYTNBdnlkVTRxWVNfZGRKMi15SjYyb2tRaGY2eFJYOUxBMkFkb1d2Zko5SkNaN3owamlEVDV0UTZ5d3NkOVJpVXN2ZHNPTU1MLUk5TVJXVFpLZWFBb0t5RmZIdHdWOE1rQWJKTngxZEtjTTlydXpwQXJya1MzUUQ1d3pzekdkZVBlRFN4NnZadlF6X0xyYzc1RlZCQnfSAeMBQVVfeXFMUDNocTcyMFd3RDhsWjZSM01SLWxTY1JUb2RPeVpCOEpVM3dTSHBRNDVnM3pXOTRWOURqdkRxQ1ZaWnNadHA5ZDRSTkgyTERwSDRoclAxbG1SZTVvRWdZRHNlakR1TXZpekJST0FGdUE0Y3dZZEsyTG5raXo1cjRCVEplS1pxYmZuODBMenlRaFFHckJUZ2pEOURlYjVoMjJ0LV80VDQwcVA5c0pMS1NqR0x0Qzk2dHJWVHZDeGl5bmN4bHo1b1NaWEpwOFpzMzU3WElDYnIyWWxzVzNaRmRTbUhtY0E?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): The review mentions how quick commerce helps consumer startups grow faster.",
+    "ai": {
+      "review_id": "Forum / News:news_209",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Category or product exploration"
+      ],
+      "segment": "Consumer Startups",
+      "categories": [
+        "Quick Commerce",
+        "Consumer Startups"
+      ],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review mentions how quick commerce helps consumer startups grow faster.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312371,9 +313111,28 @@
     "title": "",
     "text": "FSSAI action against KFC, Flipkart, Nestle: What you should know before ordering from Blinkit, Zepto, other quick commerce platforms - Business Today",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The review discusses FSSAI action against food companies and its impact on quick commerce platforms.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_31",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Food Safety",
+      "categories": [
+        "Quick Commerce",
+        "Food Safety"
+      ],
+      "barrier": "Regulatory Compliance",
+      "sentiment": "positive",
+      "reason": "The review discusses FSSAI action against food companies and its impact on quick commerce platforms.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312383,9 +313142,28 @@
     "title": "FSSAI action against KFC, Flipkart, Nestle: What you should know before ordering from Blinkit, Zepto, other quick commerce platforms - Business Today",
     "text": "FSSAI action against KFC, Flipkart, Nestle: What you should know before ordering from Blinkit, Zepto, other quick commerce platforms - Business Today",
     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOaGxhMU5XOEcyVnlYZUx0bThTTWVSWG04bDhVMU1wV1UzM2h3MjF5NXVmbXU3c05FSnlNM04xSFZmUUF3MWJuWndXM0FjSHpJQXZRYmY3NDZ1OF91NVlpOTc2TDZMQ21xSmlXRUVDQXh1dmc4QjNoNlpwb1BCTjJ2dUlkLTN6bGdOVVZwZWZQTjRuZ1BZMlR0Z0hEZWlkMko3bWdxQnRKRHhTVTR6TENOYjRWVjg0T2dlOTN6TkR2S1llS0syZE9sQTQ1WWpqLUZMWmZZZV81b1F6cGd3bUVXXzRPeWE4ZEs3OFg5UTlTcDY2dEJYM2ZaVld6UERBeVE1RnhZb2VCUERDdTJ3UkxEV2NYSWTSAZoCQVVfeXFMTVd0OW94WGlkdElrd1Q3cTNrNndlTEdFeUNjdW03UkpBNURPdjdqR2FKaERxUnVsSU40UFc1SEgzYlhEX3E1RkFFUER4M1hpTzBZN21mZ25pYlE2RXgyVW5qUnZzcGhOd1NhZnB4ZnE4ckljNGZZNkpxWDYwZE1UVmRXUFM5UGM3VlRnYXIwOV84bkxXcDZMNmx2Vl9IOUJnWVRSQ3p6cjZGVDB1XzBZLThpVWxsT1l5NXZ2LWRrNUNpZk1VZGtrVHdJWU1sZkJzUGphUUNEbjBpb3AyTVBCWjlqTDM1TjI3bGFjYm0yR2RUWkJyMHFiQkhnRDFORGdvajg0SEQ4ejFUa0d0RHMxdjVTTGZNNE81aUZn?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The review discusses FSSAI action against food companies and its impact on quick commerce platforms.",
+    "ai": {
+      "review_id": "Forum / News:news_31",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Food Safety",
+      "categories": [
+        "Quick Commerce",
+        "Food Safety"
+      ],
+      "barrier": "Regulatory Compliance",
+      "sentiment": "neutral",
+      "reason": "The review discusses FSSAI action against food companies and its impact on quick commerce platforms.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312397,7 +313175,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review discusses Zepto's funding and investor trust, which is not directly related to Blinkit product discovery.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_176",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "The review discusses Zepto's funding and investor trust, which is not directly related to Blinkit product discovery.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:01.239Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312409,7 +313199,19 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS3lMUndzaTlCTGNvTWJiS1ZiNEIybzJ0ZTl6bWtHYjlxeWJNTXRzWm9ha2VPUTlQVkpXRUREU25zYjNMenUxenVkQ2lMcmkzRDVTRVBCZlByUkU2U09HUEkyaUNNT1ZfQ3d0NHhmem1LemxPeHhxSkRZcmJOa2NKODlKcmZOeEJSUS1KMzV6dDhZc3R3ZFhna3FGY0U4dlo4YW5sdEtzSQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news headline about corporate funding and financial disclosures, not user feedback on product discovery or purchases.",
+    "ai": {
+      "review_id": "Forum / News:news_176",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news headline about corporate funding and financial disclosures, not user feedback on product discovery or purchases.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312421,7 +313223,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a media headline comparing quick commerce market leaders, not customer review feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_221",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a media headline comparing quick commerce market leaders, not customer review feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312433,7 +313247,19 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcHhFaXlMTXlPaTRQSmhfUmxGbEk3MXBkblN5M3NIUnZvbTV1dHpncU95UExsQjFFalk2aVE4SVl5amhzNDBGNWx2eklFQXBuaTJVQUxON1FPMWRVeGx0RnZmblhqWUd2cm44ZExheWswOFBQVVI2WEZMdXpsR2JvN1BYV21QQnFNYVdYVlhpS1BmYkNGM1lwXzBCVzd6bENSNGQ1bTM4SDBXU3FtUTRZWUp0VDllUVRkanp1U3FfSXlVSlZ0cXF0ZzUtOXTSAdIBQVVfeXFMT3QxZ1Z1QUYwY3h6MjBrcDg5Um9nNmFMSlMyeXpIaHZ1bXo3VE9MMnVwNkhqM3pJcmpQdVkxVnphSjUzLWJqd0swMkhQVUEtNjBVZ0QtVlVhaTNUSEl3VER1YWJWS0tfY3dGcW5Sa1ptcXFQaGh0VzBZakRxNk5zR05fTVBTY1BkbkVSb0ZCd0JuTm5GVDNyTUR4c2hTUk1RVG9HUTYzWmEzVTNFeE1INXFtVUlOcGoyMXBRSF9FQ2trcXNNMHNXWmJDV3BERnh5SXpB?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is an industry report title comparing quick commerce market share, not user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_221",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is an industry report title comparing quick commerce market share, not user feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312445,7 +313271,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a financial news headline regarding platform revenue and IPOs, not direct user feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_185",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a financial news headline regarding platform revenue and IPOs, not direct user feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312457,7 +313295,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is an analysis headline regarding platform competition and IPO filings rather than customer feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_192",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is an analysis headline regarding platform competition and IPO filings rather than customer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312469,7 +313319,19 @@
     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOFRBX2ZiZVR6cURmejJNY3BYQ0pRQUk4SUNtWXN6eVZ4U2YwRzVWQS1zTFpfM3ZkTXNiLUxmREhobW80Mnh3d2otN3BYa3NBU0FPbXQxY0N4UWlqTjRnSVFOUnYzSGZBMm4xbFJ4eWFVeWhXb2ozVUh2S2loc2pQUGNjRm5SN2FjTWlXWEttMncxblNVNjh0a0pMUExlVFZZdUNVQXF4NS1LYUgxeDYtUTJ1Yi0tSTlHV2NiNnNDM2RPMXpFUGV2Nk9sUDFBNVR2akNCT3o0X01vUjlQeXNoWFJ1MjJESENBSmdyVktwc0ZOcmY3bEtHRXBaaDV6QQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a financial news headline and not customer feedback on shopping experience.",
+    "ai": {
+      "review_id": "Forum / News:news_185",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a financial news headline and not customer feedback on shopping experience.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312481,7 +313343,19 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ2I5Q2N5blJyRElnc0JMLW1zOHZJU1JYaUsyU2VSbTZGOEg4V2dfTmNKMTc5NEU0Wmt1WXBRbFhtMWZxZmpDTE1tc196YmlkZWphN1M3RVFBbWpIRjYzdUdDMGRVZGhRNEtDYWw0NFBRX1hJUTNoQnMxbWhKZzA3OWFHNkNXVmNrelNQRnBubHFmMWpSaDNSQmg4b1JhUFlsOFBnb2l4N2EyNERFNk8wb1R6QVZyalg4a1FEZGNHdGXSAc4BQVVfeXFMTjQ0dzkxeWhISy1adzBtek5lbFRYdzdEeWtqckVpa1JXYmVqbFM2cWR2TGFJbEZYZ296RnpQMnZBMnVWSmQ4VktjWDRkQm0zNHNxZUtmS2pFakVtTW9KNDQ5NTg5dDJWdWJORk9LTU82NllmTVd6bXRSejBod2RpRUNfa094QzBtX3ZEYmVnMWROek8xdkJ4Z3NWNGtIMjhoc2pjTUx5b3ZHR2lVV1JEU25GMGxBZXB3TUJZSkZCLXl1ZDQtNWNrNDJYajJLNGc?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a business news headline about quick commerce platform rivalry and does not contain user feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_192",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a business news headline about quick commerce platform rivalry and does not contain user feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312493,7 +313367,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news article title targeting brands rather than consumer shopping feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_163",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news article title targeting brands rather than consumer shopping feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312505,7 +313391,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is an industry news headline about market competition rather than direct customer shopping feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_212",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is an industry news headline about market competition rather than direct customer shopping feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312517,7 +313415,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news report on platform market share trends rather than individual consumer product exploration.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_231",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news report on platform market share trends rather than individual consumer product exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:12.070Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312529,7 +313439,19 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NTmNnX1V4VmlueUtqQ1U4dDFibUM0ZS1tUWdia0Q0YjdJTmotY0ZiYlU2SEw4Q2ZXWDlFUko4U3E1MWVYbG92MTlXMVNXanh2d3FRMTQtM3ZCV0t3OUo5bFQxZFRxSXRoV1RCQVAzZGRBZ2pscVpJNXVDT1d3UlU?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_163",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312541,7 +313463,19 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYUNzY1FqQmhtdXFKVmNHMEQ0MHNOa0ZYaUk4WW95WGtNSjRwMWpNcEhqNDhHRUIxcTVkS0l6QUxKLUIzQmozX25KSWo1STBCOUVWVGxiTXJLS2lZSURNV3ZzbnNFQjBvSVZtU3pDRnlNMjAwNU1sMlcyLXo5WURheVAyLUVZZDI4R2VQWW51Q1pqa2NGTVQyQlBqOFJVX2dRQWdsV3ExWVRIZmU4d1hBQ0N3LUJ0VlpiUExaZkNsdWMybzhGdzlnbThmYjRaOU9VaTZNTlJuTUZIc1pSclkw0gHkAUFVX3lxTE4tS0VueElOUkVibnJ1elRDcGd6TjcwQVRMVG9jbDZSOGNjd1ZCeGdOMlJlVnhpS3A0dnBFM0JhUWJiMlNaRk9uX2h0WmVBMjVrUXFFRVU3U0IxUWtlYkZZaHZZejFmZ05jeHVjNXk1b09kQ1F6M2VhTEpGZ1RmZUpxM1dNQU5FZGhYbm5fMzY3d1NIeUZVclRvQ2dvcld6RGRWUHJaZXd4ZERTYWw2NzVwRldteEd6aEVxb2hzVzJyRTNVUnRUaVJIMXI4WVlFVG5DMTNYd3k5T3VPWlRkYURWbGZiMQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_212",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312553,7 +313487,19 @@
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTdqanhpVExnM1c5MWxnTzlnWFljV3I4LTVOdUJ1SEpHYWxtSXZFWTdRWDFkMjNvMldCdUxic2I1NW5lYkZaOGtvMUU0NlJVTHZVLWltcjBuZElWSDJFM2xiVGRLUmZqTkEtc3o1VlhMYTAwNEpNclc0a1FkTlZsczR3bEE4eHU3Z082WjhrZWFNWk5YWmNxOUpTV2VQRUZhaXZJSnRkMEk0amJZVk5HZtIBsAFBVV95cUxPTTdqanhpVExnM1c5MWxnTzlnWFljV3I4LTVOdUJ1SEpHYWxtSXZFWTdRWDFkMjNvMldCdUxic2I1NW5lYkZaOGtvMUU0NlJVTHZVLWltcjBuZElWSDJFM2xiVGRLUmZqTkEtc3o1VlhMYTAwNEpNclc0a1FkTlZsczR3bEE4eHU3Z082WjhrZWFNWk5YWmNxOUpTV2VQRUZhaXZJSnRkMEk0amJZVk5HZg?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_231",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312563,9 +313509,30 @@
     "title": "",
     "text": "Amazon takes on Blinkit and Zepto with big quick-delivery push across 100 cities - CNBC TV18",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): Amazon's expansion into quick commerce may increase competition for Blinkit.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_206",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation",
+        "Category or product exploration"
+      ],
+      "segment": "Competitor Analysis",
+      "categories": [
+        "Quick Commerce",
+        "E-commerce"
+      ],
+      "barrier": "Competition",
+      "sentiment": "positive",
+      "reason": "Amazon's expansion into quick commerce may increase competition for Blinkit.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312577,7 +313544,19 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMThoLWVSRk10WnlyTGFDTHFrS1I2VjVmdk9Rd3JBWmE0aTVFVk5CUURrUlNiUk96aHh1QjM0ZW5TVmFKRV9iUENwWEtQdkljVGJjZDcyMERrc29fSk1mek1mSGYxM2t0SGFTWHg0UEM1QnRSZlVTS3FYLXpXaVBkcWNFalZZUFhtWVM2a2V4Z1R1dDRMeTdrMVJPbGRkZEFjdTlKa1RIVjlPZFJmVlZ2bkZ3TWd4U2MxQzZpQnFKSG85aXZFMHVzWWQ4SDUybUdN0gHWAUFVX3lxTFA5ejRfNmY1Zkhkd1NKTEMzY3pWcW5WWDMzZmp1Vm5ES3QwM2FMTVJTMDd0TUQ5OFVwbVJ5ZmZ1M1ZHanhka0R2SmxUYV9KcGVFWDhrMmRWbFVLMDd2Vm1ENmxMUUdhZjBfcGJwSUszeEFfRDA1WFhlT1Zxb2xmSFU5ZWdyVDQ0dTlZeEtyRU95NlhrajR4NkoxVG81NHF2QlJkbVZ5TkVPa1NGUUNCakk0WkQwTE5jTm50QmV3UUFZRU1saHc5eVRWamdfazBoeUt0SmxtWGc?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_206",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312617,9 +313596,30 @@
     "title": "",
     "text": "Amazon Now’s early scale gives Blinkit reason to watch - The Arc Web",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): Amazon Now's early scale may pose a challenge to Blinkit.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_162",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation",
+        "Category or product exploration"
+      ],
+      "segment": "Competitor Analysis",
+      "categories": [
+        "Quick Commerce",
+        "E-commerce"
+      ],
+      "barrier": "Competition",
+      "sentiment": "neutral",
+      "reason": "Amazon Now's early scale may pose a challenge to Blinkit.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312629,9 +313629,30 @@
     "title": "",
     "text": "Quick commerce platforms raise consumer fees as ultra-fast delivery becomes a lifestyle - Storyboard18",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase",
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): Quick commerce platforms' fee increase may affect consumer behavior.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_181",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Category or product exploration"
+      ],
+      "segment": "Consumer Behavior",
+      "categories": [
+        "Quick Commerce",
+        "E-commerce"
+      ],
+      "barrier": "Pricing",
+      "sentiment": "positive",
+      "reason": "Quick commerce platforms' fee increase may affect consumer behavior.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312673,7 +313694,19 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQmxlRTBha0I1blNrVDhma0hsVWFyQndYU2M3WEw4MUJfX0NLRzBOY2pBNmd4dnh6TkhlZTFoZHZQM2hCdTRXN2ZMWnctRFZ0NEVmUklJMG5IUDB1ZHZiMDBteVh2aE04SXBQaV9qQmtyY0hBcjQwM2ZjS251YzNmeVYzTlo5d0ZyU1NMSVF6VVlmUjE1QzJENTFlOTZGNmozT0w2Q3Vma2dSX2M?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_162",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312685,7 +313718,19 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeXoyT0x3T3pOUV9seTRkbzF5c2ZYWGV1bXIta1hra3ZfUDE5dWozX2hGVzg1blJLV2hxcXl3eDZPMy1Vd1l6TWp3QWxQdTIwTUtCUXdlQWhPS0xYQjYwamkxcVRCVGFsS0tkU3AydDNYaHdOUWtUTzJ5U3QzUTZrNmJLMnRNS0xidkcxYktNOHRNUXVWRjZ4YnN5X1JKVm9lVUtXX3FuQnJZUUZJTTNBbDJyUjBEaU96Q2NkY2FaaDVsWXNlbk1n0gHMAUFVX3lxTE1tWW5NbHpYMmtXeWpuc2RPOW0yV1pWZlI0QnlBUHotWjZoUndzbzgyeDlHODJyUHpPX3duVm42clZ3eEwyY2pDcXp0ZVg2RzJEaDZ6OTRCUzFkOTg4a1FURGNoVjUxRzQ3UDZ1MHVwR09wV1llYk41VmVUMUxCQXIxa0tMNG0xdHB2NF9OMklDTElLaVpvWWhQalNyNGczYmlCUFp5TFBVWEY0bDM2RXdwYVBjLUxRcHFxdDBxeEE0dGdzaTZQNExHS19tYQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_181",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312695,9 +313740,31 @@
     "title": "",
     "text": "Blinkit, Zepto, Instamart ad revenue may reach Rs 4,900 crore in 2026 as consumer brands increase spend - Storyboard18",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "screening_reason": "AI (groq): Blinkit, Zepto, and Instamart's ad revenue growth indicates increasing demand for quick commerce.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_204",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation",
+        "Category or product exploration"
+      ],
+      "segment": "Market Trends",
+      "categories": [
+        "Quick Commerce",
+        "E-commerce",
+        "Advertising"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Blinkit, Zepto, and Instamart's ad revenue growth indicates increasing demand for quick commerce.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:16.907Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312709,7 +313776,19 @@
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObW51cUJKQ0FIc3ZSOVMtZkNKUWxHcnZ4NVNkU3pyU08tMmtRVDhtSXdfUDl0MmNNSU1SdDJqRHpkN1dhdHZ5Zlh0OUh3SEl6RkZxZFIzREs2QXoyUWV3d1k2dTVQZDJPZV94MjgxNDh1TTd2M084bjdZTThBRjdKQ3ZxcVdiRWFMRWFKTGZaYTdKSzg2bTF5Zm5ha1V2dGdKUktJSzZ0ckE4Y3ZMVDMySEllMF9xU1RJelZsVUlEdGo5cTJ5ZVM3QThGONIB0AFBVV95cUxPT3RHRjBLRGpLbXVtWWhkZWpDTEpTeXpXMXJzOGVneTE5X0w5Z3YxaEZ2WURZaXl6TnhkQjFuWEpFR0RQdEl1cmZFeGoyM0dXV2lrOGlJM1g0bHRXY2lLTlRDcC1uRWVkQ1VkTThEVkZMa3JWQjNUUjJUTzdGeHFsbElaRFpDM2YtbmhrNGUyOEN2Q0tpT1hqaTUtT1M1Q3pUNWpUd0NGM3h5cFE1S2tjclBaSEd5ZzhTLWhVVTZ6T3ZoLXV1di1KZm9oU2tXNklt?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This news headline discusses quick commerce advertising revenue and does not provide customer feedback on category exploration.",
+    "ai": {
+      "review_id": "Forum / News:news_204",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This news headline discusses quick commerce advertising revenue and does not provide customer feedback on category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312721,7 +313800,21 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news article about food safety regulations and scaling, not direct customer feedback on product discovery or trial.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_54",
+      "relevant": false,
+      "themes": [],
+      "segment": "Regulatory News",
+      "categories": [
+        "Fresh Food"
+      ],
+      "barrier": "Food safety concerns",
+      "sentiment": "negative",
+      "reason": "This is a news article about food safety regulations and scaling, not direct customer feedback on product discovery or trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312733,7 +313826,21 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This news headline discusses regulatory liability for spoiled food rather than actionable user feedback on category trial.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_8",
+      "relevant": false,
+      "themes": [],
+      "segment": "Regulatory News",
+      "categories": [
+        "Fresh Food"
+      ],
+      "barrier": "Spoiled food liability",
+      "sentiment": "negative",
+      "reason": "This news headline discusses regulatory liability for spoiled food rather than actionable user feedback on category trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312743,9 +313850,27 @@
     "title": "",
     "text": "FSSAI seeks explanation from Blinkit after consumer falls ill following curd order - Storyboard18",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): The report of a consumer getting ill from curd highlights food safety concerns that harm trust and trial confidence in fresh categories.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_15",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Fresh Dairy",
+      "categories": [
+        "Dairy"
+      ],
+      "barrier": "Food safety and quality risk",
+      "sentiment": "negative",
+      "reason": "The report of a consumer getting ill from curd highlights food safety concerns that harm trust and trial confidence in fresh categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312755,9 +313880,27 @@
     "title": "",
     "text": "FSSAI seeks explanation from Blinkit over curd-related illness complaint - Daijiworld",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Reports of illness from ordered curd undermine consumer trust and trial confidence when purchasing fresh groceries.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_53",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Fresh Dairy",
+      "categories": [
+        "Dairy"
+      ],
+      "barrier": "Food safety and quality risk",
+      "sentiment": "negative",
+      "reason": "Reports of illness from ordered curd undermine consumer trust and trial confidence when purchasing fresh groceries.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312769,7 +313912,21 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This headline focuses on legal liability for spoiled food in quick commerce rather than individual customer feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_205",
+      "relevant": false,
+      "themes": [],
+      "segment": "Regulatory News",
+      "categories": [
+        "Fresh Food"
+      ],
+      "barrier": "Spoiled food liability",
+      "sentiment": "negative",
+      "reason": "This headline focuses on legal liability for spoiled food in quick commerce rather than individual customer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312781,7 +313938,21 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY00zamRRRDN4RHV5YTJSNWI1N1lwQko1VW9TUG5jdWZZRlk4Qm1xVTBXNDZrYnhfeWdDV3k5M0V6R0gwODAya3VycExHeDNmS3E3c3UyOHVOdElSaXBFdnVNNl9VeGk2UlpmNWcwMnlLLXR6dE9yYldBRVo2UlRWRXZwR2ROengtMFEyU1lDNFhkZ0daUlJ3?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This news item addresses corporate food safety liability rather than user exploration or purchasing behavior.",
+    "ai": {
+      "review_id": "Forum / News:news_8",
+      "relevant": false,
+      "themes": [],
+      "segment": "Regulatory News",
+      "categories": [
+        "Fresh Food"
+      ],
+      "barrier": "Spoiled food liability",
+      "sentiment": "negative",
+      "reason": "This news item addresses corporate food safety liability rather than user exploration or purchasing behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312791,9 +313962,27 @@
     "title": "FSSAI seeks explanation from Blinkit after consumer falls ill following curd order - Storyboard18",
     "text": "FSSAI seeks explanation from Blinkit after consumer falls ill following curd order - Storyboard18",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSG9OdXVaNUtlZmxtemNRQ2NzQzdPMHlfd1JIOGtvZ3FiUWNwYlNZUEF0X25HcG5fQ1ZhakFWdGxaTVBjSG4yV29zajl1Ri14T2NodjlrTVdzMkdSYVlKQTBPaUxhY0ZfeVJMMFlZVEJmb1h2R0Q2S1BwWUVmYUVPMmtnOUFKd3NDam45cDRKRkxyN1ZyVHRYRmh1VldLclplcklzOU5JbFlxd1hPeDJCRTdCdVI3bnlVbk14bktmdF9sbmhJVEtJZ09HT2NHcUHSAdQBQVVfeXFMTjZ5UWZLRXdHWnVvTFlvSFZBZlo5S1Q0OXNTZU1YcmlpYTl0TVNwLUgyclF6dE9lN2RFd0FmcHBuS1dQTS1FSXZOeXhlMFl0d1hPemVleE1BcXpmdGVKWEZTNG42MnlWMV94UGFKYzVTSEtVck15bnEyeFA2cGZSQ0k5aU1qRjEzUkZiMlczZmc1YV9MekRTcktBRzliMmY0UVlTZ2xGQ2tjalh1MzBvOUNDcFE3SDNGeEhEalg0U0R6WkpGcndFUXdVLUE1UlM3NUYwSHU?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Consumer illness from delivered curd illustrates a significant barrier to trial confidence and trust in online perishable products.",
+    "ai": {
+      "review_id": "Forum / News:news_15",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Fresh Dairy",
+      "categories": [
+        "Dairy"
+      ],
+      "barrier": "Food safety and quality risk",
+      "sentiment": "negative",
+      "reason": "Consumer illness from delivered curd illustrates a significant barrier to trial confidence and trust in online perishable products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312803,9 +313992,27 @@
     "title": "FSSAI seeks explanation from Blinkit over curd-related illness complaint - Daijiworld",
     "text": "FSSAI seeks explanation from Blinkit over curd-related illness complaint - Daijiworld",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HSW1xbm5QZ003ZF91NmFiZGh2VGl6RWR3c3dIRDduT2xlLWs3VXZCT2hmM1lkVEdhMm9FYXJ3M0VJN3FsT1pRaE5QOEg5VWZKbHo2WWhPT0RlWUd6ejNyV3I4ODdCZHc?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Foodborne illness from a curd order creates a major barrier to customer trust and repeat purchases in fresh groceries.",
+    "ai": {
+      "review_id": "Forum / News:news_53",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Fresh Dairy",
+      "categories": [
+        "Dairy"
+      ],
+      "barrier": "Food safety and quality risk",
+      "sentiment": "negative",
+      "reason": "Foodborne illness from a curd order creates a major barrier to customer trust and repeat purchases in fresh groceries.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312817,7 +314024,21 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYm1UbkVMejJzcVg3OXNISnJQQkVtTzkxX0tSemdWOTdhcVJqbFJQR2hNX0g2WlJiNXB3U09STkVoZ3M1dkNtdFZZOEVadUFYTklONlA2Q01maVZhdU42ck1Cd1VJNFYySk9ybzl3SkFsemZWX1huSGZmZGQ4YlFpbTZWVWRxRXhBcDREUXowdUdXSG0yeENlVW9BcTdiYjBQSDlRQVB4R3hjUDZZdnJpWXVR?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This article discusses broad platform food safety standards rather than specific consumer discovery or trial insights.",
+    "ai": {
+      "review_id": "Forum / News:news_54",
+      "relevant": false,
+      "themes": [],
+      "segment": "Regulatory News",
+      "categories": [
+        "Fresh Food"
+      ],
+      "barrier": "Food safety concerns",
+      "sentiment": "negative",
+      "reason": "This article discusses broad platform food safety standards rather than specific consumer discovery or trial insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:45:35.427Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312829,7 +314050,19 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY00zamRRRDN4RHV5YTJSNWI1N1lwQko1VW9TUG5jdWZZRlk4Qm1xVTBXNDZrYnhfeWdDV3k5M0V6R0gwODAya3VycExHeDNmS3E3c3UyOHVOdElSaXBFdnVNNl9VeGk2UlpmNWcwMnlLLXR6dE9yYldBRVo2UlRWRXZwR2ROengtMFEyU1lDNFhkZ0daUlJ3?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI sending a notice to Blinkit regarding spoiled food, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_205",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI sending a notice to Blinkit regarding spoiled food, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312841,7 +314074,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI seeking explanation from Blinkit over a consumer complaint, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_2",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI seeking explanation from Blinkit over a consumer complaint, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312883,7 +314128,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI asking Blinkit to explain consumer illness linked to curd order, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_13",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI asking Blinkit to explain consumer illness linked to curd order, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312895,7 +314152,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI issuing notice to Blinkit after customer reportedly falls ill after consuming curd, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_47",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI issuing notice to Blinkit after customer reportedly falls ill after consuming curd, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -312905,9 +314174,27 @@
     "title": "",
     "text": "Amazon may be bigger, but Zomato's Deepinder Goyal says Blinkit has the edge in quick commerce- Here's why - livemint.com",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review mentions Blinkit having an edge in quick commerce, indicating a positive sentiment towards the platform.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_189",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Quick Commerce",
+      "categories": [
+        "Food"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions Blinkit having an edge in quick commerce, indicating a positive sentiment towards the platform.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312919,7 +314206,19 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNW5jSUxoc21IdDRmM3F3eVBjV3Q3S2g1eF9aVFU3ei1Qc25VbVdRYzZFeUdUaUV1N1RNOElobU5TT2xVSkZHemZvamFoM1Y3VllNd1FkZkxSX25WY1FMYXlpaktmTGVyeVo2dko3OXR0dmY1TGVRblFZM3FYOXh6UkRFWkl4YlhPT0lWUDBOdXc3YTQ3UVNseHZ4Yk01NW53WDE3VGp0LUhTVXE3TzBiMVBaaHJldFdDYV9FcTk0UDZOSjM4N3fSAcwBQVVfeXFMTUhTM1VSTEEzb3M0N0M2eWlvSXBRMHF3OVJzZE4tSnQ3YUtaYlR2ckdfWHZlTWM1aDRCVmlKc1Q1Z19DdjdiV0traEZ6VDQ5YjRhNU1qdDhVQkNzNFNaTWxadHhjZ3NzZXN3WmlFR2hwNE5mcDFvS2tkeG5qLThhaTVqaGRrWnd4TjR2Q29YRC0yTHQ0NWtGdmxyN2p2WVJTdjZvYlByM2pxc0xiM2ZzT0FGTm9MU2plaFNfYnhuXzNLTUFEaGdWdlBxSVF6?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI seeking explanation from Blinkit over a consumer complaint, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_2",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI seeking explanation from Blinkit over a consumer complaint, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312961,7 +314260,19 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYlFPcHN5cGo5TXFYRFNmZFVmV0cwUEJ4ZUZNdkQ0d29mOXRyankyRjRZT3VkYTdGWm52by1HV3l4R1ByVWlFLVhXOURwbHJZQUNSVmdnbnc0NnFwZlZXUUtKbFZ6bjc0WGlCR1VtUVU0aTNWbmRvdldJdHJVdlZmOVhRTzg0X0pfczczNWJPWDFNSjhYWjlWNU4xZkN5MlFPWXVKY0U0TmpyU1A2aElqSGNxWGx0TC1VSTNoT3J4ekJqcU5yUmU5NWRmWmFEdE1xLTBYM3BlZGZVM0NXdDA4ZjdLa9IB6AFBVV95cUxNclY4UUZLV0VYRm1RVTczVW1SVnhlQXN3b1dlWFU2UkxVbzBxRzcxa2h1bDRwaU0zTVFob0xjU0hHSDNCNXkzTmZ0RlZod0hVLWVwb3RXSV9wUkFnVXJIbDlUYV9ycDYwb09aUVIzS3Rna0FUNXdvT3pmM0tQYXJnMzBuQVp5V0wwN19OUWFnbk96LWlNSXFacld4MnZPclFpSlFIcmZrQ3NodWlxV21UNFhnNEQ3YVZvM01PT1hVVlpFYzJwMzFCcFpaMjNKLVZ2UjZWam9jdjdhUFMyVy1GZlo2eF9iY0h5?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI asking Blinkit to explain consumer illness linked to curd order, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_13",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI asking Blinkit to explain consumer illness linked to curd order, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312973,7 +314284,19 @@
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcU1aTnQwWVA3SEZkZmlzZ0N5SGQzS2xDZ0dycEczRElIVXhjR3Y5UlU2RE9BZmdXaktaQnVnU2hRbnNvWjY4TWJIRUVTRjlnVl9iLXBTTGozbXZwX2xVeHQ2NzgzcnNqd2ZTalNpa3NWVlJtVVFJOVllMlhuRVJGWGZsOXlQZVFjS0xSNG42ZEgxR1FYVEFlSVBVYUpxNFY1VjdpRFNBd1pDS2NuTnZfdzFzc2tPcWNLLUJabWcyUDl3QmlGQ2VhSzl3dFlrLTV0SUVDbGNiYkxmQjU2eHFGRjNPaXVpRkdyNDlZUmhWUlozdldn?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about FSSAI issuing notice to Blinkit after customer reportedly falls ill after consuming curd, which is not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_47",
+      "relevant": false,
+      "themes": [],
+      "segment": "",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about FSSAI issuing notice to Blinkit after customer reportedly falls ill after consuming curd, which is not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.405Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -312983,9 +314306,27 @@
     "title": "Amazon may be bigger, but Zomato's Deepinder Goyal says Blinkit has the edge in quick commerce- Here's why - livemint.com",
     "text": "Amazon may be bigger, but Zomato's Deepinder Goyal says Blinkit has the edge in quick commerce- Here's why - livemint.com",
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU2lVV05EVEs2VjNPZGNoTU1QcXUzR29oVHl3Z01GRWJVcDhxaXU4TmthbllTbDh5V2doTDFuU0ppM1RMeDd1c3NoVWxLV2dub2c5c1hsZjgtZW96TUE5X3NBcW1ZVE5RbXpGZmp0SnUwUkJyMTNtWkZ2WjdkVS1EODFTLVBLRmFoTnJVRVRJSHlmemMzcnhBUzBnWUs1elBzY0VzNG5rcnI3ZEluQUt4T3ZhNW82eVZJanhfSTlGT3RSc202ZWtyNkZJMEpub1NmR2N2T2V3cG50UURuYmpWS1R0Z0t4UnBuWmJ1cDRnOGNQUWNRQXpZ0gH8AUFVX3lxTE5iTEgzejdTUXZmRWlkSk90U2RnUjBUTDVrRzZpWG95N1hCTzQyNnRWUGo0ZWxyZ3NnVHpTUUphVzdEZ2RYcjJTU2pTdjZ1V0FQeFF1TE5RS3BsU2JVajNvNzU4eXViekJwSkp1RmxCR19rTWM4ck8wYlBHY3hQWGlOb1c0ZVFXWmc4Z1pHSnZPMVRRVXQzU1pkTlZlLVYxQTczaDdfYTlsX0pxcTNpSldtVFFTVjVxdUUySTVaQ2o0M2ZzSXdSWlR4dFM4ZWJZSV9SMmlnMUZyU1V4ZVlRbkFyLTAtckVtVzdYVU05X3BZYW1QV1p0dHlEWXVmUg?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review mentions Blinkit having an edge in quick commerce, indicating a positive sentiment towards the platform.",
+    "ai": {
+      "review_id": "Forum / News:news_189",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Quick Commerce",
+      "categories": [
+        "Food"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review mentions Blinkit having an edge in quick commerce, indicating a positive sentiment towards the platform.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.406Z"
+    }
   },
   {
     "source": "Reddit",
@@ -312995,9 +314336,28 @@
     "title": "Why is it so hard to send people stuff in India",
     "text": "Ok so I am in US ( Indian born in US ) and I have a friend J who is Indian born in India. We met in college as she had come to US for masters. For summer break we both went to our parents houses. Recently I came to know my friend is sick and has some kind of stomach infection. Being the good friend I am I wanted to send some kind of care package to her house in India. With a nice note. I went on Amazon India it said your card is not accepted. Tried blinkit you need an opt to an Indian number. Tried swiggy said u need an opt put in my US number and didn’t receive any opt. I have a few cousins there and mama mami there as well. But I am not as close to them so didn’t feel like asking them to send on my behalf like it was from me. Also the issue is they would be at work and I didn’t want to disturb them during work. Also the whole paying back thing would’ve been hard. I have another friend M who also is from India and is also at home but I didn’t want to ask her bcs wasn’t sure if J would be ok with me telling her that she is sick and has this infection. Even though they know each other. Does anyone know of any other way I can do this / why it’s so hard to do shit like this.    submitted by    /u/Kind-Meal360   [link]   [comments]",
     "url": "https://www.reddit.com/r/india/comments/1trrw4g/why_is_it_so_hard_to_send_people_stuff_in_india/",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Discovery or navigation"
+    ],
+    "screening_reason": "AI (groq): The user is having trouble sending a care package to India due to payment and OTP issues on various platforms, including Blinkit.",
+    "ai": {
+      "review_id": "Reddit:t3_3",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation"
+      ],
+      "segment": "International User",
+      "categories": [
+        "Food",
+        "Care Package"
+      ],
+      "barrier": "Payment and OTP issues",
+      "sentiment": "negative",
+      "reason": "The user is having trouble sending a care package to India due to payment and OTP issues on various platforms, including Blinkit.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:45:40.406Z"
+    }
   },
   {
     "source": "Social",
@@ -313007,9 +314367,27 @@
     "title": "",
     "text": "Why is it so hard to send people stuff in India\nOk so I am in US ( Indian born in US ) and I have a friend J who is Indian born in India. We met in college as she had come to US for masters. For summer break we both went to our parents houses. Rece",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): The user discusses friction experienced when trying to send products or gifts to friends in India from abroad.",
+    "ai": {
+      "review_id": "Social:soc_reddit_3",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "NRI / International user",
+      "categories": [
+        "Gifting"
+      ],
+      "barrier": "Cross-border payment friction",
+      "sentiment": "negative",
+      "reason": "The user discusses friction experienced when trying to send products or gifts to friends in India from abroad.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313021,7 +314399,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a corporate news headline about market share, not customer product discovery feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_170",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a corporate news headline about market share, not customer product discovery feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313033,7 +314423,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news article title discussing Amazon's quick commerce strategy rather than customer feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_190",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news article title discussing Amazon's quick commerce strategy rather than customer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313045,7 +314447,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news headline covering founder comments on competition, not user product interaction.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_230",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news headline covering founder comments on competition, not user product interaction.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313057,7 +314471,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a financial news article reporting Blinkit's market share and profitability.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_238",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a financial news article reporting Blinkit's market share and profitability.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313069,7 +314495,19 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDFSY0Z6d2t4cTlEclZxcVFQazJ6S0Q4cGpYNVd3cW15SzFJQkRzZnVnakVZNU1uYURsMjNjV1d3MEZqRzgtXzV2d3BFUTFfbXctcEMxb3haZzBxdVZKOFAwVHY5T1NaNDljamVQZmdtUWF4VHBfc0FkZnBTcTVlenhxc3Y4dmszMno2UlJaQjNUVnBtcHc?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a duplicate news headline reporting market share stats rather than consumer feedback.",
+    "ai": {
+      "review_id": "Forum / News:news_170",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a duplicate news headline reporting market share stats rather than consumer feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313081,7 +314519,19 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEJNeVp4R0JvVzZlb1N2UjVuWEYxcWtkT0QxMHYxa2VzUE5GdXRKWk9ULU00anFxbFZldWt3R1hTVENsMkR0Zkx1Q3JOSU5ELVJhRUhNSTJRRURsNklQUU43dTc4UmxYQnlrVHJmMXlSU3ZMc0hlX2NLLUtQUU9rVV8tLUdsb1R0S0w3bUU2Y2NQd1BiV0JvM2R3?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a business news headline about industry dynamics and contains no user review.",
+    "ai": {
+      "review_id": "Forum / News:news_190",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a business news headline about industry dynamics and contains no user review.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313093,7 +314543,19 @@
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVDVWMklrZnFWMFpkOGd3TkJIMW5iMWFCYTRjeVVaV2JoWGpHZ0l3S1hIWWRkQ19NRGFabGRNVFlaMVl5Q0hLMTNRVXRxMDR2RDE4dUl0aTFSbkJFSl9ZbVVFLTg2Q01sbFI2UzJ2d1dEMG9UZndyT2lCZnhreHdBblB1Z2I0eUdsWXFIRllDeFp2OE05ZEpUcTNJdFRhQlZYSVNOQkpkSGNOYnRES2EtaWZYblZ3RzZ1aEhieDJQbUg3SUtSX0xzN2xSQnJockQ0ZzdPSFVBVmQyQ3Q2YTdGMTdDZW9LczJDSlNiOHkxWUlDYkw20gH6AUFVX3lxTE9WWTVsdDVldkxXMi01YzYzMmJQMldxdzM1azNIQmVkSGt6SER0ZkdPT0puVzk3cnBsbS1IOHJmQS11UUQzbkMwODFpRTdkbmlfWGFqY3FIVGFUS3JSeFRXSncxc3VlX0pVS3hiajhzeWhSTUFneXhSMHlDNHBzS1hRMnpxVTFWUExFZFRvUHFwYmJET2JHQjNwQlctWVRhUHpMUG9IM0hRNEVsUDBsWmpZUDB0MjBWekxCa3VMWTFhTjc4cTB2M203d1lONkZrZE1UWUJfSDZtUmlldzViUDhWeUpFQ2NmX1FuWmR3QnRsNUEwb0NoUGlkLVE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news headline about executive competition claims rather than customer purchasing behavior.",
+    "ai": {
+      "review_id": "Forum / News:news_230",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news headline about executive competition claims rather than customer purchasing behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313105,7 +314567,19 @@
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYUdfU3dqa3FhcVpfVDB6U0FGMVUxb3J6RTBmNEFFb0stbGRnQ0tfTFpIRXBiLUtQV091OGNEQXJtOUd0TWdUWDN2RVpiM0VxVzRSMHNFTm10dXZnSDJpMHcwazFqMmFFVjI0WVlBNHpSb3FGSTJoYUtpTVJGdzlZNmpGNmhCNnpOSXhGb3FRa2pnNHNlWlFqb1EyZ2hoeVBLWnlHRzdiNmNYd3VZdVpDTDlCUHpBVGtFMUhRS092SGxzQllEQjgya1ZobkNRNHpTY0xWRkRJZjNjQTEz0gHiAUFVX3lxTFBiRm9DM3RtNm1jZkxwa3NQeVlzNUZpM3hRZTNTVU1hWDNfdFg5dUoyeGFXekZtQWlEQ1NzazBfeTNVNU9aUFhwQ3g1NV9vaE1XTS1rWlZfRk9QeWFFZEFOZVAtVTBlM0NGZ2gxYS1hT1FENWgyYkxwZThRMnV4bU9Zb19Mam1ITUotSmZGaXI3OGdpclluRUdzTnp3MWlwbllGR0FtNURHVlVNYm90QUlqVy1yNWZuWlhOLWNjazZ1SjhhNXd2cFAtNlpLZGlNOXd0T3FicmphUTlKNjJEVGRHdEE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news article headline about profitability and market share.",
+    "ai": {
+      "review_id": "Forum / News:news_238",
+      "relevant": false,
+      "themes": [],
+      "segment": "Market analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This is a news article headline about profitability and market share.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313117,7 +314591,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a human-interest news headline regarding delivery driver earnings and not consumer shopping behavior.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_65",
+      "relevant": false,
+      "themes": [],
+      "segment": "Gig economy observer",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a human-interest news headline regarding delivery driver earnings and not consumer shopping behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:01.292Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313129,7 +314615,19 @@
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUTZfVlBOX2RGb2xRQzlOQWVVYy1XY0xCTWJBNXludXlwaHNrS3V0MC1ORm1MZ0U3aElrem9EWDlma3dYMFFKeG9JTHAtemxEZ05xdVdDeFhWUDNNUmZTMUZMQ3BRRm5QVWNLMGZ5My1Cb3hwcklRZVVROFczQ2VDdVVyWjEydjhpNjREMFRva0hPWXIybjBFeGlJRUYyVkZSRXdaYXBLT0twYTdjb012TUIzWlUtcC1hYWwwWGN2TnbSAcgBQVVfeXFMT1BCX0dUYnJvRlBlQkFZbms4djBsMUtvNWxDVkh0S0VGeE9vWUtxV203Y1VnU1daUW8zU1g4a2xkdGJybkl3M1cxMlRGR1BVRFFLQ1VYWVZLSVktb3RfdUVhVi1DUnZYNGZ3bVBjamg5QWNNSnlLclNYZFlYQlZYajkxMDVXMlZGVHlxd0RwQ1dLS21GdlNTeHJZRlJQUHNWck01YU1KUC15d0QyaTc0RHhZVzlYWUVob1RDbHlkTURzVXZqWWZfS0I?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about an interaction between the Zypp founder and a Blinkit delivery boy, but does not provide any insights into product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_65",
+      "relevant": false,
+      "themes": [],
+      "segment": "News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is about an interaction between the Zypp founder and a Blinkit delivery boy, but does not provide any insights into product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313139,9 +314637,29 @@
     "title": "",
     "text": "How Blinkit, Zepto and Instamart are turning Indian startup brands into 10-minute delivery success stories - livemint.com",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Discovery or navigation",
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review discusses how Blinkit and other startups are turning into 10-minute delivery success stories, indicating a positive experience with the service.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_200",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Q-Commerce",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review discusses how Blinkit and other startups are turning into 10-minute delivery success stories, indicating a positive experience with the service.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313151,9 +314669,29 @@
     "title": "How Blinkit, Zepto and Instamart are turning Indian startup brands into 10-minute delivery success stories - livemint.com",
     "text": "How Blinkit, Zepto and Instamart are turning Indian startup brands into 10-minute delivery success stories - livemint.com",
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYld4T004eUt1b213R2w1Vk1uZ1lXbklnVWV0V19KdmRSLU9EUjh4aFZCVUU1WldPcXp6TDYzMWNKenRIbmpBdkZFWmZYTHdfcmN1UGo5bE1ZUVhzQ1Q2bVdyTzkwYWhqdlRQaFBLN3F2dlVuOUJMcnFnb1FiU2RMbTdheDVnam13ZnhpdkNzbE5sTmI0UzdzeWJQbXRpRkJDLUlSSi1MXzhkSjI3WlVvZlpPVmVnOWdzUWkxYlZpT0t6ZmprVk9ZR1YzdWdwN2Y2UDZiTWEwSW1oTWhQTnprcjRWV2hGeW5KajI3UzZ1dkHSAfYBQVVfeXFMTWlNTVU0T2N0Uy1FYmVGanJwa1I1NUkxYlItWVNBbkhRZFVvTFZZSEhYODR1cExOYzJvZVhtODNvSmxIRmtVSjZWYVhCSnRDNDlJUWFwelRfbUREMTB0UXlybUMtV2lZU0c2V1poUHFkdGZtZE1NemNtZWh2ejZQUlVETWhwN0lsMHVqdm5aX21wQlpxWmhBd2x0SjI0bzZYbTNkR1NWUGwwWFlJWWdveVhfM3RSOFRsbW1sa3Bnem5uQ2VjWlRVQlMyVmlsd2pJcENyNDV6ZFpMTXMxSDFkWXZ2dDNxU2x3SDNPcnpNc1dVNGxsZGlB?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Discovery or navigation",
+      "Habit or repeat purchase"
+    ],
+    "screening_reason": "AI (groq): The review discusses how Blinkit and other startups are turning into 10-minute delivery success stories, indicating a positive experience with the service.",
+    "ai": {
+      "review_id": "Forum / News:news_200",
+      "relevant": true,
+      "themes": [
+        "Discovery or navigation",
+        "Habit or repeat purchase"
+      ],
+      "segment": "News",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The review discusses how Blinkit and other startups are turning into 10-minute delivery success stories, indicating a positive experience with the service.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313163,9 +314701,27 @@
     "title": "",
     "text": "Customer Gets Defective Induction Stove From Blinkit, Replaced After Complaint On X Goes Viral - NDTV Food",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The review mentions a customer receiving a defective induction stove from Blinkit, which was replaced after a complaint.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_5",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Q-Commerce",
+      "categories": [
+        "Electronics"
+      ],
+      "barrier": "Defective product",
+      "sentiment": "negative",
+      "reason": "The review mentions a customer receiving a defective induction stove from Blinkit, which was replaced after a complaint.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313175,9 +314731,27 @@
     "title": "Customer Gets Defective Induction Stove From Blinkit, Replaced After Complaint On X Goes Viral - NDTV Food",
     "text": "Customer Gets Defective Induction Stove From Blinkit, Replaced After Complaint On X Goes Viral - NDTV Food",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWozcGVBeURiRmpQZXdoT3pSVi1rQ21zYUZmQTBZVDN1amZtTzQ4bnBjRnFrM09DRjVwQTBoZjgxX0luZ1lWaG5acUlHNThka0JNbzY0Vi1WNWd3Rk9nZGlvWUhGd1VQVVh4RlMyNlY1UzZDM2dmR1d4bk5CVS1RTkVWQ1lkQkJzM0ZpM09jVTljRXdBeEdsRlM4Vm9mb1NKbUo2VzNvMExwaFZoRHdLRU9BMG9vOEtzajZhSUhmWE92RktpODlObdIB0AFBVV95cUxQVXRGUnlNMzFzdFRhcGU3a0c5OWFiM1V2VFJkbjJXYjdJUFFMeW5BdW5kZ1otdDUxMVNlNDQ0YVpza2J0RWY2d3NQMGlidTFveXBUZUlpNHVtOTVTME5nV0IycWN0NTZBa3RnVXhrV2VRaFBxYkxlYmpZR2owcF8xMHpObS1xNWlkZ256bTJvcVFCZll6WnZ1aU9zeC14bGNsRXRvc0tjN19UbXdYWHVKLXYwcksxeXZ5b29KSy1WQzFUa2doTWpseXVzNjFJeldR?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The review mentions a customer receiving a defective induction stove from Blinkit, which was replaced after a complaint.",
+    "ai": {
+      "review_id": "Forum / News:news_5",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "News",
+      "categories": [
+        "Electronics"
+      ],
+      "barrier": "Defective product",
+      "sentiment": "negative",
+      "reason": "The review mentions a customer receiving a defective induction stove from Blinkit, which was replaced after a complaint.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313189,7 +314763,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review discusses retail media networks and Blinkit's role in advertising, but does not provide insights into product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_217",
+      "relevant": false,
+      "themes": [],
+      "segment": "Q-Commerce",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review discusses retail media networks and Blinkit's role in advertising, but does not provide insights into product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313201,7 +314787,19 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVTg1ZVRmTm5LWnZMS2hOUUVWbG1kSzZWQjVUVDI0dll1Q2xOaFdoMUhCUzJsR2d6cXZsVUlQSW52XzFvbS1LNDJ6RlpWSzdtV0M4ODVSaGw5UTdyOHlsdFp1TzhQbUlRSUJjdEh3WHpSVnZXT1Z3bU9Bc3VnUTNyZ29B?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review discusses retail media networks and Blinkit's role in advertising, but does not provide insights into product discovery or trust.",
+    "ai": {
+      "review_id": "Forum / News:news_217",
+      "relevant": false,
+      "themes": [],
+      "segment": "News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review discusses retail media networks and Blinkit's role in advertising, but does not provide insights into product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Reddit",
@@ -313213,7 +314811,19 @@
     "url": "https://www.reddit.com/r/india/comments/1tgkqao/what_is_with_call_centres_in_india_always_telling/",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review discusses the customer's frustrating experience with various customer service agents, but does not specifically relate to Blinkit or product discovery.",
+    "ai": {
+      "review_id": "Reddit:t3_4",
+      "relevant": false,
+      "themes": [],
+      "segment": "Customer Service",
+      "categories": [],
+      "barrier": "Unhelpful customer service",
+      "sentiment": "negative",
+      "reason": "The review discusses the customer's frustrating experience with various customer service agents, but does not specifically relate to Blinkit or product discovery.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Social",
@@ -313225,7 +314835,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a duplicate of the Reddit post and does not provide any additional insights.",
+    "ai": {
+      "review_id": "Social:soc_reddit_4",
+      "relevant": false,
+      "themes": [],
+      "segment": "Social",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a duplicate of the Reddit post and does not provide any additional insights.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313411,9 +315033,27 @@
     "title": "",
     "text": "Blinkit gets notice from FSSAI after people complain about smelly, 'plastic-like' eggs | Blinkit has not officially commented so far | Inshorts - Inshorts",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (groq): The review mentions people complaining about smelly and 'plastic-like' eggs from Blinkit, indicating a quality issue with the products.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_20",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Q-Commerce",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": "Quality issues",
+      "sentiment": "negative",
+      "reason": "The review mentions people complaining about smelly and 'plastic-like' eggs from Blinkit, indicating a quality issue with the products.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:06.773Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313423,9 +315063,27 @@
     "title": "",
     "text": "FSSAI sends notice to Blinkit regarding sale of 'allegedly' sub-standard eggs: Sources - ANI News",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Regulatory notices regarding sub-standard products severely damage consumer trial confidence and trust in fresh food categories.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_3",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Food safety concern",
+      "sentiment": "negative",
+      "reason": "Regulatory notices regarding sub-standard products severely damage consumer trial confidence and trust in fresh food categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313525,9 +315183,27 @@
     "title": "",
     "text": "Blinkit Under FSSAI Scanner After Complaints Of Smelly, Rubbery Eggs; Action Report Sought In 7 Days - Republic World",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Severe product quality complaints deter customers from trusting and ordering fresh items.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_48",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Product quality issue",
+      "sentiment": "negative",
+      "reason": "Severe product quality complaints deter customers from trusting and ordering fresh items.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313537,9 +315213,27 @@
     "title": "",
     "text": "Rubber-like eggs; bad odour: Food regulator FSSAI seeks explanation from Blinkit as complaints mount - Mathrubhumi English",
     "url": "",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Reports of bad odor and poor food quality negatively impact trial confidence for perishable groceries.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_49",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Product quality issue",
+      "sentiment": "negative",
+      "reason": "Reports of bad odor and poor food quality negatively impact trial confidence for perishable groceries.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313609,9 +315303,27 @@
     "title": "FSSAI sends notice to Blinkit regarding sale of 'allegedly' sub-standard eggs: Sources - ANI News",
     "text": "FSSAI sends notice to Blinkit regarding sale of 'allegedly' sub-standard eggs: Sources - ANI News",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQm5yZ01vSFVPZEJxSG8yUlBOcmZyZWRmQWY1T1Qwa3d5X2QzZzZCZXZMYmtvVGlFTmFpUk8xNVh5aTFmNkxranI4cVJfNkxkUG52QVBBdXRUY0Nwdkd6cHktTVd4a0xwTGVuT2NYZWRJbF9tdzU4b3BnekxhSmFpOGJFSFk0RDd0akJvY1F3TEZleXdLdmRNZVNMOU1JTnhkQnYzNHBBaC10M21EVS1nRjZhemhENElMWHpQcGJib2hGRnp2Nm9QWXBubHNXaUU?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Food safety notices reduce customer willingness to try or repeatedly purchase fresh grocery categories.",
+    "ai": {
+      "review_id": "Forum / News:news_3",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Food safety concern",
+      "sentiment": "negative",
+      "reason": "Food safety notices reduce customer willingness to try or repeatedly purchase fresh grocery categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313711,9 +315423,27 @@
     "title": "Blinkit gets notice from FSSAI after people complain about smelly, 'plastic-like' eggs | Blinkit has not officially commented so far | Inshorts - Inshorts",
     "text": "Blinkit gets notice from FSSAI after people complain about smelly, 'plastic-like' eggs | Blinkit has not officially commented so far | Inshorts - Inshorts",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHEwazlEelFNYnN1ZWQySjROU3NEOWJlakpiMHR1ejhCcEY1T0pqX1BETExFYXRMcjNXckZ0MUNGZzJxN3pXcmR3Vkhhb0xQRWFCMnBzVENsbWN4c0tTaWpyTk1CVkw4YXFFSnI2ejk2U3lKdnlDblVseUlXRWVRc2Y1ZDN4RzVDc3lrcG9wUUxsc2ZCem9Yb0cxbG14RnVMckJaWWNDWUVvQXM4QjdSSXJMUTg3WllRSngwOGZkcmRYYzdwbThpVtIBzgFBVV95cUxPT3JzUGMzREZ1WF9IWDJVNEk1a0xjNnVzZUlqX05lSTZ1Y2h0NklpU3lFa3dvRVc3ZjVONWU1MEJpZExzb3ptZmp0Q3NPR050Z1UzaWdsVzJXVzhOZ3JNMERkSG9MSlZ5TWZiTVZRVkI4SVVhcWJRVjQ2N19ab0xPbHdqSkd1a3RpdFAzRUIxWnlOOWx4cVFtcE5GQTFMenlwVHZiSVZrWWN6RVhFMGx6akFXVW45d3JodUVPa1NCOUNxTUhYaDl6aE5wd2QxZw?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Complaints about defective food products erode consumer trust in online fresh grocery purchasing.",
+    "ai": {
+      "review_id": "Forum / News:news_20",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Product quality issue",
+      "sentiment": "negative",
+      "reason": "Complaints about defective food products erode consumer trust in online fresh grocery purchasing.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313723,9 +315453,27 @@
     "title": "Blinkit Under FSSAI Scanner After Complaints Of Smelly, Rubbery Eggs; Action Report Sought In 7 Days - Republic World",
     "text": "Blinkit Under FSSAI Scanner After Complaints Of Smelly, Rubbery Eggs; Action Report Sought In 7 Days - Republic World",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ0djUDYxeUdIdXdvbDgweWZDdkdqNGN0VUY2MFRyMFpIZ2ZKNzBLS2hId0ZaVzZiR2I5dGlJTWs5MGRLblZLMFNhMlFKZUF5OVktbEhDT1NreUZ5SHR1UUpLT1VxUzZ4eS1kTkJjZVByVmFtVVB6RXlfMmxiYjBYYXEtZzR6TG5URnkzOTNpemEyTEMyVzlicDlKemR4ZGwtdlB1amZJZEFhUFFIaDlZc2hhek1sNnpwdnFrb0NXUndFWmNiOXMwbXlyTnJrb2gtOUVLUi05MHpBNlRyVHF6V05sR0xFaXfSAewBQVVfeXFMT1l4UGpmSHNvTlpvYmRwT1NwLU1zRGJJVHNfY0c4M1VkNWQzc29waEd3TUYxTDJJU25tbzF6T1BzeERLUFBKdWJ5WGZlOG9NamNmMklvRUh4M1B6VlYzVjdZQnBrX3ZLWGVvMnVmSXFPWEdlVzBtUEZ6VG1GdVZBM3hVcU9BNEdqMTB3YkhrX1gzRi1UQmFiUU51YVE2OWxYUVQ2X29ZZXMzTTdlS1NoS2hTXzJ5emRINW56UlVWd2JDekZUcU5WMDFXLXl0SFdMRkgtTDdkUVhVRWdjVTVMYWwyRHM5aEpWSXN5S0g?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): News regarding compromised egg quality creates a significant barrier to category trial and trust.",
+    "ai": {
+      "review_id": "Forum / News:news_48",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Product quality issue",
+      "sentiment": "negative",
+      "reason": "News regarding compromised egg quality creates a significant barrier to category trial and trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313735,9 +315483,27 @@
     "title": "Rubber-like eggs; bad odour: Food regulator FSSAI seeks explanation from Blinkit as complaints mount - Mathrubhumi English",
     "text": "Rubber-like eggs; bad odour: Food regulator FSSAI seeks explanation from Blinkit as complaints mount - Mathrubhumi English",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa3h6SFJmaENIY3B5WFJ2ZkJQYTZvdDJhR0R2OC1Fa0E3Vjh1dnRrYTZUb1FrclRpLVRmb21VakM5TjV3bVNEN1BXZktjYjluR1lScUFqcW9IRjdITk9fWE1EUTd3ZV83NXNGaEt1dks0OG9QM1NRdzBlcmtvWnJZYzgzNzhoY0JaMmJsYV9NSnR0TmREX0lnZWZkRmhWZ19lNmxmemJkLThIMEJJUDJFcUdBaVRnNEt4UWp3dmJkY1VaSU9WMzkycnFpX3g1V3l6dFRxN0RJS3ozaHpPV3JURzlZNmvSAeoBQVVfeXFMT2lxQlp5YlQ0SDNhWlk0ZlNCVzBVeGs5a01JMEptT1VKTmJ6OFJ3RU1HblZqNnhwTXBpUkpVd2FVcG5QQzlCVXNueGVVbDF1V0k3cklzREFXWmsyQVZSbE56TXdVNGozWG9DQ0lkLUJtUDJraGZ2UHREN2Q1dm1DcWd6N3pYQUFJRFl2dlB6MGNLZnE2dTBsQ2lBQkxqc05sLUpRa0dSdU14WXlQckE4OVRyRjdxbjNRNXRUQmxERXVpaVJPeS1ZXy1yS21mQ3EwWExrVXQtNVM5T05jenJ5UWdCb0lHN3hyNFJB?oc=5",
-    "study_relevant": false,
-    "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "study_relevant": true,
+    "matched_themes": [
+      "Trial confidence"
+    ],
+    "screening_reason": "AI (gemini): Widespread complaints about substandard fresh produce weaken trial confidence for the entire product category.",
+    "ai": {
+      "review_id": "Forum / News:news_49",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Grocery Shopper",
+      "categories": [
+        "Eggs, Meat & Seafood"
+      ],
+      "barrier": "Product quality issue",
+      "sentiment": "negative",
+      "reason": "Widespread complaints about substandard fresh produce weaken trial confidence for the entire product category.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313809,7 +315575,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This report focuses on corporate metrics and market share rather than consumer product discovery or purchase behavior.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_88",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry Analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This report focuses on corporate metrics and market share rather than consumer product discovery or purchase behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313821,7 +315599,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): Competitive business statistics do not provide insights into user behavior regarding product exploration or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_213",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry Analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "Competitive business statistics do not provide insights into user behavior regarding product exploration or trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313833,7 +315623,19 @@
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSVVsc1U5bVlTMzdQOC1peTQ4OW5Ja3Y3NnRVLTBXUnBab0xQQXRVYlFvbU1SY1Y4T2xqNmFsbE4wSUhaZHp3b3Z4RmRFX3JxdXgzaFRhblgtc21OMTZSNWw1SDE5cHlzcFNHTzlPR3dwUDRaRENvcEpTTWdFdFNhNFR1UUZNTHdfWlVwR2oyLU9zbEUwVlJCcTNkVWw5ZFh6SG4ydlpDOEN6Tl9KWVY3SEx3UlJwSVZVbE5qbG9YNE5xTnZFM3ZFamVqX2c4VEZIUzk0Z0xqZDlpcmlCcjBsWjJjeUlNVWVHM3Q1TlM2M0RKUFIzSkloRXYxZ1MyMV9zWXdIZjBSZzFVbzhq0gGSAkFVX3lxTFBWV2x3b3M1Znlzc3gzUUdpSi1iTFBLV3ozOXEyZ05pd2lVcFpnZE9qdXlGN2RGVTVNN1M2WDVkS3Z3MXRwOGcwWlNjN3E5WFlwOUl1TW1sYmc5Smt0VWYybjRKRVFIU1dXMFJTak5yNWllREtKbktRZE5Kb0h0eWgzTElOcG45NlhCRE1tT0x3QXVqWmpHT3A5VTNrajJ2RHpWRkY5andMTXdEZGw2cFhSbXpDZlQ5UzFndnZIRE1NaHpxVzRDNFdRYUZaeHhtbS1HbVk3WUhqTzYyc1hhbFYxejNJeXR1dWlhbGUya04xVUY0aXQtZkFnNnFFR2RFMFluOWpyRFVaaDRid1pMY0dHVFE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): News coverage on dark store counts and monthly active users is unrelated to customer category discovery or adoption.",
+    "ai": {
+      "review_id": "Forum / News:news_88",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry Analyst",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "News coverage on dark store counts and monthly active users is unrelated to customer category discovery or adoption.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:20.329Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313845,7 +315647,19 @@
     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNSVVsc1U5bVlTMzdQOC1peTQ4OW5Ja3Y3NnRVLTBXUnBab0xQQXRVYlFvbU1SY1Y4T2xqNmFsbE4wSUhaZHp3b3Z4RmRFX3JxdXgzaFRhblgtc21OMTZSNWw1SDE5cHlzcFNHTzlPR3dwUDRaRENvcEpTTWdFdFNhNFR1UUZNTHdfWlVwR2oyLU9zbEUwVlJCcTNkVWw5ZFh6SG4ydlpDOEN6Tl9KWVY3SEx3UlJwSVZVbE5qbG9YNE5xTnZFM3ZFamVqX2c4VEZIUzk0Z0xqZDlpcmlCcjBsWjJjeUlNVWVHM3Q1TlM2M0RKUFIzSkloRXYxZ1MyMV9zWXdIZjBSZzFVbzhq0gGSAkFVX3lxTFBWV2x3b3M1Znlzc3gzUUdpSi1iTFBLV3ozOXEyZ05pd2lVcFpnZE9qdXlGN2RGVTVNN1M2WDVkS3Z3MXRwOGcwWlNjN3E5WFlwOUl1TW1sYmc5Smt0VWYybjRKRVFIU1dXMFJTak5yNWllREtKbktRZE5Kb0h0eWgzTElOcG45NlhCRE1tT0x3QXVqWmpHT3A5VTNrajJ2RHpWRkY5andMTXdEZGw2cFhSbXpDZlQ5UzFndnZIRE1NaHpxVzRDNFdRYUZaeHhtbS1HbVk3WUhqTzYyc1hhbFYxejNJeXR1dWlhbGUya04xVUY0aXQtZkFnNnFFR2RFMFluOWpyRFVaaDRid1pMY0dHVFE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Zepto and Instamart, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Forum / News:news_213",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Zepto and Instamart, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313857,7 +315671,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Amazon's quick commerce, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_172",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Amazon's quick commerce, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313893,7 +315719,19 @@
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUtXN1AwbFVUaU9iZU1ISm1LVzF1RDhrSHdCRFl1bDNMVElMNlJndUNJQjNXUEF4b2xDamwzSm05ZUEzVzRIRzNSbHV0OUVCckFUblRCMlMxNGxDeWozbkMwSkNFR3VmZGdCQkpKcGFGRTFaUDhSNnl6S2w2djVxVVpOeVpPY214Z19JaGg3WkxjMGI5SG9OemxMd19KeUtPSFZ1Mk9JeXEyb2R1eDg2UGZGWk1BaWdRQlVGV1UwWVU0UHZEcUJXTzBZREFDV3hsWUFFRWhxTdIB3AFBVV95cUxQUnNVLUFiSU4zUkNhSXFDcDhQUEtuNXFGakpKTkVFdDNaaHg3T3VpLThON1NuRWZQUVZ1UGRjVUQ1MlNzMUdiLXh6NTBPMWZ4U1g2TWRqSWJfc0pEM0dMNHdlNTR3OFo2UTZ0UFJkTWVpWlRGWlZ6SS1xY3c5ZjFNOWllTU8tdUlHczN4UzdYWWtRY1RYUUsyZW0tbnhZZTlZMndPTlNVVWhaX010OURPdTBlQTdLRGtYbWtpY0NuZmc3bThUVEdtaDRwaDFsQ0VKT3huMWNSOEpHeDFX?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Amazon's quick commerce, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Forum / News:news_172",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Amazon's quick commerce, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313929,7 +315767,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Swiggy Instamart's growth, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_203",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Swiggy Instamart's growth, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313941,7 +315791,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about India's quick commerce growth, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_207",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about India's quick commerce growth, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -313953,7 +315815,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Swiggy's Instamart growth, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_233",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Swiggy's Instamart growth, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313965,7 +315839,19 @@
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNVhfWUJGZm5pbHNkY0hPblFYLVdNbXQ5enpTMlRXSnZQYjBfYWhvelo5SzU5Y1hJM0ZfX3VTckN0TTRtR0o2a3JDVUowSEhTeFFUazlielNqNUZNZUc2eVhweHpxb080SzdDR1IzbXl2dlFoQVNCLUhGSDFOZjJhc0ctdmhJdkUzb2RXVzJtZHNrLXA0SFF3dTFvWm1UTmpJUzBITXdGSllQY05YNnFjcWlYa0k3Q0RWdTNhQTM4M2w0Zk9ILXfSAcsBQVVfeXFMTkVBQWozVHlKVlpvNTktTWVGMFpZYmxFUW1nRm4wVEh6ZlVLZHBrREFMNEJwZVNJaWllanFjdjVMS0oxUUlwcFpZWURwMElzMXVJeFpham5lVGMtblhrWnpzcFp3X0JkcG9feUhiOHNtUGY5SVBLX2JVYThfNUhEZ1l4Ti1tRXRfLTMybGpSZDBsTnZaY3ExcExDWnNfeFRmcThKT0JlZkdvR25wSEplZTFPSERmZ2pnOVF6Qmg1VHBhYUNSNnNxRFMxb28?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Swiggy Instamart's growth, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Forum / News:news_203",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Swiggy Instamart's growth, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313977,7 +315863,19 @@
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGFPaWJ2SHRQY0xqVkMtbS11SWtJYngyNkJES1Y4NjJZbkVqQVBvQm45dGhWSFZUNW9uOFcxaENKdVhyOURYLW9md2t3QUZaeFdYcnVGYnhNbjVXdGhUUlVaSG16STZxUWdab3JScHE3Nzdyb3JNX1FpNXNZM2VkVzl0ZFlXS0lkZ3lDVmJJM2RWLUVOMkE3WUROa21sTEV4cWc1ZkoyblNnT0Z4b1AwMGlGdktQNVdDYU9nRkctMFFObHd1emlJOTBDSnBsV1VKZTRCS0pxa1EwU2hG0gHiAUFVX3lxTE9NV19RSUt2VVY5dmppQ3pnam5DcmxnMzVCSEhHYUtldkUxME9JT0F2TlVYdUs1NXlicWFLa0syUGhHdnhDeUhRRjVJU3NneDJlMWdLY0JVQUV5TGtJd0E2ellfZlpkVTFIRkdHRVJGazdJWWRZQmhHcGNqNGthN3M5SUh5MjBVV1pzcExMWUJjQUh4R3JsSlk2YTJiSTBOWGplekxvX0R1dlBUc0hVeExVcUpEX0c0NzZUWUs0cXY0RktyRWZYUUk5c2R1MTQtMkdYX0lNbFdaWTNRdVhnU2lUUUE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about India's quick commerce growth, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Forum / News:news_207",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about India's quick commerce growth, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -313989,7 +315887,19 @@
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZFlWMGNUX09wQ091QU5wdHBFYjhBTU5RaHZhMzhILXpHUEhKTTk2d2sxSFFUbVhBMExibkV0ZHBSWFFlUnE1TEZYUVNHaHVWbnE4NllqZF81VVp2cmdXWXlzdl9jM053dVVaTUdTZjQ1Zm9XajZZWmtibzJIY24zdDhHSVB6MkJ4UkVydHFkM2ltMm1rRVRtbG96YVNPdDV6Y0N4UW9YZXlmWXZKUFVDaG9mZVU1M21KY19GejRBaW5rMTg3VFZzY25UN2trdEZJanJocXdjVGVJNTFIVnhHYVZsTzBqeFhfbVVN0gHwAUFVX3lxTE9JSTBCdUw4WDV4V3N3a2c2NUlJdFVDdkhtYTNJME5kdVdhTE1xUHU4cndLWVVDNHRJTVFJV1lmWGp0bnJRRzVwNnV1WjZ3QWo5TkVBbEwyY09OcmVYSWQ2M3U3dnVsdWJXYVRQVEVNNm5oUVVGOFR3empUWWRFV004QjBBdjhDZGJlVnhLbDkyYXdqVmtuYkJQYWp2WFVqQjdLRVpPVEJjeDBQSk8tc0xBR1ZkNkptazdOejFiQlFrQVA2N1pEcUNRc01TV0VRU0w4dUFic1VsMllmOWJiMV9qaklOZXRJZ3o2WWVOYjN6dQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is a news article about Swiggy's Instamart growth, not related to Blinkit customer experience.",
+    "ai": {
+      "review_id": "Forum / News:news_233",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The review is a news article about Swiggy's Instamart growth, not related to Blinkit customer experience.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.114Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -314001,7 +315911,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (groq): The review is about a delivery man harassment issue, not related to product discovery or trust.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_10",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "The review is about a delivery man harassment issue, not related to product discovery or trust.",
+      "provider": "groq",
+      "classified_at": "2026-08-05T10:46:25.115Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -314013,7 +315935,19 @@
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcGNEemtmUDlzN293Z3drLTItdW10aER0c19zWTVwSmxocjFjQkUtbXFsVlR4STI0Zm9BNE1neWVkbGNBMGdPQ0hDMHRMQ3ltV1V5STlteHBIQ2otU1M5M25vUkpLSWRxVjRKVVMxaEZhZk1ZX1ZVc2hlcDdOVFdDV3pqaFVGV3FDWm1kbHVBM09WM2JuSngyMGRIZkNpZnlrNjVXLV9WQmx4WFl0Tks0VmV6b2lrVFpFV0xQV2t0OUdDS1Q0UVMyY1l2bGZCMzVnWndOM2ozMnpxZVZuTkQxSlJkb9IB6AFBVV95cUxQNDB4cmh6X25pUTFJbERQYnl6ZDhnbWY3b2ZlR1kyOUpBM3hJaXk3eW1Zc1B3SkNidGROZUtycnIwWXFfYUVhT0Rvb0ZnMWVyMXlfRm9JYjdfcW04Q1BuZ1hiVWZZZEVyMkdTX25wc0k3QU1JUlFyMWlkNFhtcjlrTVlYdEo5dHZMNzN4eEdRckZOR2hxdGllS0lTZzB3aW9TRFBKY3VaSVJpSngzY3g3S2NCT00xcWlobkRRZzNZWFd5OFVqbjVkMFpjdFMtYWF3dGdrUUkyTlktZkVZYk0zZnpKMHBiRlAw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The review discusses a delivery partner harassment incident rather than user product discovery or purchasing behavior.",
+    "ai": {
+      "review_id": "Forum / News:news_10",
+      "relevant": false,
+      "themes": [],
+      "segment": "News / Safety",
+      "categories": [],
+      "barrier": "Safety concerns",
+      "sentiment": "negative",
+      "reason": "The review discusses a delivery partner harassment incident rather than user product discovery or purchasing behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -314025,7 +315959,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The text is a news headline about Amazon's competitive strategy rather than customer category exploration feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_226",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The text is a news headline about Amazon's competitive strategy rather than customer category exploration feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -314037,7 +315983,19 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFRWQnpxQlBMVngwX2ZkVnUzRUhjMXlRMm5KY1ZlUzNYdEhFVGVZUW5aZDJNTVBRTXgxZndMQl9TVXo3YUpYQ1IwdmtZMkhXNzlGZmxUendjWmo3Nzh1TlFGc01tTm4tb0o0SUZueGZjTGZtY0t5bFZORnFZb2FEYzBEaW15cEw0cG9URGxueHlLWk0xbXYwaGM1aEUwYXZQa3owS3hqdHZiMm9ITXNOY0pidHlWeVdXZFFtRWl4ZGdNbm4zTnkzNXZqbDJzLVhXQ3AxOGVtOXnSAd4BQVVfeXFMT3hQVEdwTzVnYVdwdkJvOVpXdFNfZ0FmTkpNZE1ZdFdrVmJHY3hEZGxJY0xPVVRkck5kNzdLYUZJYk1FakQ4M2JDUWItZFlLVnFYdFJIYXJ5dUdWejNyM3ppVy1mZE1jU2xHeE5Md0E2S2NmSFRId09QZG5OaGhEd1JhNld0TEZPVzdLdzBpcmJyM0ZEN1FoY0tJdTRNQlNpbV8tbUdtLWJBRTliOHVrRjlkX3FLcE5MMm1sRnZ3blY1WkU4T1haRW1KQXZuMmlvQ01TZTJzUEwxak1kYVl3?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The headline reports on industry competition rather than customer insights on discovering or trying products.",
+    "ai": {
+      "review_id": "Forum / News:news_226",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The headline reports on industry competition rather than customer insights on discovering or trying products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -314049,7 +316007,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The text is a business article title about Blinkit's operational model, offering no user behavior insights.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_225",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The text is a business article title about Blinkit's operational model, offering no user behavior insights.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -314061,7 +316031,19 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaNWZYSGpjWjlKajMzRGpZZEkzcmRhNldTN2xZMlJjanhkS3dpUWpQaUt4UkNrd3VhdW9IT3NkeGhWbkprM01uSmpOSE80Y3A1TkJhWlR4NVhUV3VGUFdQVmlKM3J1TG9fSDNLNUtHQQ?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This headline focuses on business strategy rather than user category adoption or navigation.",
+    "ai": {
+      "review_id": "Forum / News:news_225",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This headline focuses on business strategy rather than user category adoption or navigation.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -314073,7 +316055,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The headline covers overall company growth and order milestones without addressing product category trial.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_11",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The headline covers overall company growth and order milestones without addressing product category trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -314085,7 +316079,19 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOemxickcwa2FmUWk5ZjVFaXhRX2U5c0ZNWUJHcGk1dUxDSnFLVmFLNmltVlMwRHZXbHU0Wm02SzAzWl9aODdTU0VleE8ydEttcldaRzFLSkxHR2x0cmlvVURVdERocU1SNHdlSFhwaTYzNW1PMVdCQlJyRHZGZk54WkN6aURLd2FLVjJwSHloRkpLd0ROWUZRY3Z5cWNkRzF1d2N4RGZsWTBiMFVuYlA3a0Vn0gG3AUFVX3lxTE55RnZzbUdpZkxxd1BJdUtoT2xHY2ZVdnhSU3pTYWFpZUYzLXVFQ2ZvNmx6ZTNKZHFwNDk2MkNQZnRKWS1SOTUtYmVxRk14ZzJLaHBTc2drZXdHaWNmRVZYNzROWDdPZS1WOEpmR3RMTkxhbUdSQ1ZHY2pxT09PSUczSENBcjZzaWdTT1hxSkloemVqcjNVMnlsTUlrenN2Q0lXSjdwbW9tU2t0WHR3VGs4M1hPWjl5cw?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): This is a news story title regarding company scale rather than consumer shopping or trial behavior.",
+    "ai": {
+      "review_id": "Forum / News:news_11",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "This is a news story title regarding company scale rather than consumer shopping or trial behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -314121,7 +316127,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The post highlights an interview snippet about company leadership choices rather than customer product discovery.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_198",
+      "relevant": false,
+      "themes": [],
+      "segment": "Executive Interview / News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The post highlights an interview snippet about company leadership choices rather than customer product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Forum / News",
@@ -314157,7 +316175,19 @@
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHNpRkJMNlJVS3Y1RmVBZDFIeHFHZlAwZUIzRDR4NFdacm9CTlNHRnVJVlJFYXBhZnRXLTltRWlCLUp4WkdKWG9WNzA0LUlFUzhaUDMzYlkwc2R5MUkwZFlEOGo5T0xQa2gxLTU3MGVnc3NXQk4tclJIMnF6bkNtOUdEMmlUOE0tSl9DZEZZeksxeEwtRlFNQjdTQ2hQb2w3MU9YZWNKU2tncWRCYkE?oc=5",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The content is a corporate story quote from leadership rather than customer feedback on category trust or adoption.",
+    "ai": {
+      "review_id": "Forum / News:news_198",
+      "relevant": false,
+      "themes": [],
+      "segment": "Executive Interview / News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The content is a corporate story quote from leadership rather than customer feedback on category trust or adoption.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Q-Commerce",
@@ -314169,7 +316199,19 @@
     "url": "",
     "study_relevant": false,
     "matched_themes": [],
-    "screening_reason": "No mention of discovery, repeat behaviour, category/product exploration, trial confidence, or availability."
+    "screening_reason": "AI (gemini): The text is a news snippet about quick commerce geographic expansion and does not contain user trial feedback.",
+    "ai": {
+      "review_id": "Q-Commerce:qc_news_71",
+      "relevant": false,
+      "themes": [],
+      "segment": "Industry News",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "neutral",
+      "reason": "The text is a news snippet about quick commerce geographic expansion and does not contain user trial feedback.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T10:46:44.092Z"
+    }
   },
   {
     "source": "Q-Commerce",
