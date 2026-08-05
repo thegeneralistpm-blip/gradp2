@@ -38360,5 +38360,17 @@
     "reason": "This is a news headline reviewing a film and is not relevant to Blinkit customer feedback.",
     "provider": "gemini",
     "classified_at": "2026-08-04T10:33:27.798Z"
+  },
+  "8f353a0c-f206-481c-acc7-554cfab20de0": {
+    "review_id": "8f353a0c-f206-481c-acc7-554cfab20de0",
+    "relevant": false,
+    "themes": [],
+    "segment": "Customer Service",
+    "categories": [],
+    "barrier": "Unresponsive customer support for damaged items",
+    "sentiment": "negative",
+    "reason": "The review focuses on generic customer service and damaged item resolution without addressing product or category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-05T09:18:03.552Z"
   }
 }

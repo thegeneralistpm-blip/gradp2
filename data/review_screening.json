@@ -75460,12 +75460,21 @@
     "title": "",
     "text": "Customer service is worst here. There is no response on the enquiry on chatbox, and when contacted via mail, they have no resolution or answers regarding there damaged product delivery, even when thy especially mention 72 hours replacement available for the item. I have worst experience on this app. Please beware of their product and their services.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=8f353a0c-f206-481c-acc7-554cfab20de0",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence",
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Trial confidence; Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): The review focuses on generic customer service and damaged item resolution without addressing product or category discovery.",
+    "ai": {
+      "review_id": "8f353a0c-f206-481c-acc7-554cfab20de0",
+      "relevant": false,
+      "themes": [],
+      "segment": "Customer Service",
+      "categories": [],
+      "barrier": "Unresponsive customer support for damaged items",
+      "sentiment": "negative",
+      "reason": "The review focuses on generic customer service and damaged item resolution without addressing product or category discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-05T09:18:03.552Z"
+    }
   },
   {
     "source": "Google Play (India)",
