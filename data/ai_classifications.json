@@ -42342,5 +42342,1461 @@
     "reason": "Review is about a delivery boy's misconduct, not related to product discovery or trust.",
     "provider": "groq",
     "classified_at": "2026-08-06T10:49:11.198Z"
+  },
+  "Forum / News:news_57": {
+    "review_id": "Forum / News:news_57",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Focuses on delivery partner misconduct rather than product or category discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Q-Commerce:qc_news_29": {
+    "review_id": "Q-Commerce:qc_news_29",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Pertains to delivery safety issues rather than product exploration or purchasing habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Forum / News:news_29": {
+    "review_id": "Forum / News:news_29",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Focuses on delivery safety and partner conduct rather than shopping experience.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Q-Commerce:qc_news_75": {
+    "review_id": "Q-Commerce:qc_news_75",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Discusses gig worker earnings rather than consumer product adoption or discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Forum / News:news_75": {
+    "review_id": "Forum / News:news_75",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Covers delivery worker pay rather than product category exploration or purchasing behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Q-Commerce:qc_news_22": {
+    "review_id": "Q-Commerce:qc_news_22",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Focuses on delivery partner working conditions rather than consumer product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Forum / News:news_22": {
+    "review_id": "Forum / News:news_22",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Pertains to rider welfare and fast delivery criticism rather than product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Q-Commerce:qc_news_104": {
+    "review_id": "Q-Commerce:qc_news_104",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "segment": "Electronics Buyers",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Highlights fast delivery availability for high-value tech product launches.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Forum / News:news_104": {
+    "review_id": "Forum / News:news_104",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Trial confidence"
+    ],
+    "segment": "Electronics Buyers",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Shows platform expansion into high-value electronics delivery, encouraging category trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Q-Commerce:qc_news_23": {
+    "review_id": "Q-Commerce:qc_news_23",
+    "relevant": false,
+    "themes": [],
+    "segment": "Unsegmented",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Covers regulatory and antitrust news rather than consumer shopping or product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:17.855Z"
+  },
+  "Forum / News:news_23": {
+    "review_id": "Forum / News:news_23",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about anti-trust complaints and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Q-Commerce:qc_news_131": {
+    "review_id": "Q-Commerce:qc_news_131",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about the shutdown of an illegal warehouse and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Forum / News:news_131": {
+    "review_id": "Forum / News:news_131",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about the shutdown of an illegal warehouse and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Q-Commerce:qc_news_25": {
+    "review_id": "Q-Commerce:qc_news_25",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about an anti-competition petition and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Q-Commerce:qc_news_26": {
+    "review_id": "Q-Commerce:qc_news_26",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about a complaint against qcom players and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Forum / News:news_25": {
+    "review_id": "Forum / News:news_25",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about an anti-competition petition and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Forum / News:news_26": {
+    "review_id": "Forum / News:news_26",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about a complaint against qcom players and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Q-Commerce:qc_news_79": {
+    "review_id": "Q-Commerce:qc_news_79",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation"
+    ],
+    "segment": "price-conscious",
+    "categories": [
+      "groceries",
+      "food delivery"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is about comparing prices of different services, which can help with product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Forum / News:news_79": {
+    "review_id": "Forum / News:news_79",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation"
+    ],
+    "segment": "price-conscious",
+    "categories": [
+      "groceries",
+      "food delivery"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about comparing prices of different services, which can help with product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Q-Commerce:qc_news_58": {
+    "review_id": "Q-Commerce:qc_news_58",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about a legal notice served to BMC over an illegal warehouse and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:22.586Z"
+  },
+  "Forum / News:news_58": {
+    "review_id": "Forum / News:news_58",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Compliance",
+    "categories": [],
+    "barrier": "Legal compliance",
+    "sentiment": "negative",
+    "reason": "Focuses on civic legal notices regarding dark store locations rather than customer shopping experience.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Q-Commerce:qc_news_86": {
+    "review_id": "Q-Commerce:qc_news_86",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Service Expansion",
+    "categories": [
+      "Emergency Services"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Reports on paramedic training for an emergency service line rather than customer product selection behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Forum / News:news_86": {
+    "review_id": "Forum / News:news_86",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Service Expansion",
+    "categories": [
+      "Emergency Services"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Covers corporate news about ambulance training rather than user discovery or trial of retail categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Q-Commerce:qc_news_30": {
+    "review_id": "Q-Commerce:qc_news_30",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Crime",
+    "categories": [
+      "Meat & Seafood"
+    ],
+    "barrier": "Social friction",
+    "sentiment": "negative",
+    "reason": "Describes a criminal incident involving delivery staff rather than user app navigation or category adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Q-Commerce:qc_news_99": {
+    "review_id": "Q-Commerce:qc_news_99",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Crime",
+    "categories": [
+      "Meat & Seafood"
+    ],
+    "barrier": "Social friction",
+    "sentiment": "negative",
+    "reason": "Focuses on harassment of delivery personnel during a religious festival rather than customer product discovery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Q-Commerce:qc_news_102": {
+    "review_id": "Q-Commerce:qc_news_102",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Crime",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Details a robbery committed by impersonators in delivery uniforms, unrelated to customer purchasing behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Forum / News:news_30": {
+    "review_id": "Forum / News:news_30",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Crime",
+    "categories": [
+      "Meat & Seafood"
+    ],
+    "barrier": "Social friction",
+    "sentiment": "negative",
+    "reason": "Covers news of harassment against delivery riders rather than consumer decision-making on the platform.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Forum / News:news_99": {
+    "review_id": "Forum / News:news_99",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Crime",
+    "categories": [
+      "Meat & Seafood"
+    ],
+    "barrier": "Social friction",
+    "sentiment": "negative",
+    "reason": "Reports on a crime against delivery staff rather than user interaction with product categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Forum / News:news_102": {
+    "review_id": "Forum / News:news_102",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Crime",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Discusses a jewellery shop robbery using delivery uniforms, which does not reflect customer buying habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Q-Commerce:qc_news_115": {
+    "review_id": "Q-Commerce:qc_news_115",
+    "relevant": false,
+    "themes": [],
+    "segment": "News / Gig Economy",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Compares gig worker earnings to corporate salaries rather than evaluating user platform trust or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:11:35.843Z"
+  },
+  "Forum / News:news_115": {
+    "review_id": "Forum / News:news_115",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about delivery agent salaries and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Q-Commerce:qc_news_89": {
+    "review_id": "Q-Commerce:qc_news_89",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is about the company's financial success and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Forum / News:news_89": {
+    "review_id": "Forum / News:news_89",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review is about the company's financial success and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Q-Commerce:qc_news_133": {
+    "review_id": "Q-Commerce:qc_news_133",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Regulated products",
+    "categories": [
+      "Tobacco"
+    ],
+    "barrier": "Regulatory issues",
+    "sentiment": "negative",
+    "reason": "The review discusses the sale of regulated products on the platform, which may impact customer trust and purchase decisions.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Forum / News:news_133": {
+    "review_id": "Forum / News:news_133",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Regulated products",
+    "categories": [
+      "Tobacco"
+    ],
+    "barrier": "Regulatory issues",
+    "sentiment": "negative",
+    "reason": "The review discusses the sale of regulated products on the platform, which may impact customer trust and purchase decisions.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Q-Commerce:qc_news_61": {
+    "review_id": "Q-Commerce:qc_news_61",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh produce",
+    "categories": [
+      "Eggs"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "The review discusses a customer complaint about receiving rotten eggs, which may impact trust and repeat purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Forum / News:news_61": {
+    "review_id": "Forum / News:news_61",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Fresh produce",
+    "categories": [
+      "Eggs"
+    ],
+    "barrier": "Quality issues",
+    "sentiment": "negative",
+    "reason": "The review discusses a customer complaint about receiving rotten eggs, which may impact trust and repeat purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Q-Commerce:qc_news_87": {
+    "review_id": "Q-Commerce:qc_news_87",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about the company's delivery process and does not relate to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Q-Commerce:qc_news_110": {
+    "review_id": "Q-Commerce:qc_news_110",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Food products",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Regulatory issues",
+    "sentiment": "negative",
+    "reason": "The review discusses a store closure due to regulatory issues, which may impact product availability and customer trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Q-Commerce:qc_news_114": {
+    "review_id": "Q-Commerce:qc_news_114",
+    "relevant": true,
+    "themes": [
+      "Availability or substitution"
+    ],
+    "segment": "Food products",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Regulatory issues",
+    "sentiment": "negative",
+    "reason": "The review discusses a store closure due to regulatory issues, which may impact product availability and customer trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:11:40.813Z"
+  },
+  "Forum / News:news_87": {
+    "review_id": "Forum / News:news_87",
+    "relevant": false,
+    "themes": [],
+    "segment": "Delivery Operations",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Focuses on delivery speed and worker conditions rather than product discovery or trial confidence.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Forum / News:news_110": {
+    "review_id": "Forum / News:news_110",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food Safety",
+    "categories": [
+      "Grocery",
+      "Fresh Food"
+    ],
+    "barrier": "Safety and quality concerns",
+    "sentiment": "negative",
+    "reason": "Food safety violations directly damage consumer trust and trial confidence in grocery categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Forum / News:news_114": {
+    "review_id": "Forum / News:news_114",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food Safety",
+    "categories": [
+      "Grocery",
+      "Perishables"
+    ],
+    "barrier": "Improper storage conditions",
+    "sentiment": "negative",
+    "reason": "Improper storage practices undermine user confidence in purchasing perishable food items.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Q-Commerce:qc_news_101": {
+    "review_id": "Q-Commerce:qc_news_101",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality",
+    "categories": [
+      "Eggs, Meat & Seafood",
+      "Grocery"
+    ],
+    "barrier": "Spoiled product quality",
+    "sentiment": "negative",
+    "reason": "Receiving rotten eggs creates severe quality distrust, deterring repeat purchases of fresh goods.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Forum / News:news_101": {
+    "review_id": "Forum / News:news_101",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Product Quality",
+    "categories": [
+      "Eggs, Meat & Seafood",
+      "Grocery"
+    ],
+    "barrier": "Spoiled product quality",
+    "sentiment": "negative",
+    "reason": "Viral reports of bad quality produce negatively impact overall trust in fresh food categories.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Q-Commerce:qc_news_36": {
+    "review_id": "Q-Commerce:qc_news_36",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Regulatory & Safety",
+    "categories": [
+      "Food & Grocery"
+    ],
+    "barrier": "Food safety concerns",
+    "sentiment": "negative",
+    "reason": "Widespread safety complaints reduce customer confidence in purchasing consumable goods via delivery platforms.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Forum / News:news_36": {
+    "review_id": "Forum / News:news_36",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Regulatory & Safety",
+    "categories": [
+      "Food & Grocery"
+    ],
+    "barrier": "Food safety concerns",
+    "sentiment": "negative",
+    "reason": "High volumes of food safety issues hinder user willingness to repeatedly buy groceries online.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Q-Commerce:qc_news_98": {
+    "review_id": "Q-Commerce:qc_news_98",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Promotions & Ticketing",
+    "categories": [
+      "Entertainment",
+      "Event Tickets"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Offers free movie tickets to encourage users to explore new non-grocery service categories on Blinkit.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Forum / News:news_98": {
+    "review_id": "Forum / News:news_98",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "Promotions & Ticketing",
+    "categories": [
+      "Entertainment",
+      "Event Tickets"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Promotional tie-ins serve to drive user trial and awareness of new ticket booking offerings.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Q-Commerce:qc_news_33": {
+    "review_id": "Q-Commerce:qc_news_33",
+    "relevant": false,
+    "themes": [],
+    "segment": "Legal & Antitrust",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Focuses on corporate antitrust lawsuits regarding pricing models rather than consumer product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:25.638Z"
+  },
+  "Q-Commerce:qc_news_83": {
+    "review_id": "Q-Commerce:qc_news_83",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Review discusses antitrust case over unfair pricing models",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Forum / News:news_33": {
+    "review_id": "Forum / News:news_33",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Review discusses antitrust case over unfair pricing models",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Forum / News:news_83": {
+    "review_id": "Forum / News:news_83",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Review discusses antitrust case over unfair pricing models",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Q-Commerce:qc_news_117": {
+    "review_id": "Q-Commerce:qc_news_117",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Review discusses success of a seller on BlinkIt",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Forum / News:news_117": {
+    "review_id": "Forum / News:news_117",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Review discusses success of a seller on BlinkIt",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Q-Commerce:qc_news_59": {
+    "review_id": "Q-Commerce:qc_news_59",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Review discusses issue with delivery man",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Forum / News:news_59": {
+    "review_id": "Forum / News:news_59",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Review discusses issue with delivery man",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Q-Commerce:qc_news_107": {
+    "review_id": "Q-Commerce:qc_news_107",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Review discusses Blinkit ambulance service",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Q-Commerce:qc_news_119": {
+    "review_id": "Q-Commerce:qc_news_119",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "Review discusses Blinkit ambulance service with low rating",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Forum / News:news_107": {
+    "review_id": "Forum / News:news_107",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Review discusses Blinkit ambulance service",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:30.164Z"
+  },
+  "Forum / News:news_119": {
+    "review_id": "Forum / News:news_119",
+    "relevant": false,
+    "themes": [],
+    "segment": "General public",
+    "categories": [
+      "Healthcare Services"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Discusses an emergency ambulance service launch rather than consumer product category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Q-Commerce:qc_news_137": {
+    "review_id": "Q-Commerce:qc_news_137",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate news readers",
+    "categories": [
+      "Corporate"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Discusses company corporate re-branding rather than product category exploration or shopping.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Forum / News:news_137": {
+    "review_id": "Forum / News:news_137",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate news readers",
+    "categories": [
+      "Corporate"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Focuses on corporate renaming and holding company structure rather than consumer retail products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Q-Commerce:qc_news_37": {
+    "review_id": "Q-Commerce:qc_news_37",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Electronics shoppers",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ],
+    "barrier": "Perceived risk",
+    "sentiment": "neutral",
+    "reason": "Highlights user risk perception and trial confidence when purchasing high-value smartphones on Blinkit.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Forum / News:news_37": {
+    "review_id": "Forum / News:news_37",
+    "relevant": true,
+    "themes": [
+      "Trial confidence",
+      "Category or product exploration"
+    ],
+    "segment": "Electronics shoppers",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ],
+    "barrier": "Perceived risk",
+    "sentiment": "neutral",
+    "reason": "Addresses the risks and trust concerns regarding buying expensive electronics via quick commerce.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Q-Commerce:qc_news_125": {
+    "review_id": "Q-Commerce:qc_news_125",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Availability or substitution"
+    ],
+    "segment": "Tech consumers",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Announces the availability and expansion into mobile phone deliveries on Blinkit.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Forum / News:news_125": {
+    "review_id": "Forum / News:news_125",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration",
+      "Availability or substitution"
+    ],
+    "segment": "Tech consumers",
+    "categories": [
+      "Electronics",
+      "Mobiles"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Reports on the new category offering of feature phones and smartphones for fast delivery.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Q-Commerce:qc_news_93": {
+    "review_id": "Q-Commerce:qc_news_93",
+    "relevant": false,
+    "themes": [],
+    "segment": "General public",
+    "categories": [
+      "Healthcare Services"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Covers emergency ambulance service launch rather than quick-commerce product shopping.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Forum / News:news_93": {
+    "review_id": "Forum / News:news_93",
+    "relevant": false,
+    "themes": [],
+    "segment": "General public",
+    "categories": [
+      "Healthcare Services"
+    ],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "Relates to emergency service offerings rather than consumer product discovery or buying.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Q-Commerce:qc_news_97": {
+    "review_id": "Q-Commerce:qc_news_97",
+    "relevant": false,
+    "themes": [],
+    "segment": "General public",
+    "categories": [
+      "Healthcare Services"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Pertains to emergency ambulance service launch rather than retail product exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:12:46.005Z"
+  },
+  "Forum / News:news_97": {
+    "review_id": "Forum / News:news_97",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about Blinkit's ambulance service, which is not related to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Q-Commerce:qc_news_122": {
+    "review_id": "Q-Commerce:qc_news_122",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about the CEO delivering orders, which is not directly related to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Forum / News:news_122": {
+    "review_id": "Forum / News:news_122",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about the CEO delivering orders, which is not directly related to product discovery or purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Q-Commerce:qc_news_35": {
+    "review_id": "Q-Commerce:qc_news_35",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about mishandling of electronic deliveries, which is related to customer service, not product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Q-Commerce:qc_news_111": {
+    "review_id": "Q-Commerce:qc_news_111",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Tech",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions a free gift with a PlayStation 5 order, which could influence product discovery and purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Forum / News:news_35": {
+    "review_id": "Forum / News:news_35",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about mishandling of electronic deliveries, which is related to customer service, not product discovery.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Forum / News:news_111": {
+    "review_id": "Forum / News:news_111",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Tech",
+    "categories": [
+      "Electronics"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "The review mentions a free gift with a PlayStation 5 order, which could influence product discovery and purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Q-Commerce:qc_news_84": {
+    "review_id": "Q-Commerce:qc_news_84",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Market",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Competition",
+    "sentiment": "neutral",
+    "reason": "The review mentions Amazon's competition with Blinkit, which could influence product discovery and purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Forum / News:news_84": {
+    "review_id": "Forum / News:news_84",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Market",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Competition",
+    "sentiment": "neutral",
+    "reason": "The review mentions Amazon's competition with Blinkit, which could influence product discovery and purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Q-Commerce:qc_news_120": {
+    "review_id": "Q-Commerce:qc_news_120",
+    "relevant": true,
+    "themes": [
+      "Discovery or navigation",
+      "Category or product exploration"
+    ],
+    "segment": "Market",
+    "categories": [
+      "Groceries"
+    ],
+    "barrier": "Competition",
+    "sentiment": "neutral",
+    "reason": "The review mentions Amazon's launch of Tez, a quick commerce service competing with Blinkit, which could influence product discovery and purchase.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:12:50.790Z"
+  },
+  "Forum / News:news_120": {
+    "review_id": "Forum / News:news_120",
+    "relevant": false,
+    "themes": [],
+    "segment": "Market News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is a news headline about market competition and does not provide user feedback on category discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Q-Commerce:qc_news_38": {
+    "review_id": "Q-Commerce:qc_news_38",
+    "relevant": false,
+    "themes": [],
+    "segment": "Regulatory / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This is news coverage regarding regulatory complaints from distributors rather than customer product discovery feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Q-Commerce:qc_news_43": {
+    "review_id": "Q-Commerce:qc_news_43",
+    "relevant": false,
+    "themes": [],
+    "segment": "Regulatory / Industry News",
+    "categories": [
+      "FMCG"
+    ],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This is an industry news article about pricing disputes rather than customer purchasing or discovery behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Forum / News:news_38": {
+    "review_id": "Forum / News:news_38",
+    "relevant": false,
+    "themes": [],
+    "segment": "Regulatory / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This news headline discusses regulatory complaints by trade associations and does not reflect consumer discovery insights.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Forum / News:news_43": {
+    "review_id": "Forum / News:news_43",
+    "relevant": false,
+    "themes": [],
+    "segment": "Regulatory / Industry News",
+    "categories": [
+      "FMCG"
+    ],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This news item covers industry dispute allegations rather than user product trial or shopping behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Q-Commerce:qc_news_28": {
+    "review_id": "Q-Commerce:qc_news_28",
+    "relevant": false,
+    "themes": [],
+    "segment": "Regulatory / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This is a news update regarding competition council scrutiny and contains no direct customer feedback.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Forum / News:news_28": {
+    "review_id": "Forum / News:news_28",
+    "relevant": false,
+    "themes": [],
+    "segment": "Regulatory / Industry News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This news headline concerns legal and regulatory issues rather than user category adoption or navigation.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Q-Commerce:qc_news_39": {
+    "review_id": "Q-Commerce:qc_news_39",
+    "relevant": false,
+    "themes": [],
+    "segment": "Localization Controversy",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This is a news report about a localized language controversy and does not touch upon product discovery or shopping habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Q-Commerce:qc_news_42": {
+    "review_id": "Q-Commerce:qc_news_42",
+    "relevant": false,
+    "themes": [],
+    "segment": "Localization Controversy",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This news article details a language dispute on the app rather than user behavior regarding category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Forum / News:news_39": {
+    "review_id": "Forum / News:news_39",
+    "relevant": false,
+    "themes": [],
+    "segment": "Localization Controversy",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "This news snippet relates to a linguistic controversy rather than insights on why users try or buy products.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:11.901Z"
+  },
+  "Forum / News:news_42": {
+    "review_id": "Forum / News:news_42",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review does not relate to product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Q-Commerce:qc_news_108": {
+    "review_id": "Q-Commerce:qc_news_108",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about Blinkit's valuation, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Forum / News:news_108": {
+    "review_id": "Forum / News:news_108",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about Blinkit's valuation, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Q-Commerce:qc_news_126": {
+    "review_id": "Q-Commerce:qc_news_126",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "New Category",
+    "categories": [
+      "Home Appliances"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Blinkit is exploring new product categories like ceiling fans.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Forum / News:news_126": {
+    "review_id": "Forum / News:news_126",
+    "relevant": true,
+    "themes": [
+      "Category or product exploration"
+    ],
+    "segment": "New Category",
+    "categories": [
+      "Home Appliances"
+    ],
+    "barrier": null,
+    "sentiment": "positive",
+    "reason": "Blinkit is exploring new product categories like ceiling fans.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Q-Commerce:qc_news_40": {
+    "review_id": "Q-Commerce:qc_news_40",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about a customer complaint, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Forum / News:news_40": {
+    "review_id": "Forum / News:news_40",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about a customer complaint, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Q-Commerce:qc_news_44": {
+    "review_id": "Q-Commerce:qc_news_44",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about a statement from Ashneer Grover, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Forum / News:news_44": {
+    "review_id": "Forum / News:news_44",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "The review is about a statement from Ashneer Grover, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Q-Commerce:qc_news_60": {
+    "review_id": "Q-Commerce:qc_news_60",
+    "relevant": false,
+    "themes": [],
+    "segment": null,
+    "categories": [],
+    "barrier": null,
+    "sentiment": "negative",
+    "reason": "The review is about a customer complaint, not product discovery or trust.",
+    "provider": "groq",
+    "classified_at": "2026-08-07T09:13:16.679Z"
+  },
+  "Forum / News:news_60": {
+    "review_id": "Forum / News:news_60",
+    "relevant": true,
+    "themes": [
+      "Trial confidence"
+    ],
+    "segment": "Food Safety & Quality",
+    "categories": [
+      "Bakery",
+      "Bread"
+    ],
+    "barrier": "Food safety and hygiene concerns",
+    "sentiment": "negative",
+    "reason": "A severe food contamination incident heavily damages customer trust and trial confidence in ordering packaged food.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
+  },
+  "Q-Commerce:qc_news_124": {
+    "review_id": "Q-Commerce:qc_news_124",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This is corporate financial and acquisition news that does not inform customer product discovery or adoption.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
+  },
+  "Forum / News:news_124": {
+    "review_id": "Forum / News:news_124",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate News",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This news article focuses on company valuation and business negotiations rather than consumer shopping behavior.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
+  },
+  "Q-Commerce:qc_news_123": {
+    "review_id": "Q-Commerce:qc_news_123",
+    "relevant": false,
+    "themes": [],
+    "segment": "Operations & Serviceability",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This headline reports on regional operational service closures rather than user product or category exploration.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
+  },
+  "Forum / News:news_123": {
+    "review_id": "Forum / News:news_123",
+    "relevant": false,
+    "themes": [],
+    "segment": "Operations & Serviceability",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This news snippet concerns delivery logistics and serviceability rather than customer category discovery or trust.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
+  },
+  "Q-Commerce:qc_news_121": {
+    "review_id": "Q-Commerce:qc_news_121",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate Branding",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This article discusses brand renaming and market strategy rather than insights into customer purchasing habits.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
+  },
+  "Forum / News:news_121": {
+    "review_id": "Forum / News:news_121",
+    "relevant": false,
+    "themes": [],
+    "segment": "Corporate Branding",
+    "categories": [],
+    "barrier": null,
+    "sentiment": "neutral",
+    "reason": "This news item covers company rebranding and does not provide feedback on product discovery or trial.",
+    "provider": "gemini",
+    "classified_at": "2026-08-07T09:13:27.323Z"
   }
 }
