@@ -181676,11 +181676,21 @@
     "title": "",
     "text": "Packaging is horrible vegitables and fruits are half dried not fresh at all",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=181c7d72-2fd6-4cca-9a9b-84fe09678c82",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Poor product quality",
+    "ai": {
+      "review_id": "181c7d72-2fd6-4cca-9a9b-84fe09678c82",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Poor product quality",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -181730,7 +181740,23 @@
     "matched_themes": [
       "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Habit or repeat purchase"
+    "screening_reason": "AI (groq): Convenient instant delivery",
+    "ai": {
+      "review_id": "dfbedf72-7f54-4a37-952f-dde7dd2024c3",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Loyal",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Convenient instant delivery",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -181874,9 +181900,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=cab9e3c8-8d95-4043-9c57-cd64adc1b283",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Category or product exploration"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): Expensive products",
+    "ai": {
+      "review_id": "cab9e3c8-8d95-4043-9c57-cd64adc1b283",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Price-sensitive",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": "High prices",
+      "sentiment": "neutral",
+      "reason": "Expensive products",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -181886,11 +181928,21 @@
     "title": "",
     "text": "very good interface",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=5bdb1d04-f024-46ca-8de8-4e9cbd1bbfb3",
-    "study_relevant": true,
-    "matched_themes": [
-      "Discovery or navigation"
-    ],
-    "screening_reason": "Matched: Discovery or navigation"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Good interface",
+    "ai": {
+      "review_id": "5bdb1d04-f024-46ca-8de8-4e9cbd1bbfb3",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Good interface",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -181902,10 +181954,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=0c2c68c7-2474-4438-88bc-31bb8bdb33b5",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration",
-      "Availability or substitution"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Category or product exploration; Availability or substitution"
+    "screening_reason": "AI (groq): Good customer support and discounts",
+    "ai": {
+      "review_id": "0c2c68c7-2474-4438-88bc-31bb8bdb33b5",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Loyal",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Good customer support and discounts",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182047,11 +182114,21 @@
     "title": "",
     "text": "This app has worst customer service support ever, the executives doesn't even reply at all, i recieved damaged and expiry product, but no further help was provided, they just ignore yours text and complains.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=8722b23a-457e-46f8-a9e2-710199d76eb3",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Poor customer service",
+    "ai": {
+      "review_id": "8722b23a-457e-46f8-a9e2-710199d76eb3",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Poor customer service",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182205,11 +182282,21 @@
     "title": "",
     "text": "Extremely disappointing experience. I was in Ropar, Punjab, but Blinkit's app showed Kharar, Punjab due to a system error and assigned the rider there. Support admitted it was a system issue, yet I was asked to cancel the order. The rider cancelled it from their end, but ₹20 was still deducted from my account. Why should customers pay for Blinkit's mistakes? Unacceptable service and poor customer support.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=ac943ae5-d585-4490-a6ea-586fa4b6b7f0",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): System error and poor customer support",
+    "ai": {
+      "review_id": "ac943ae5-d585-4490-a6ea-586fa4b6b7f0",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "System error and poor customer support",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182221,10 +182308,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=0cc0adde-14ce-48bb-aff0-469b0392284e",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration",
-      "Trial confidence"
+      "Category or product exploration"
     ],
-    "screening_reason": "Matched: Category or product exploration; Trial confidence"
+    "screening_reason": "AI (groq): Variety of products at reasonable prices",
+    "ai": {
+      "review_id": "0cc0adde-14ce-48bb-aff0-469b0392284e",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Satisfied",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Variety of products at reasonable prices",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182258,11 +182360,21 @@
     "title": "",
     "text": "I am not able to cancel my order",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=d9d578b8-0e0b-4502-acf6-44afae284989",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Order cancellation issue",
+    "ai": {
+      "review_id": "d9d578b8-0e0b-4502-acf6-44afae284989",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Order cancellation issue",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182372,7 +182484,23 @@
     "matched_themes": [
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): Fresh products and good customer service",
+    "ai": {
+      "review_id": "ac091ee4-f092-49bb-bbdd-bd2a614df481",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "New",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Fresh products and good customer service",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:49.864Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182682,11 +182810,21 @@
     "title": "",
     "text": "very bad quality",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=c747b6ad-0f69-4b63-89df-0f704ae91d20",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Bad product quality",
+    "ai": {
+      "review_id": "c747b6ad-0f69-4b63-89df-0f704ae91d20",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Bad product quality",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -182912,11 +183050,21 @@
     "title": "",
     "text": "Except very rare occasions when delivery was late by a few mins only, my orders have always been delivered timely & without any items missing or in bad condition.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=e2687837-79bc-4f80-9ac3-ebfa56a31387",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Timely delivery",
+    "ai": {
+      "review_id": "e2687837-79bc-4f80-9ac3-ebfa56a31387",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Timely delivery",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183230,7 +183378,23 @@
     "matched_themes": [
       "Availability or substitution"
     ],
-    "screening_reason": "Matched: Availability or substitution"
+    "screening_reason": "AI (groq): Items displayed as available but shown as out of stock during payment",
+    "ai": {
+      "review_id": "0796e923-d172-41ed-be27-70d89d30a165",
+      "relevant": true,
+      "themes": [
+        "Availability or substitution"
+      ],
+      "segment": "Frustrated customer",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": "Out of stock items",
+      "sentiment": "neutral",
+      "reason": "Items displayed as available but shown as out of stock during payment",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183288,11 +183452,21 @@
     "title": "",
     "text": "today I ordered groceries items through blinkit in guwahati, Assam for flood donation.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=3189281d-e502-47d6-8d38-0033aa52ec50",
-    "study_relevant": true,
-    "matched_themes": [
-      "Category or product exploration"
-    ],
-    "screening_reason": "Matched: Category or product exploration"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Successful order for flood donation",
+    "ai": {
+      "review_id": "3189281d-e502-47d6-8d38-0033aa52ec50",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Successful order for flood donation",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183386,11 +183560,21 @@
     "title": "",
     "text": "3 rating",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=65f45f97-4bfd-445e-83b0-6728262302ef",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Low rating with no explanation",
+    "ai": {
+      "review_id": "65f45f97-4bfd-445e-83b0-6728262302ef",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Low rating with no explanation",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183448,11 +183632,21 @@
     "title": "",
     "text": "best app, reasonable price",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=4df9c707-2ad3-4902-8191-a688ba88de6c",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Best app with reasonable prices",
+    "ai": {
+      "review_id": "4df9c707-2ad3-4902-8191-a688ba88de6c",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Best app with reasonable prices",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183512,9 +183706,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=1a7b3d3b-b5aa-4e94-9764-e2358555f837",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): Suddenly increased product prices and high delivery charges",
+    "ai": {
+      "review_id": "1a7b3d3b-b5aa-4e94-9764-e2358555f837",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Price-sensitive customer",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": "High prices and delivery charges",
+      "sentiment": "negative",
+      "reason": "Suddenly increased product prices and high delivery charges",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183824,11 +184034,21 @@
     "title": "",
     "text": "fresh products and very fast delivery 🚚",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=3eb9a8de-37be-419e-887e-5c8bac971e25",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Fresh products and fast delivery",
+    "ai": {
+      "review_id": "3eb9a8de-37be-419e-887e-5c8bac971e25",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Fresh products and fast delivery",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -183874,11 +184094,21 @@
     "title": "",
     "text": "missing the order and very miss behave by their delivery people and even 1 start is far far better for them",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=ebd88971-81c0-464c-81f2-13de7dfcc4f2",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Missing order and misbehavior by delivery people",
+    "ai": {
+      "review_id": "ebd88971-81c0-464c-81f2-13de7dfcc4f2",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Missing order and misbehavior by delivery people",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184130,9 +184360,26 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=0621e698-19cc-4ac1-854f-be43d10f70d5",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Category or product exploration"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (groq): Substandard quality of fruits and vegetables",
+    "ai": {
+      "review_id": "0621e698-19cc-4ac1-854f-be43d10f70d5",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration"
+      ],
+      "segment": "Quality-conscious customer",
+      "categories": [
+        "Fruits",
+        "Vegetables"
+      ],
+      "barrier": "Substandard product quality",
+      "sentiment": "negative",
+      "reason": "Substandard quality of fruits and vegetables",
+      "provider": "groq",
+      "classified_at": "2026-08-13T07:59:53.979Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184158,7 +184405,21 @@
     "matched_themes": [
       "Availability or substitution"
     ],
-    "screening_reason": "Matched: Availability or substitution"
+    "screening_reason": "AI (gemini): The user faced unexpected product unavailability after order placement, which harms purchasing trust.",
+    "ai": {
+      "review_id": "dfea42dd-989a-4f64-81f7-be39484ad149",
+      "relevant": true,
+      "themes": [
+        "Availability or substitution"
+      ],
+      "segment": "Out-of-stock buyer",
+      "categories": [],
+      "barrier": "Post-order stock unavailability",
+      "sentiment": "negative",
+      "reason": "The user faced unexpected product unavailability after order placement, which harms purchasing trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184168,11 +184429,21 @@
     "title": "",
     "text": "no option to cancel the order",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=345ea17e-bc7d-4760-b712-c188aa67cb58",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): The review discusses app order cancellation functionality rather than category discovery or trial.",
+    "ai": {
+      "review_id": "345ea17e-bc7d-4760-b712-c188aa67cb58",
+      "relevant": false,
+      "themes": [],
+      "segment": "Order management",
+      "categories": [],
+      "barrier": "No cancellation option",
+      "sentiment": "negative",
+      "reason": "The review discusses app order cancellation functionality rather than category discovery or trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184434,11 +184705,21 @@
     "title": "",
     "text": "is not available cod fees minimum delivery cod fees",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=649db664-2070-41b3-a8f3-b6e4a40e0417",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): The user complains about payment method fees rather than product or category exploration.",
+    "ai": {
+      "review_id": "649db664-2070-41b3-a8f3-b6e4a40e0417",
+      "relevant": false,
+      "themes": [],
+      "segment": "Payment methods",
+      "categories": [],
+      "barrier": "COD fees and availability",
+      "sentiment": "negative",
+      "reason": "The user complains about payment method fees rather than product or category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184556,11 +184837,21 @@
     "title": "",
     "text": "There was a delivery partner named Ananya; when I called her, she said it would take 10 minutes. Later, she claimed she had called four times and I hadn't answered, but she hadn't actually called me at all. She then said that if I didn't want to pick up the call, I should just cancel the order, as it made no difference to them.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=003df5a7-cd3a-417a-91d4-d6115d7b8a60",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): The complaint focuses on delivery driver interaction rather than product trial or discovery.",
+    "ai": {
+      "review_id": "003df5a7-cd3a-417a-91d4-d6115d7b8a60",
+      "relevant": false,
+      "themes": [],
+      "segment": "Delivery partner conduct",
+      "categories": [],
+      "barrier": "Poor delivery communication",
+      "sentiment": "negative",
+      "reason": "The complaint focuses on delivery driver interaction rather than product trial or discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184632,9 +184923,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=e88c23a8-8d00-4db4-9113-b5eba4dd6460",
     "study_relevant": true,
     "matched_themes": [
-      "Availability or substitution"
+      "Trial confidence"
     ],
-    "screening_reason": "Matched: Availability or substitution"
+    "screening_reason": "AI (gemini): Receiving damaged frozen products directly reduces trust in trying or reordering temperature-sensitive categories.",
+    "ai": {
+      "review_id": "e88c23a8-8d00-4db4-9113-b5eba4dd6460",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Late-night frozen goods buyer",
+      "categories": [
+        "Ice cream & Desserts"
+      ],
+      "barrier": "Melted product quality issue",
+      "sentiment": "negative",
+      "reason": "Receiving damaged frozen products directly reduces trust in trying or reordering temperature-sensitive categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184766,9 +185073,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=8fc45eaa-4467-4cbf-9762-9d77df7f42b8",
     "study_relevant": true,
     "matched_themes": [
+      "Habit or repeat purchase",
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Receiving expired goods undermines customer trust during repeat product purchases.",
+    "ai": {
+      "review_id": "8fc45eaa-4467-4cbf-9762-9d77df7f42b8",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Trial confidence"
+      ],
+      "segment": "Regular convenience shopper",
+      "categories": [],
+      "barrier": "Expired product delivery",
+      "sentiment": "neutral",
+      "reason": "Receiving expired goods undermines customer trust during repeat product purchases.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184862,11 +185185,21 @@
     "title": "",
     "text": "I gave the Blanket app 5 out of 5 stars because it is easy to use, has a clean and user-friendly interface, and helps me manage tasks efficiently. It is reliable, saves time, and makes organizing work simple. Overall, I had a very good experience using the app and would recommend it to others.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=d8eb4402-3e15-40f7-853d-015df46b9928",
-    "study_relevant": true,
-    "matched_themes": [
-      "Discovery or navigation"
-    ],
-    "screening_reason": "Matched: Discovery or navigation"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): This review provides general praise for UI and task organization without discussing product discovery.",
+    "ai": {
+      "review_id": "d8eb4402-3e15-40f7-853d-015df46b9928",
+      "relevant": false,
+      "themes": [],
+      "segment": "App UI reviewer",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "This review provides general praise for UI and task organization without discussing product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184960,11 +185293,21 @@
     "title": "",
     "text": "very bad cod all time not available",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=ccf3e19f-7326-4632-8961-4a0f6f379d0d",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): This review focuses strictly on Cash on Delivery availability rather than product catalog exploration.",
+    "ai": {
+      "review_id": "ccf3e19f-7326-4632-8961-4a0f6f379d0d",
+      "relevant": false,
+      "themes": [],
+      "segment": "Payment methods",
+      "categories": [],
+      "barrier": "COD unavailability",
+      "sentiment": "negative",
+      "reason": "This review focuses strictly on Cash on Delivery availability rather than product catalog exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -184976,10 +185319,27 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=6a1791cc-7920-4daf-b3c0-7ac7e5a33c78",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration",
-      "Availability or substitution"
+      "Availability or substitution",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Category or product exploration; Availability or substitution"
+    "screening_reason": "AI (gemini): Good availability of essential grocery items supports repeat purchasing habits.",
+    "ai": {
+      "review_id": "6a1791cc-7920-4daf-b3c0-7ac7e5a33c78",
+      "relevant": true,
+      "themes": [
+        "Availability or substitution",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Grocery shopper",
+      "categories": [
+        "Grocery & Staples"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Good availability of essential grocery items supports repeat purchasing habits.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -185133,11 +185493,21 @@
     "title": "",
     "text": "good quality",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=6ff71eb2-1ba3-43c2-aa6b-39b67e5b67e4",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): The feedback is too brief and generic to yield insights into product discovery or buying behavior.",
+    "ai": {
+      "review_id": "6ff71eb2-1ba3-43c2-aa6b-39b67e5b67e4",
+      "relevant": false,
+      "themes": [],
+      "segment": "Generic reviewer",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "The feedback is too brief and generic to yield insights into product discovery or buying behavior.",
+      "provider": "gemini",
+      "classified_at": "2026-08-13T08:00:08.833Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -185351,11 +185721,21 @@
     "title": "",
     "text": "this app has become more expensive and the customer support service is also very bad. I am going to uninstall this app. my experience is getting more and more worse.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=92479da8-8e6a-4428-a646-ccd4939def71",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Bad customer support and expensive",
+    "ai": {
+      "review_id": "92479da8-8e6a-4428-a646-ccd4939def71",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Bad customer support and expensive",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -185401,11 +185781,21 @@
     "title": "",
     "text": "Excellent service available",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=ccc462ea-e24a-4ec4-8260-677f2736d498",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Excellent service",
+    "ai": {
+      "review_id": "ccc462ea-e24a-4ec4-8260-677f2736d498",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Excellent service",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -185751,11 +186141,21 @@
     "title": "",
     "text": "I really enjoy reading the daily Astrology predictions.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=9bfbd1f5-0fac-400a-af53-be439b511fbd",
-    "study_relevant": true,
-    "matched_themes": [
-      "Habit or repeat purchase"
-    ],
-    "screening_reason": "Matched: Habit or repeat purchase"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Enjoy daily Astrology predictions",
+    "ai": {
+      "review_id": "9bfbd1f5-0fac-400a-af53-be439b511fbd",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Enjoy daily Astrology predictions",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -186053,11 +186453,21 @@
     "title": "",
     "text": "ismein extra charge bahut jyada le rahe hain Jo price hai use price ke hisab se extra bahut jyada lete Hain ismein bus hi problem hai",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=18e3943b-f6d2-485e-9efd-85088b2056f7",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Extra charges are too high",
+    "ai": {
+      "review_id": "18e3943b-f6d2-485e-9efd-85088b2056f7",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Extra charges are too high",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -186151,11 +186561,21 @@
     "title": "",
     "text": "you need to work on your refund policies, I placed an order which was incomplete.. now that product is out of stock.. there is no similar product.. the customer support said full refund is the only option.. you should add a partial refund or a cash coupon option in these scenarios.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=d9f49903-c753-4e8f-abe5-a939d7cdc8e3",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Refund policies need improvement",
+    "ai": {
+      "review_id": "d9f49903-c753-4e8f-abe5-a939d7cdc8e3",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Refund policies need improvement",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -186179,10 +186599,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=59ed52e8-e7d6-4d1f-b60e-d8ffa83be9d9",
     "study_relevant": true,
     "matched_themes": [
-      "Habit or repeat purchase",
-      "Category or product exploration"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Habit or repeat purchase; Category or product exploration"
+    "screening_reason": "AI (groq): Convenient app for quick delivery",
+    "ai": {
+      "review_id": "59ed52e8-e7d6-4d1f-b60e-d8ffa83be9d9",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Daily grocery shoppers",
+      "categories": [
+        "Grocery"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Convenient app for quick delivery",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -186360,11 +186795,21 @@
     "title": "",
     "text": "Quick delivery 🚚 Also fresh...!!! it's never expired..!!",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=d5014dcb-b58d-44ab-a473-a3ad11605c65",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Quick delivery and fresh products",
+    "ai": {
+      "review_id": "d5014dcb-b58d-44ab-a473-a3ad11605c65",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Quick delivery and fresh products",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -186530,11 +186975,21 @@
     "title": "",
     "text": "i received expired breads two times",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=4883fea2-b83b-4397-aee9-e4293bfd5a41",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Received expired products",
+    "ai": {
+      "review_id": "4883fea2-b83b-4397-aee9-e4293bfd5a41",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Received expired products",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -186748,11 +187203,21 @@
     "title": "",
     "text": "did not let me cancel an order which i placed on accident. fix that",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=4558559d-064d-4916-a076-03d58566c16e",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (groq): Unable to cancel order",
+    "ai": {
+      "review_id": "4558559d-064d-4916-a076-03d58566c16e",
+      "relevant": false,
+      "themes": [],
+      "segment": null,
+      "categories": [],
+      "barrier": null,
+      "sentiment": "negative",
+      "reason": "Unable to cancel order",
+      "provider": "groq",
+      "classified_at": "2026-08-13T08:00:13.974Z"
+    }
   },
   {
     "source": "Google Play (India)",
