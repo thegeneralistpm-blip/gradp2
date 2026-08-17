@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-08-10T07:25:37.996Z",
+  "provider": "gemini",
+  "snapshots_used": [
+    {
+      "snapshot": "2026-07-30T11-03-57-063Z",
+      "records": 1000,
+      "themes": {
+        "Habit or repeat purchase": 19,
+        "Category or product exploration": 31,
+        "Trial confidence": 97,
+        "Availability or substitution": 52,
+        "Discovery or navigation": 22
+      }
+    },
+    {
+      "snapshot": "2026-07-30T11-08-24-428Z",
+      "records": 1500,
+      "themes": {
+        "Habit or repeat purchase": 23,
+        "Category or product exploration": 38,
+        "Trial confidence": 114,
+        "Availability or substitution": 68,
+        "Discovery or navigation": 25
+      }
+    },
+    {
+      "snapshot": "2026-07-30T11-13-50-481Z",
+      "records": 3000,
+      "themes": {
+        "Habit or repeat purchase": 49,
+        "Category or product exploration": 122,
+        "Trial confidence": 351,
+        "Availability or substitution": 191,
+        "Discovery or navigation": 102
+      }
+    },
+    {
+      "snapshot": "2026-08-02T09-07-21-013Z",
+      "records": 20049,
+      "themes": {
+        "Category or product exploration": 199,
+        "Habit or repeat purchase": 237,
+        "Trial confidence": 367,
+        "Availability or substitution": 188,
+        "Discovery or navigation": 66
+      }
+    },
+    {
+      "snapshot": "2026-08-02T09-12-14-787Z",
+      "records": 22500,
+      "themes": {
+        "Category or product exploration": 293,
+        "Trial confidence": 473,
+        "Habit or repeat purchase": 333,
+        "Availability or substitution": 224,
+        "Discovery or navigation": 103
+      }
+    },
+    {
+      "snapshot": "2026-08-10T07-25-25-829Z",
+      "records": 23169,
+      "themes": {
+        "Habit or repeat purchase": 325,
+        "Trial confidence": 707,
+        "Category or product exploration": 347,
+        "Availability or substitution": 335,
+        "Discovery or navigation": 117
+      }
+    },
+    {
+      "snapshot": "current",
+      "records": 23169,
+      "themes": {
+        "Habit or repeat purchase": 325,
+        "Trial confidence": 707,
+        "Category or product exploration": 347,
+        "Availability or substitution": 335,
+        "Discovery or navigation": 117
+      }
+    }
+  ],
+  "analysis": {
+    "data_sufficiency": "adequate",
+    "emerging_themes": [
+      {
+        "theme": "Trial confidence",
+        "direction": "increasing",
+        "evidence": "Proportion of total records increased from 2.10% (473/22,500) on 2026-08-02 to 3.05% (707/23,169) on 2026-08-10 at stable data volumes.",
+        "risk_statement": "Customers may be experiencing heightened hesitation or lack of trust regarding product quality, freshness, or return terms prior to purchasing unfamiliar items.",
+        "recommended_monitor": "Monitor first-time add-to-cart conversion rates and PDP engagement with product badges/reviews."
+      },
+      {
+        "theme": "Availability or substitution",
+        "direction": "increasing",
+        "evidence": "Share of total records rose from 1.00% (224/22,500) on 2026-08-02 to 1.45% (335/23,169) on 2026-08-10.",
+        "risk_statement": "Increased dark store stockouts or poor substitution recommendations may be causing order drops and reducing customer lifetime value.",
+        "recommended_monitor": "Track item stockout frequencies, substitution rejection rates, and search queries returning zero results."
+      },
+      {
+        "theme": "Category or product exploration",
+        "direction": "increasing",
+        "evidence": "Grew modestly from 1.30% (293/22,500) on 2026-08-02 to 1.50% (347/23,169) on 2026-08-10 across two consecutive snapshots.",
+        "risk_statement": "Users browsing broader categories without finding targeted products efficiently may experience search fatigue and drop off before completing checkout.",
+        "recommended_monitor": "Track navigation path depth, category page filter usage, and search conversion efficiency."
+      }
+    ],
+    "new_problem_hypotheses": [
+      "Recent onboarding of new user cohorts from marketing campaigns may be causing an influx of shoppers who require stronger trust cues and quality guarantees (Trial confidence).",
+      "Supply chain bottlenecks or catalog updates across local dark stores may be causing temporary fulfillment deficits for high-demand SKUs (Availability or substitution)."
+    ],
+    "caveat": "Data points from 2026-07-30 represent significantly smaller sample sizes (1,000–3,000 records) undergoing rapid scale-up; percentage trends are most reliable when comparing the stabilized 2026-08-02 and 2026-08-10 snapshots."
+  }
+}

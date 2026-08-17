@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:25:37.996Z",
+  "generated_at": "2026-08-17T06:51:08.647Z",
   "provider": "gemini",
   "snapshots_used": [
     {
@@ -69,14 +69,25 @@
       }
     },
     {
+      "snapshot": "2026-08-17T06-50-56-394Z",
+      "records": 23169,
+      "themes": {
+        "Habit or repeat purchase": 341,
+        "Trial confidence": 753,
+        "Category or product exploration": 364,
+        "Availability or substitution": 321,
+        "Discovery or navigation": 120
+      }
+    },
+    {
       "snapshot": "current",
       "records": 23169,
       "themes": {
-        "Habit or repeat purchase": 325,
-        "Trial confidence": 707,
-        "Category or product exploration": 347,
-        "Availability or substitution": 335,
-        "Discovery or navigation": 117
+        "Habit or repeat purchase": 341,
+        "Trial confidence": 753,
+        "Category or product exploration": 364,
+        "Availability or substitution": 321,
+        "Discovery or navigation": 120
       }
     }
   ],
@@ -86,29 +97,35 @@
       {
         "theme": "Trial confidence",
         "direction": "increasing",
-        "evidence": "Proportion of total records increased from 2.10% (473/22,500) on 2026-08-02 to 3.05% (707/23,169) on 2026-08-10 at stable data volumes.",
-        "risk_statement": "Customers may be experiencing heightened hesitation or lack of trust regarding product quality, freshness, or return terms prior to purchasing unfamiliar items.",
-        "recommended_monitor": "Monitor first-time add-to-cart conversion rates and PDP engagement with product badges/reviews."
-      },
-      {
-        "theme": "Availability or substitution",
-        "direction": "increasing",
-        "evidence": "Share of total records rose from 1.00% (224/22,500) on 2026-08-02 to 1.45% (335/23,169) on 2026-08-10.",
-        "risk_statement": "Increased dark store stockouts or poor substitution recommendations may be causing order drops and reducing customer lifetime value.",
-        "recommended_monitor": "Track item stockout frequencies, substitution rejection rates, and search queries returning zero results."
+        "evidence": "Counts increased consistently from 473 (2.10% of records on 2026-08-02) to 707 (3.05% on 2026-08-10) and 753 (3.25% on 2026-08-17) across stable dataset sizes (~22.5k-23.1k records).",
+        "risk_statement": "Users may be experiencing increased hesitation or requiring higher reassurance (e.g., product details, freshness guarantees, or user reviews) before attempting purchases of unfamiliar or new SKU categories.",
+        "recommended_monitor": "Track conversion rate on first-time product views, PDP add-to-cart conversion for new SKUs, and rate of user inquiries regarding product quality/authenticity."
       },
       {
         "theme": "Category or product exploration",
         "direction": "increasing",
-        "evidence": "Grew modestly from 1.30% (293/22,500) on 2026-08-02 to 1.50% (347/23,169) on 2026-08-10 across two consecutive snapshots.",
-        "risk_statement": "Users browsing broader categories without finding targeted products efficiently may experience search fatigue and drop off before completing checkout.",
-        "recommended_monitor": "Track navigation path depth, category page filter usage, and search conversion efficiency."
+        "evidence": "Volume rose from 293 (1.30% of records on 2026-08-02) to 347 (1.50% on 2026-08-10) and 364 (1.57% on 2026-08-17).",
+        "risk_statement": "Users may be spending more effort browsing without finding relevant items quickly, risking session abandonment if search or category taxonomy fails to match user intent.",
+        "recommended_monitor": "Monitor catalog browse depth per session, zero-result search query rates, and click-through rates on category navigation banners."
+      },
+      {
+        "theme": "Availability or substitution",
+        "direction": "increasing",
+        "evidence": "Shifted upward from 224 (0.99% on 2026-08-02) to 335 (1.45% on 2026-08-10) and remained elevated at 321 (1.39% on 2026-08-17).",
+        "risk_statement": "Out-of-stock events or poor item substitution choices in dark stores may be friction points impacting repeat basket completion.",
+        "recommended_monitor": "Track out-of-stock rates for top 20% high-velocity SKUs and substitution acceptance/rejection rates at checkout."
       }
     ],
     "new_problem_hypotheses": [
-      "Recent onboarding of new user cohorts from marketing campaigns may be causing an influx of shoppers who require stronger trust cues and quality guarantees (Trial confidence).",
-      "Supply chain bottlenecks or catalog updates across local dark stores may be causing temporary fulfillment deficits for high-demand SKUs (Availability or substitution)."
+      {
+        "hypothesis_id": "H1",
+        "statement": "An increase in trial confidence barriers suggests that recent user acquisition or category expansion campaigns are bringing in users who require stronger trust signals (e.g., badge assurances, clear return policies, expiration date disclosures) on non-staple SKUs."
+      },
+      {
+        "hypothesis_id": "H2",
+        "statement": "Elevated availability/substitution feedback following the August 2 baseline indicates localized dark-store stockouts or inventory synchronization delays between micro-fulfillment centers and the consumer app."
+      }
     ],
-    "caveat": "Data points from 2026-07-30 represent significantly smaller sample sizes (1,000–3,000 records) undergoing rapid scale-up; percentage trends are most reliable when comparing the stabilized 2026-08-02 and 2026-08-10 snapshots."
+    "caveat": "Multiple snapshots taken on 2026-07-30 and 2026-08-02 reflect intraday batch processing and data collection build-ups (from 1,000 to 22,500 records) rather than distinct weekly behavioral shifts. Weekly trend comparisons were strictly drawn from finalized snapshot baselines (Aug 2, Aug 10, and Aug 17)."
   }
 }
