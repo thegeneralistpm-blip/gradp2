@@ -1,8 +1,8 @@
 {
-  "screened_at": "2026-08-23T08:39:18.390Z",
+  "screened_at": "2026-08-24T07:36:47.495Z",
   "total_downloaded": 23169,
-  "in_scope_for_category_discovery_analysis": 1228,
-  "excluded_from_themed_analysis": 21941,
+  "in_scope_for_category_discovery_analysis": 1213,
+  "excluded_from_themed_analysis": 21956,
   "exclusion_policy": "Excluded only from the category-discovery analysis when no theme keyword was present. Raw reviews are retained and remain visible.",
   "source_breakdown": {
     "Apple App Store (IN)": {
@@ -167,8 +167,8 @@
     },
     "Google Play (India)": {
       "downloaded": 20000,
-      "in_scope": 808,
-      "excluded": 19192
+      "in_scope": 793,
+      "excluded": 19207
     },
     "Q-Commerce": {
       "downloaded": 239,

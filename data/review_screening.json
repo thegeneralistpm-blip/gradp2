@@ -164530,11 +164530,21 @@
     "title": "",
     "text": "two expensive not recommended kindly shift on instamart",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=c54c434e-f528-41fc-bd79-a538a2782365",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Expresses general dissatisfaction with platform pricing without addressing product discovery or category trial.",
+    "ai": {
+      "review_id": "c54c434e-f528-41fc-bd79-a538a2782365",
+      "relevant": false,
+      "themes": [],
+      "segment": "Price Sensitive",
+      "categories": [],
+      "barrier": "High pricing",
+      "sentiment": "negative",
+      "reason": "Expresses general dissatisfaction with platform pricing without addressing product discovery or category trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -164630,9 +164640,27 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=37ea8d89-1ba3-4f81-9cc0-61e4214ef8bc",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Trial confidence",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Positive feedback on fresh product quality helps build trust and encourages repeat category purchases.",
+    "ai": {
+      "review_id": "37ea8d89-1ba3-4f81-9cc0-61e4214ef8bc",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Fresh Produce / Quality Focused",
+      "categories": [
+        "Fresh Produce"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Positive feedback on fresh product quality helps build trust and encourages repeat category purchases.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165038,11 +165066,21 @@
     "title": "",
     "text": "super 👍 price little less please",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=dd7cb6c0-abf0-4fd2-9d50-27777e3bfc6e",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Contains general praise along with a generic request for lower prices without product specifics.",
+    "ai": {
+      "review_id": "dd7cb6c0-abf0-4fd2-9d50-27777e3bfc6e",
+      "relevant": false,
+      "themes": [],
+      "segment": "General Consumer",
+      "categories": [],
+      "barrier": "High pricing",
+      "sentiment": "positive",
+      "reason": "Contains general praise along with a generic request for lower prices without product specifics.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165100,11 +165138,21 @@
     "title": "",
     "text": "keep good product & price do less",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=2e3fc30d-2e82-40d2-a738-fadcd3f7d4d2",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Gives generic feedback on pricing without providing details on category exploration or product discovery.",
+    "ai": {
+      "review_id": "2e3fc30d-2e82-40d2-a738-fadcd3f7d4d2",
+      "relevant": false,
+      "themes": [],
+      "segment": "General Consumer",
+      "categories": [],
+      "barrier": "High pricing",
+      "sentiment": "negative",
+      "reason": "Gives generic feedback on pricing without providing details on category exploration or product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165116,9 +165164,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=f3b4fd5b-df22-4e74-9de7-77192b6ffaf2",
     "study_relevant": true,
     "matched_themes": [
-      "Availability or substitution"
+      "Trial confidence"
     ],
-    "screening_reason": "Matched: Availability or substitution"
+    "screening_reason": "AI (gemini): Concerns regarding warehouse hygiene directly impact consumer trust and trial confidence in products.",
+    "ai": {
+      "review_id": "f3b4fd5b-df22-4e74-9de7-77192b6ffaf2",
+      "relevant": true,
+      "themes": [
+        "Trial confidence"
+      ],
+      "segment": "Value & Quality Sensitive",
+      "categories": [
+        "General Grocery"
+      ],
+      "barrier": "Perceived warehouse cleanliness issues",
+      "sentiment": "negative",
+      "reason": "Concerns regarding warehouse hygiene directly impact consumer trust and trial confidence in products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165236,11 +165300,21 @@
     "title": "",
     "text": "handling charges 9 rs pr order is too expensive",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=43277937-b916-4626-8ab1-6dac3d3d996b",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses strictly on operational handling fees rather than product or category exploration.",
+    "ai": {
+      "review_id": "43277937-b916-4626-8ab1-6dac3d3d996b",
+      "relevant": false,
+      "themes": [],
+      "segment": "Fee Sensitive",
+      "categories": [],
+      "barrier": "Handling fee",
+      "sentiment": "negative",
+      "reason": "Focuses strictly on operational handling fees rather than product or category exploration.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165348,9 +165422,27 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=afb8479e-34b4-4610-8b86-760457513669",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Category or product exploration",
+      "Availability or substitution"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Limited item selection hinders broad category exploration and product discovery.",
+    "ai": {
+      "review_id": "afb8479e-34b4-4610-8b86-760457513669",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration",
+        "Availability or substitution"
+      ],
+      "segment": "Assortment Sensitive",
+      "categories": [
+        "General Grocery"
+      ],
+      "barrier": "Limited product selection",
+      "sentiment": "negative",
+      "reason": "Limited item selection hinders broad category exploration and product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165420,11 +165512,21 @@
     "title": "",
     "text": "bunch of idiots running the show. My item was not delivered, but they showed it delivered. Now not refunding my money",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=0e4b9b91-650a-4f0e-9a61-2b0a22b7140b",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Complains about non-delivery and refund issues rather than category discovery or selection.",
+    "ai": {
+      "review_id": "0e4b9b91-650a-4f0e-9a61-2b0a22b7140b",
+      "relevant": false,
+      "themes": [],
+      "segment": "Customer Service & Delivery",
+      "categories": [],
+      "barrier": "Non-delivery and refund failure",
+      "sentiment": "negative",
+      "reason": "Complains about non-delivery and refund issues rather than category discovery or selection.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165482,11 +165584,21 @@
     "title": "",
     "text": "Blinkit is very bad, I ordered it but they are not delivering it and also cancelled my order and deducted Rs. 20.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=61dcab71-f5ae-4969-ac61-afd6d55da68f",
-    "study_relevant": true,
-    "matched_themes": [
-      "Availability or substitution"
-    ],
-    "screening_reason": "Matched: Availability or substitution"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Pertains to order cancellation and monetary deductions without touching on product discovery.",
+    "ai": {
+      "review_id": "61dcab71-f5ae-4969-ac61-afd6d55da68f",
+      "relevant": false,
+      "themes": [],
+      "segment": "Order Fulfillment",
+      "categories": [],
+      "barrier": "Order cancellation and penalty fee",
+      "sentiment": "negative",
+      "reason": "Pertains to order cancellation and monetary deductions without touching on product discovery.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165496,11 +165608,21 @@
     "title": "",
     "text": "i rate 1 because of too much delivery charge best suggestion insta mart or big basket",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=0a200e1f-e49c-41b9-9437-706baa6d152d",
-    "study_relevant": true,
-    "matched_themes": [
-      "Discovery or navigation"
-    ],
-    "screening_reason": "Matched: Discovery or navigation"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses exclusively on delivery fees without linking to product exploration or purchasing trust.",
+    "ai": {
+      "review_id": "0a200e1f-e49c-41b9-9437-706baa6d152d",
+      "relevant": false,
+      "themes": [],
+      "segment": "Fee Sensitive",
+      "categories": [],
+      "barrier": "High delivery fees",
+      "sentiment": "negative",
+      "reason": "Focuses exclusively on delivery fees without linking to product exploration or purchasing trust.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:00.305Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165846,11 +165968,21 @@
     "title": "",
     "text": "very useful app superb quality and excellent products delivery boy are so kind and sweet best app",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=a17bed04-1cac-4945-9930-41bfa2451ad3",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Mentions general quality and delivery experience without addressing product discovery or trial.",
+    "ai": {
+      "review_id": "a17bed04-1cac-4945-9930-41bfa2451ad3",
+      "relevant": false,
+      "themes": [],
+      "segment": "General User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Mentions general quality and delivery experience without addressing product discovery or trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -165896,11 +166028,21 @@
     "title": "",
     "text": "bhut acha h time se aa jata h jldi bhi or saaman ki quality bhi achi h",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=33cdc9e6-559c-4433-93c7-8d5bfcedc0cd",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses on delivery speed and product quality generically.",
+    "ai": {
+      "review_id": "33cdc9e6-559c-4433-93c7-8d5bfcedc0cd",
+      "relevant": false,
+      "themes": [],
+      "segment": "General User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Focuses on delivery speed and product quality generically.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166042,11 +166184,21 @@
     "title": "",
     "text": "fastest delivery and quality is good",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=e27d6fa8-38c0-4903-a0cc-5635c15aa223",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Provides brief general feedback on delivery speed and product quality.",
+    "ai": {
+      "review_id": "e27d6fa8-38c0-4903-a0cc-5635c15aa223",
+      "relevant": false,
+      "themes": [],
+      "segment": "General User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Provides brief general feedback on delivery speed and product quality.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166214,9 +166366,27 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=1659eca2-1b67-4cf6-b3a1-5397649bec85",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration"
+      "Category or product exploration",
+      "Trial confidence"
     ],
-    "screening_reason": "Matched: Category or product exploration"
+    "screening_reason": "AI (gemini): Praises the feature enabling doctor connection when ordering medicines.",
+    "ai": {
+      "review_id": "1659eca2-1b67-4cf6-b3a1-5397649bec85",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration",
+        "Trial confidence"
+      ],
+      "segment": "Healthcare Shopper",
+      "categories": [
+        "Medicines"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Praises the feature enabling doctor connection when ordering medicines.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166262,11 +166432,21 @@
     "title": "",
     "text": "quality",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=a88781f4-a0e3-43e2-b683-6529578f3bf4",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Very short generic review stating only quality.",
+    "ai": {
+      "review_id": "a88781f4-a0e3-43e2-b683-6529578f3bf4",
+      "relevant": false,
+      "themes": [],
+      "segment": "General User",
+      "categories": [],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Very short generic review stating only quality.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166276,11 +166456,21 @@
     "title": "",
     "text": "i want say to blinkit store your service is good but please don't any charges are added,just like handing fee.., because other brand no any charges required for example - flipkart minute . that' it'.....",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=6c7663f3-8932-4289-8ba5-98ec92430fb2",
-    "study_relevant": true,
-    "matched_themes": [
-      "Category or product exploration"
-    ],
-    "screening_reason": "Matched: Category or product exploration"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Focuses on fee structure and comparison with competitors rather than category trial.",
+    "ai": {
+      "review_id": "6c7663f3-8932-4289-8ba5-98ec92430fb2",
+      "relevant": false,
+      "themes": [],
+      "segment": "Fee Sensitive User",
+      "categories": [],
+      "barrier": "Extra charges",
+      "sentiment": "neutral",
+      "reason": "Focuses on fee structure and comparison with competitors rather than category trial.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166306,7 +166496,23 @@
     "matched_themes": [
       "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Habit or repeat purchase"
+    "screening_reason": "AI (gemini): Highlights reliance on the app for daily essentials and habit formation.",
+    "ai": {
+      "review_id": "e0c861f9-1e2a-4681-b691-8a0e7ebff742",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Habitual User",
+      "categories": [
+        "Daily Essentials"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Highlights reliance on the app for daily essentials and habit formation.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166549,7 +166755,24 @@
       "Category or product exploration",
       "Trial confidence"
     ],
-    "screening_reason": "Matched: Category or product exploration; Trial confidence"
+    "screening_reason": "AI (gemini): Advises caution when buying electronics due to unclear warranty and after-sales information.",
+    "ai": {
+      "review_id": "3c189532-1f05-40dc-b25b-e65b3d162ca7",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration",
+        "Trial confidence"
+      ],
+      "segment": "High-value Category Buyer",
+      "categories": [
+        "Electronics"
+      ],
+      "barrier": "Unclear warranty and after-sales process",
+      "sentiment": "negative",
+      "reason": "Advises caution when buying electronics due to unclear warranty and after-sales information.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -166643,11 +166866,21 @@
     "title": "",
     "text": "very good app I like to very helpful in every situation but you can set a low price in some product because then from the charges become hight money so",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=59bf0f29-2647-4a44-80e8-cc8d4df8483f",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Gives general feedback on product pricing and additional charges.",
+    "ai": {
+      "review_id": "59bf0f29-2647-4a44-80e8-cc8d4df8483f",
+      "relevant": false,
+      "themes": [],
+      "segment": "Price Sensitive User",
+      "categories": [],
+      "barrier": "High pricing",
+      "sentiment": "positive",
+      "reason": "Gives general feedback on product pricing and additional charges.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -167823,11 +168056,30 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=eca64dd9-5bdc-4837-bc68-19b996a83009",
     "study_relevant": true,
     "matched_themes": [
-      "Habit or repeat purchase",
       "Category or product exploration",
-      "Trial confidence"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Habit or repeat purchase; Category or product exploration; Trial confidence"
+    "screening_reason": "AI (gemini): Details wide selection and convenient repeat ordering across multiple product categories.",
+    "ai": {
+      "review_id": "eca64dd9-5bdc-4837-bc68-19b996a83009",
+      "relevant": true,
+      "themes": [
+        "Category or product exploration",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Multi-category Shopper",
+      "categories": [
+        "Fruits & Vegetables",
+        "Snacks",
+        "Groceries",
+        "Household Essentials"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Details wide selection and convenient repeat ordering across multiple product categories.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:18.440Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -167923,9 +168175,27 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=6e2661c3-4086-4dea-a1c9-27fd2f6b2395",
     "study_relevant": true,
     "matched_themes": [
+      "Trial confidence",
       "Category or product exploration"
     ],
-    "screening_reason": "Matched: Category or product exploration"
+    "screening_reason": "AI (gemini): Customer warns against buying from the electronics category due to lack of return options for faulty products.",
+    "ai": {
+      "review_id": "6e2661c3-4086-4dea-a1c9-27fd2f6b2395",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Category or product exploration"
+      ],
+      "segment": "Electronics Buyer",
+      "categories": [
+        "Electronics"
+      ],
+      "barrier": "No return policy for faulty products",
+      "sentiment": "negative",
+      "reason": "Customer warns against buying from the electronics category due to lack of return options for faulty products.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:42.868Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -167973,9 +168243,28 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=f439466b-c3b1-4c2a-b8f2-e6bdc9032810",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Habit or repeat purchase",
+      "Category or product exploration"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): User praises the app across multiple grocery categories and compares it favorably to competitors.",
+    "ai": {
+      "review_id": "f439466b-c3b1-4c2a-b8f2-e6bdc9032810",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase",
+        "Category or product exploration"
+      ],
+      "segment": "Multi-Category Shopper",
+      "categories": [
+        "Fresh Produce",
+        "Snacks & Biscuits"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "User praises the app across multiple grocery categories and compares it favorably to competitors.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:42.868Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -168021,11 +168310,21 @@
     "title": "",
     "text": "Everything is expensive.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=c72ff943-58d6-40fd-a5be-ee173b73df2f",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): Generic pricing complaint with no mention of specific categories or discovery context.",
+    "ai": {
+      "review_id": "c72ff943-58d6-40fd-a5be-ee173b73df2f",
+      "relevant": false,
+      "themes": [],
+      "segment": "Price-Sensitive Shopper",
+      "categories": [],
+      "barrier": "High prices",
+      "sentiment": "negative",
+      "reason": "Generic pricing complaint with no mention of specific categories or discovery context.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:42.868Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -168575,11 +168874,21 @@
     "title": "",
     "text": "As compared to other online apps, some items are costly now. Let me check the quality process.",
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=7ead083e-3211-4f40-9e67-cfe3e53e93b3",
-    "study_relevant": true,
-    "matched_themes": [
-      "Trial confidence"
-    ],
-    "screening_reason": "Matched: Trial confidence"
+    "study_relevant": false,
+    "matched_themes": [],
+    "screening_reason": "AI (gemini): General complaint about pricing comparison without explicit category or product context.",
+    "ai": {
+      "review_id": "7ead083e-3211-4f40-9e67-cfe3e53e93b3",
+      "relevant": false,
+      "themes": [],
+      "segment": "Price-Sensitive Shopper",
+      "categories": [],
+      "barrier": "Higher pricing than competitors",
+      "sentiment": "negative",
+      "reason": "General complaint about pricing comparison without explicit category or product context.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:42.868Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -168711,9 +169020,25 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=6e8c0121-7150-49c7-aab5-1f93e61e5abf",
     "study_relevant": true,
     "matched_themes": [
-      "Category or product exploration"
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Category or product exploration"
+    "screening_reason": "AI (gemini): Highlights a repeat usage pattern for emergency grocery needs.",
+    "ai": {
+      "review_id": "6e8c0121-7150-49c7-aab5-1f93e61e5abf",
+      "relevant": true,
+      "themes": [
+        "Habit or repeat purchase"
+      ],
+      "segment": "Emergency Shopper",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": null,
+      "sentiment": "positive",
+      "reason": "Highlights a repeat usage pattern for emergency grocery needs.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:42.868Z"
+    }
   },
   {
     "source": "Google Play (India)",
@@ -168857,9 +169182,27 @@
     "url": "https://play.google.com/store/apps/details?id=com.grofers.customerapp&reviewId=88d3be99-2538-4452-85cc-0e38e9edb785",
     "study_relevant": true,
     "matched_themes": [
-      "Trial confidence"
+      "Trial confidence",
+      "Habit or repeat purchase"
     ],
-    "screening_reason": "Matched: Trial confidence"
+    "screening_reason": "AI (gemini): Receiving expired products across multiple orders destroys customer trust and triggers app uninstallation.",
+    "ai": {
+      "review_id": "88d3be99-2538-4452-85cc-0e38e9edb785",
+      "relevant": true,
+      "themes": [
+        "Trial confidence",
+        "Habit or repeat purchase"
+      ],
+      "segment": "Churned Customer",
+      "categories": [
+        "Groceries"
+      ],
+      "barrier": "Expired and damaged goods",
+      "sentiment": "negative",
+      "reason": "Receiving expired products across multiple orders destroys customer trust and triggers app uninstallation.",
+      "provider": "gemini",
+      "classified_at": "2026-08-24T07:36:42.868Z"
+    }
   },
   {
     "source": "Google Play (India)",
