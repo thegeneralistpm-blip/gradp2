@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-08-17T06:51:08.647Z",
+  "provider": "gemini",
+  "snapshots_used": [
+    {
+      "snapshot": "2026-07-30T11-03-57-063Z",
+      "records": 1000,
+      "themes": {
+        "Habit or repeat purchase": 19,
+        "Category or product exploration": 31,
+        "Trial confidence": 97,
+        "Availability or substitution": 52,
+        "Discovery or navigation": 22
+      }
+    },
+    {
+      "snapshot": "2026-07-30T11-08-24-428Z",
+      "records": 1500,
+      "themes": {
+        "Habit or repeat purchase": 23,
+        "Category or product exploration": 38,
+        "Trial confidence": 114,
+        "Availability or substitution": 68,
+        "Discovery or navigation": 25
+      }
+    },
+    {
+      "snapshot": "2026-07-30T11-13-50-481Z",
+      "records": 3000,
+      "themes": {
+        "Habit or repeat purchase": 49,
+        "Category or product exploration": 122,
+        "Trial confidence": 351,
+        "Availability or substitution": 191,
+        "Discovery or navigation": 102
+      }
+    },
+    {
+      "snapshot": "2026-08-02T09-07-21-013Z",
+      "records": 20049,
+      "themes": {
+        "Category or product exploration": 199,
+        "Habit or repeat purchase": 237,
+        "Trial confidence": 367,
+        "Availability or substitution": 188,
+        "Discovery or navigation": 66
+      }
+    },
+    {
+      "snapshot": "2026-08-02T09-12-14-787Z",
+      "records": 22500,
+      "themes": {
+        "Category or product exploration": 293,
+        "Trial confidence": 473,
+        "Habit or repeat purchase": 333,
+        "Availability or substitution": 224,
+        "Discovery or navigation": 103
+      }
+    },
+    {
+      "snapshot": "2026-08-10T07-25-25-829Z",
+      "records": 23169,
+      "themes": {
+        "Habit or repeat purchase": 325,
+        "Trial confidence": 707,
+        "Category or product exploration": 347,
+        "Availability or substitution": 335,
+        "Discovery or navigation": 117
+      }
+    },
+    {
+      "snapshot": "2026-08-17T06-50-56-394Z",
+      "records": 23169,
+      "themes": {
+        "Habit or repeat purchase": 341,
+        "Trial confidence": 753,
+        "Category or product exploration": 364,
+        "Availability or substitution": 321,
+        "Discovery or navigation": 120
+      }
+    },
+    {
+      "snapshot": "current",
+      "records": 23169,
+      "themes": {
+        "Habit or repeat purchase": 341,
+        "Trial confidence": 753,
+        "Category or product exploration": 364,
+        "Availability or substitution": 321,
+        "Discovery or navigation": 120
+      }
+    }
+  ],
+  "analysis": {
+    "data_sufficiency": "adequate",
+    "emerging_themes": [
+      {
+        "theme": "Trial confidence",
+        "direction": "increasing",
+        "evidence": "Counts increased consistently from 473 (2.10% of records on 2026-08-02) to 707 (3.05% on 2026-08-10) and 753 (3.25% on 2026-08-17) across stable dataset sizes (~22.5k-23.1k records).",
+        "risk_statement": "Users may be experiencing increased hesitation or requiring higher reassurance (e.g., product details, freshness guarantees, or user reviews) before attempting purchases of unfamiliar or new SKU categories.",
+        "recommended_monitor": "Track conversion rate on first-time product views, PDP add-to-cart conversion for new SKUs, and rate of user inquiries regarding product quality/authenticity."
+      },
+      {
+        "theme": "Category or product exploration",
+        "direction": "increasing",
+        "evidence": "Volume rose from 293 (1.30% of records on 2026-08-02) to 347 (1.50% on 2026-08-10) and 364 (1.57% on 2026-08-17).",
+        "risk_statement": "Users may be spending more effort browsing without finding relevant items quickly, risking session abandonment if search or category taxonomy fails to match user intent.",
+        "recommended_monitor": "Monitor catalog browse depth per session, zero-result search query rates, and click-through rates on category navigation banners."
+      },
+      {
+        "theme": "Availability or substitution",
+        "direction": "increasing",
+        "evidence": "Shifted upward from 224 (0.99% on 2026-08-02) to 335 (1.45% on 2026-08-10) and remained elevated at 321 (1.39% on 2026-08-17).",
+        "risk_statement": "Out-of-stock events or poor item substitution choices in dark stores may be friction points impacting repeat basket completion.",
+        "recommended_monitor": "Track out-of-stock rates for top 20% high-velocity SKUs and substitution acceptance/rejection rates at checkout."
+      }
+    ],
+    "new_problem_hypotheses": [
+      {
+        "hypothesis_id": "H1",
+        "statement": "An increase in trial confidence barriers suggests that recent user acquisition or category expansion campaigns are bringing in users who require stronger trust signals (e.g., badge assurances, clear return policies, expiration date disclosures) on non-staple SKUs."
+      },
+      {
+        "hypothesis_id": "H2",
+        "statement": "Elevated availability/substitution feedback following the August 2 baseline indicates localized dark-store stockouts or inventory synchronization delays between micro-fulfillment centers and the consumer app."
+      }
+    ],
+    "caveat": "Multiple snapshots taken on 2026-07-30 and 2026-08-02 reflect intraday batch processing and data collection build-ups (from 1,000 to 22,500 records) rather than distinct weekly behavioral shifts. Weekly trend comparisons were strictly drawn from finalized snapshot baselines (Aug 2, Aug 10, and Aug 17)."
+  }
+}

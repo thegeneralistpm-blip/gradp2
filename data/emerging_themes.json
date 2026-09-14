@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:51:08.647Z",
+  "generated_at": "2026-09-14T11:39:47.034Z",
   "provider": "gemini",
   "snapshots_used": [
     {
@@ -80,14 +80,25 @@
       }
     },
     {
+      "snapshot": "2026-09-14T11-39-38-356Z",
+      "records": 23169,
+      "themes": {
+        "Trial confidence": 1099,
+        "Habit or repeat purchase": 237,
+        "Availability or substitution": 604,
+        "Category or product exploration": 377,
+        "Discovery or navigation": 106
+      }
+    },
+    {
       "snapshot": "current",
       "records": 23169,
       "themes": {
-        "Habit or repeat purchase": 341,
-        "Trial confidence": 753,
-        "Category or product exploration": 364,
-        "Availability or substitution": 321,
-        "Discovery or navigation": 120
+        "Trial confidence": 1099,
+        "Habit or repeat purchase": 237,
+        "Availability or substitution": 604,
+        "Category or product exploration": 377,
+        "Discovery or navigation": 106
       }
     }
   ],
@@ -97,35 +108,29 @@
       {
         "theme": "Trial confidence",
         "direction": "increasing",
-        "evidence": "Counts increased consistently from 473 (2.10% of records on 2026-08-02) to 707 (3.05% on 2026-08-10) and 753 (3.25% on 2026-08-17) across stable dataset sizes (~22.5k-23.1k records).",
-        "risk_statement": "Users may be experiencing increased hesitation or requiring higher reassurance (e.g., product details, freshness guarantees, or user reviews) before attempting purchases of unfamiliar or new SKU categories.",
-        "recommended_monitor": "Track conversion rate on first-time product views, PDP add-to-cart conversion for new SKUs, and rate of user inquiries regarding product quality/authenticity."
-      },
-      {
-        "theme": "Category or product exploration",
-        "direction": "increasing",
-        "evidence": "Volume rose from 293 (1.30% of records on 2026-08-02) to 347 (1.50% on 2026-08-10) and 364 (1.57% on 2026-08-17).",
-        "risk_statement": "Users may be spending more effort browsing without finding relevant items quickly, risking session abandonment if search or category taxonomy fails to match user intent.",
-        "recommended_monitor": "Monitor catalog browse depth per session, zero-result search query rates, and click-through rates on category navigation banners."
+        "evidence": "Counts increased consistently from 707 (2026-08-10) to 753 (2026-08-17) and rose significantly to 1099 by 2026-09-14 at a fixed dataset size of 23,169 records.",
+        "risk_statement": "Customers may be experiencing increased hesitancy or requiring higher validation before trying new products or completing initial purchases.",
+        "recommended_monitor": "Track conversion rate on product detail pages for non-repeat items and monitor customer queries regarding product authenticity, freshness guarantees, or delivery timelines."
       },
       {
         "theme": "Availability or substitution",
         "direction": "increasing",
-        "evidence": "Shifted upward from 224 (0.99% on 2026-08-02) to 335 (1.45% on 2026-08-10) and remained elevated at 321 (1.39% on 2026-08-17).",
-        "risk_statement": "Out-of-stock events or poor item substitution choices in dark stores may be friction points impacting repeat basket completion.",
-        "recommended_monitor": "Track out-of-stock rates for top 20% high-velocity SKUs and substitution acceptance/rejection rates at checkout."
+        "evidence": "Counts nearly doubled from 321 (2026-08-17) to 604 (2026-09-14) while total volume analyzed remained constant at 23,169 records.",
+        "risk_statement": "Dark store stockouts or poor substitution recommendations may be causing friction, potentially eroding customer trust during checkout.",
+        "recommended_monitor": "Monitor out-of-stock rates, fill rates across key dark stores, and user acceptance rates of suggested item substitutions."
+      },
+      {
+        "theme": "Habit or repeat purchase",
+        "direction": "decreasing",
+        "evidence": "Counts dropped from 341 (2026-08-17) to 237 (2026-09-14) within identical sample sizes.",
+        "risk_statement": "Repeat customers may be reducing order frequency or encountering friction in reordering daily essentials.",
+        "recommended_monitor": "Track week-over-week repeat order rates, usage of 'Buy Again' navigation entry points, and retention cohorts for core categories."
       }
     ],
     "new_problem_hypotheses": [
-      {
-        "hypothesis_id": "H1",
-        "statement": "An increase in trial confidence barriers suggests that recent user acquisition or category expansion campaigns are bringing in users who require stronger trust signals (e.g., badge assurances, clear return policies, expiration date disclosures) on non-staple SKUs."
-      },
-      {
-        "hypothesis_id": "H2",
-        "statement": "Elevated availability/substitution feedback following the August 2 baseline indicates localized dark-store stockouts or inventory synchronization delays between micro-fulfillment centers and the consumer app."
-      }
+      "Increased availability and substitution issues directly correlate with a drop in habit/repeat purchases as users fail to find their regular SKUs.",
+      "Rising trial confidence issues suggest recent platform changes or product assortment shifts are causing first-time buyers to seek additional reassurance before placing orders."
     ],
-    "caveat": "Multiple snapshots taken on 2026-07-30 and 2026-08-02 reflect intraday batch processing and data collection build-ups (from 1,000 to 22,500 records) rather than distinct weekly behavioral shifts. Weekly trend comparisons were strictly drawn from finalized snapshot baselines (Aug 2, Aug 10, and Aug 17)."
+    "caveat": "Data points prior to 2026-08-10 reflect rapidly changing underlying record counts during pipeline backfills or test periods; trends are derived primarily from the stable snapshots between 2026-08-10 and 2026-09-14."
   }
 }
